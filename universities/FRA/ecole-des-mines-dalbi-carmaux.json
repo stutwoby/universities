@@ -1,0 +1,23 @@
+{
+  "id": "ecole-des-mines-dalbi-carmaux",
+  "name": "IMT Mines Albi-Carmaux",
+  "shortName": "EdMA",
+  "web": "https://mines-albi.fr",
+  "founded": "1993",
+  "approximatePopulaton": 976,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.92316,
+    2.17883
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "FRA",
+  "nearestCity": "Albi, France",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

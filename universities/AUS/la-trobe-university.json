@@ -1,0 +1,23 @@
+{
+  "id": "la-trobe-university",
+  "name": "La Trobe University",
+  "shortName": "La Trobe",
+  "web": "https://latrobe.edu.au",
+  "founded": "1964",
+  "approximatePopulaton": 22303,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -37.72068,
+    145.04844
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Melbourne, VIC",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

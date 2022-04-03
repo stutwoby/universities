@@ -1,0 +1,23 @@
+{
+  "id": "ostrogradskiy-national-university-of-kremenchuk",
+  "name": "Ostrogradskiy National University of Kremenchuk",
+  "shortName": "ONUK",
+  "web": "https://kdu.edu.ua",
+  "founded": "1960",
+  "approximatePopulaton": 4422,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    49.06079,
+    33.41065
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "UKR",
+  "nearestCity": "Kremenchuk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "national-chung-cheng-university",
+  "name": "National Chung Cheng University",
+  "shortName": "CCU",
+  "web": "https://ccu.edu.tw",
+  "founded": "1986",
+  "approximatePopulaton": 10195,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    23.56336,
+    120.47292
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Minxiong, Chiayi County",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

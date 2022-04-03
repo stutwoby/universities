@@ -1,0 +1,23 @@
+{
+  "id": "university-of-alcala",
+  "name": "University of Alcala",
+  "shortName": "UAH",
+  "web": "https://uah.es",
+  "founded": "1977",
+  "approximatePopulaton": 19400,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.48228,
+    -3.36289
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "Alcala de Henares",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

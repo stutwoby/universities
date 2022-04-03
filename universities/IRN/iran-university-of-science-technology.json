@@ -1,0 +1,23 @@
+{
+  "id": "iran-university-of-science-technology",
+  "name": "Iran University of Science & Technology",
+  "shortName": "IUST",
+  "web": "https://iust.ac.ir",
+  "founded": "1929",
+  "approximatePopulaton": 14067,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.74244,
+    51.5023
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRN",
+  "nearestCity": "Tehran",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

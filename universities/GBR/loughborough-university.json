@@ -1,0 +1,23 @@
+{
+  "id": "loughborough-university",
+  "name": "Loughborough University",
+  "shortName": "Lough",
+  "web": "https://lboro.ac.uk",
+  "founded": "1966",
+  "approximatePopulaton": 15990,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.7692,
+    -1.22461
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Loughborough, Leicestershire",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

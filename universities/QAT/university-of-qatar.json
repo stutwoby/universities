@@ -1,0 +1,23 @@
+{
+  "id": "university-of-qatar",
+  "name": "University of Qatar",
+  "shortName": "UQ",
+  "web": "https://qu.edu.qa",
+  "founded": "1973",
+  "approximatePopulaton": 8808,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    25.37729,
+    51.48792
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "QAT",
+  "nearestCity": "Doha",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

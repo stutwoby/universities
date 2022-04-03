@@ -1,0 +1,23 @@
+{
+  "id": "national-taipei-university",
+  "name": "National Taipei University",
+  "shortName": "NTPU",
+  "web": "https://ntpu.edu.tw",
+  "founded": "1949",
+  "approximatePopulaton": 8636,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    24.9452,
+    121.37271
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Sanxia District, New Taipei",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "brown-university",
+  "name": "Brown University",
+  "shortName": "Brown",
+  "web": "https://brown.edu",
+  "founded": "1764",
+  "approximatePopulaton": 9695,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.82682,
+    -71.40262
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Providence, RI",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

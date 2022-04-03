@@ -1,0 +1,23 @@
+{
+  "id": "norwegian-university-of-science-and-technology",
+  "name": "Norwegian University of Science and Technology",
+  "shortName": "NTNU",
+  "web": "https://ntnu.edu",
+  "founded": "1996",
+  "approximatePopulaton": 36050,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    63.41947,
+    10.40211
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "NOR",
+  "nearestCity": "Trondheim",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

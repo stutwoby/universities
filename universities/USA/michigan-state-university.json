@@ -1,0 +1,23 @@
+{
+  "id": "michigan-state-university",
+  "name": "Michigan State University",
+  "shortName": "MSU",
+  "web": "https://msu.edu",
+  "founded": "1855",
+  "approximatePopulaton": 45678,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.7019,
+    -84.48216
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "East Lansing, MI",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

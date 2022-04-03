@@ -1,0 +1,23 @@
+{
+  "id": "university-of-antwerp",
+  "name": "University of Antwerp",
+  "shortName": "UA",
+  "web": "https://uantwerp.be",
+  "founded": "1852",
+  "approximatePopulaton": 15272,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.22281,
+    4.41019
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "BEL",
+  "nearestCity": "Antwerpen",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

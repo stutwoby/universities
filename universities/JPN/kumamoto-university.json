@@ -1,0 +1,23 @@
+{
+  "id": "kumamoto-university",
+  "name": "Kumamoto University",
+  "shortName": "KumU",
+  "web": "https://ekumamoto-u.ac.jp",
+  "founded": "1949",
+  "approximatePopulaton": 10045,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.814,
+    130.72791
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Kumamoto, Fukuoka",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

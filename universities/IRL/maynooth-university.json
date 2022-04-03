@@ -1,0 +1,23 @@
+{
+  "id": "maynooth-university",
+  "name": "Maynooth University",
+  "shortName": "MU",
+  "web": "https://nuim.ie",
+  "founded": "1997",
+  "approximatePopulaton": 10107,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.38355,
+    -6.6006
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRL",
+  "nearestCity": "Maynooth",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

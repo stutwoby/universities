@@ -1,0 +1,23 @@
+{
+  "id": "tehran-university-of-medical-sciences",
+  "name": "Tehran University of Medical Sciences",
+  "shortName": "TUMS",
+  "web": "https://tums.ac.ir ",
+  "founded": "1934",
+  "approximatePopulaton": 11748,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.70587,
+    51.39413
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRN",
+  "nearestCity": "Tehran",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

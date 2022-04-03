@@ -1,0 +1,23 @@
+{
+  "id": "ankara-university",
+  "name": "Ankara University",
+  "shortName": "AU",
+  "web": "https://ankara.edu.tr",
+  "founded": "1946",
+  "approximatePopulaton": 76364,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.93849,
+    32.82658
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUR",
+  "nearestCity": "Ankara",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-tasmania",
+  "name": "University of Tasmania",
+  "shortName": "UTAS",
+  "web": "https://utas.edu.au",
+  "founded": "1890",
+  "approximatePopulaton": 18328,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -42.90351,
+    147.32662
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Hobart, TAS",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

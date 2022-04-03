@@ -1,0 +1,23 @@
+{
+  "id": "university-of-houston",
+  "name": "University of Houston",
+  "shortName": "UH",
+  "web": "https://uh.edu",
+  "founded": "1927",
+  "approximatePopulaton": 46052,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    29.71995,
+    -95.34219
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Houston, TX",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

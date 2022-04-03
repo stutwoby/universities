@@ -1,0 +1,23 @@
+{
+  "id": "can-tho-university",
+  "name": "Can Tho University",
+  "shortName": "CTU / Tho",
+  "web": "https://ctu.edu.vn",
+  "founded": "1966",
+  "approximatePopulaton": 45104,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    10.03088,
+    105.76882
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "VNM",
+  "nearestCity": "Can Tho, Vietnam",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

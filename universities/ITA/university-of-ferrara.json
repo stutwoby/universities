@@ -1,0 +1,23 @@
+{
+  "id": "university-of-ferrara",
+  "name": "University of Ferrara",
+  "shortName": "UNIFE",
+  "web": "https://unife.it",
+  "founded": "1391",
+  "approximatePopulaton": 17025,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    44.83341,
+    11.62614
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ITA",
+  "nearestCity": "Ferrara",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kings-college-london",
+  "name": "King`s College London",
+  "shortName": "King's",
+  "web": "https://kcl.ac.uk",
+  "founded": "1829",
+  "approximatePopulaton": 27425,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.51142,
+    -0.11608
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "London",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

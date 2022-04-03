@@ -1,0 +1,23 @@
+{
+  "id": "creighton-university",
+  "name": "Creighton University",
+  "shortName": "Creighton",
+  "web": "https://creighton.edu",
+  "founded": "1878",
+  "approximatePopulaton": 8430,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.26497,
+    -95.94464
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Omaha, NE",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

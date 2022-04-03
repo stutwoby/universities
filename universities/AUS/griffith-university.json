@@ -1,0 +1,23 @@
+{
+  "id": "griffith-university",
+  "name": "Griffith University",
+  "shortName": "Griffith",
+  "web": "https://griffith.edu.au",
+  "founded": "1971",
+  "approximatePopulaton": 33645,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -27.55378,
+    153.05368
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Gold Coast, Brisbane, Logan, Queensland",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

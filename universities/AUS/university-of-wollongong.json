@@ -1,0 +1,23 @@
+{
+  "id": "university-of-wollongong",
+  "name": "University of Wollongong",
+  "shortName": "UOW",
+  "web": "https://uow.edu.au",
+  "founded": "1975",
+  "approximatePopulaton": 19703,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -34.40541,
+    150.87842
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Wollongong, NSW",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

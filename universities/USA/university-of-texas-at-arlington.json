@@ -1,0 +1,23 @@
+{
+  "id": "university-of-texas-at-arlington",
+  "name": "University of Texas at Arlington",
+  "shortName": "UTA",
+  "web": "https://uta.edu/uta/",
+  "founded": "1895",
+  "approximatePopulaton": 29817,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.73114,
+    -97.11409
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Arlington",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

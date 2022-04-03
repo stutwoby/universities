@@ -1,0 +1,23 @@
+{
+  "id": "aston-university",
+  "name": "Aston University",
+  "shortName": "Aston",
+  "web": "https://aston.ac.uk",
+  "founded": "1895",
+  "approximatePopulaton": 12750,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.48687,
+    -1.88794
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Birmingham, England",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

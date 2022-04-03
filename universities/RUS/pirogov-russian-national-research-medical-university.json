@@ -1,0 +1,23 @@
+{
+  "id": "pirogov-russian-national-research-medical-university",
+  "name": "Pirogov Russian National Research Medical University",
+  "shortName": "RSMU",
+  "web": "https://rsmu.ru",
+  "founded": "1930",
+  "approximatePopulaton": 8225,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.64716,
+    37.49035
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Moscow",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

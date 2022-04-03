@@ -1,0 +1,23 @@
+{
+  "id": "oakland-university",
+  "name": "Oakland University",
+  "shortName": "OU",
+  "web": "https://oakland.edu",
+  "founded": "1957",
+  "approximatePopulaton": 15441,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.67007,
+    -83.20612
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Rochester, MI",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

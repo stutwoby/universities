@@ -1,0 +1,23 @@
+{
+  "id": "university-of-rome-iii",
+  "name": "University of Rome III",
+  "shortName": "Rome Tre",
+  "web": "https://uniroma3.it",
+  "founded": "1992",
+  "approximatePopulaton": 32361,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.86196,
+    12.47964
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ITA",
+  "nearestCity": "Rome",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

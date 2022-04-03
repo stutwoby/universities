@@ -1,0 +1,23 @@
+{
+  "id": "okayama-university",
+  "name": "Okayama University",
+  "shortName": "OkayamaU",
+  "web": "https://okayama-u.ac.jp",
+  "founded": "1922",
+  "approximatePopulaton": 13136,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    34.68736,
+    133.92222
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Okayama, Okayama",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

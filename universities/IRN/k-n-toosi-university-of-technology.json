@@ -1,0 +1,23 @@
+{
+  "id": "k-n-toosi-university-of-technology",
+  "name": "K. N. Toosi University of Technology",
+  "shortName": "FUIW",
+  "web": "https://kntu.ac.ir",
+  "founded": "1928",
+  "approximatePopulaton": 6582,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.76405,
+    51.41253
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRN",
+  "nearestCity": "Tehran",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

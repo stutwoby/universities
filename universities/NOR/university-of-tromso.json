@@ -1,0 +1,23 @@
+{
+  "id": "university-of-tromso",
+  "name": "University of Tromso",
+  "shortName": "UTromso",
+  "web": "https://uit.no",
+  "founded": "1968",
+  "approximatePopulaton": 16475,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    69.67959,
+    18.97127
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "NOR",
+  "nearestCity": "Tromso",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

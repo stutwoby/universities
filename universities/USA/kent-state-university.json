@@ -1,0 +1,23 @@
+{
+  "id": "kent-state-university",
+  "name": "Kent State University",
+  "shortName": "Kent State/ KSU",
+  "web": "https://kent.edu",
+  "founded": "1910",
+  "approximatePopulaton": 23764,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.14905,
+    -81.34143
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Kent, OH",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

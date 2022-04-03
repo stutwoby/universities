@@ -1,0 +1,23 @@
+{
+  "id": "national-taiwan-university",
+  "name": "National Taiwan University",
+  "shortName": "NTU",
+  "web": "https://ntu.edu.tw/english",
+  "founded": "1945",
+  "approximatePopulaton": 24880,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    25.01736,
+    121.53972
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Da'an, Taipei",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

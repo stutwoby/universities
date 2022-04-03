@@ -1,0 +1,23 @@
+{
+  "id": "perm-state-university",
+  "name": "Perm State University",
+  "shortName": "PSU",
+  "web": "https://en.psu.ru",
+  "founded": "1916",
+  "approximatePopulaton": 9274,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    58.00826,
+    56.18807
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Perm",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

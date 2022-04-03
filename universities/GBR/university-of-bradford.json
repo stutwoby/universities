@@ -1,0 +1,23 @@
+{
+  "id": "university-of-bradford",
+  "name": "University of Bradford",
+  "shortName": "Ubradford",
+  "web": "https://bradford.ac.uk",
+  "founded": "1966",
+  "approximatePopulaton": 8490,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.79085,
+    -1.76346
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Bradford, England",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

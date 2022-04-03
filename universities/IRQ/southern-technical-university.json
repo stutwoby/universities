@@ -1,0 +1,23 @@
+{
+  "id": "southern-technical-university",
+  "name": "Southern Technical University",
+  "shortName": "STU",
+  "web": "https://stu.edu.iq",
+  "founded": "2014",
+  "approximatePopulaton": 14240,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    30.45832,
+    47.76777
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Basra",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

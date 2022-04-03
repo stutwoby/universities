@@ -1,0 +1,23 @@
+{
+  "id": "university-of-crete",
+  "name": "University of Crete",
+  "shortName": "UOC",
+  "web": "https://uoc.gr",
+  "founded": "1973",
+  "approximatePopulaton": 13649,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.3073,
+    25.08261
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GRC",
+  "nearestCity": "Rethymnon",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

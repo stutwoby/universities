@@ -1,0 +1,23 @@
+{
+  "id": "university-of-bari",
+  "name": "University of Bari",
+  "shortName": "UNIBA",
+  "web": "https://uniba.it",
+  "founded": "1925",
+  "approximatePopulaton": 43458,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.12057,
+    16.86847
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ITA",
+  "nearestCity": "Bari",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

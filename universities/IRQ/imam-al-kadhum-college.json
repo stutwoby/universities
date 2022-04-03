@@ -1,0 +1,23 @@
+{
+  "id": "imam-al-kadhum-college",
+  "name": "Imam Al-Kadhum College",
+  "shortName": "IKC",
+  "web": "https://alkadhum-col.edu.iq",
+  "founded": "2009",
+  "approximatePopulaton": 28374,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.08809,
+    46.10137
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": " Baghdad, Iraq",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

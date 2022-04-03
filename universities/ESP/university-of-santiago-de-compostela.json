@@ -1,0 +1,23 @@
+{
+  "id": "university-of-santiago-de-compostela",
+  "name": "University of Santiago de Compostela",
+  "shortName": "USC",
+  "web": "https://\\nusc.es",
+  "founded": "1495",
+  "approximatePopulaton": 24968,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.87966,
+    -8.54551
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "Santiago de Compostela, Galicia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

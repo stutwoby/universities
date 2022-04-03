@@ -1,0 +1,23 @@
+{
+  "id": "al-kut-university-college",
+  "name": "Al-Kut University College",
+  "shortName": "AKUC",
+  "web": "https://alkutcollege.edu.iq",
+  "founded": "2012",
+  "approximatePopulaton": 4839,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.51034,
+    45.82179
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Wasit, Iraq",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-maribor",
+  "name": "University of Maribor",
+  "shortName": "UM",
+  "web": "https://um.si",
+  "founded": "1975",
+  "approximatePopulaton": 13337,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    46.55932,
+    15.6434
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "SVN",
+  "nearestCity": "Maribor",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

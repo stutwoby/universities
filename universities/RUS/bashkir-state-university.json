@@ -1,0 +1,23 @@
+{
+  "id": "bashkir-state-university",
+  "name": "Bashkir State University",
+  "shortName": "BSU",
+  "web": "https://bashedu.ru",
+  "founded": "1909",
+  "approximatePopulaton": 9111,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    54.72094,
+    55.93295
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Ufa",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

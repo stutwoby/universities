@@ -1,0 +1,23 @@
+{
+  "id": "university-of-south-florida",
+  "name": "University of South Florida",
+  "shortName": "USF",
+  "web": "https://usf.edu",
+  "founded": "1956",
+  "approximatePopulaton": 34839,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    28.05868,
+    -82.41383
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Tampa, FL",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

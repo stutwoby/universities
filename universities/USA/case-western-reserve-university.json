@@ -1,0 +1,23 @@
+{
+  "id": "case-western-reserve-university",
+  "name": "Case Western Reserve University",
+  "shortName": "Case, / CWRU",
+  "web": "https://case.edu",
+  "founded": "1826",
+  "approximatePopulaton": 10774,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.50429,
+    -81.60841
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Cleveland, OH",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

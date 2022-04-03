@@ -1,0 +1,23 @@
+{
+  "id": "inha-university",
+  "name": "Inha University",
+  "shortName": "IIT",
+  "web": "https://inha.ac.kr",
+  "founded": "1954",
+  "approximatePopulaton": 19467,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    37.4496,
+    126.65314
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KOR",
+  "nearestCity": "Incheon",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

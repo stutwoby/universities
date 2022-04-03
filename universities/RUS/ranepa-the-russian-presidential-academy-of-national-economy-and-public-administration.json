@@ -1,0 +1,23 @@
+{
+  "id": "ranepa-the-russian-presidential-academy-of-national-economy-and-public-administration",
+  "name": "RANEPA, The Russian Presidential Academy of National Economy and Public Administration",
+  "shortName": "RANEPA",
+  "web": "https://ranepa.ru/eng",
+  "founded": "1977",
+  "approximatePopulaton": 15067,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.66732,
+    37.47892
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Moscow",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "korea-advanced-institute-of-science-and-technology-kaist",
+  "name": "Korea Advanced Institute of Science and Technology (KAIST)",
+  "shortName": "KAIST",
+  "web": "https://kaist.edu",
+  "founded": "1971",
+  "approximatePopulaton": 9514,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.36937,
+    127.364
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KOR",
+  "nearestCity": "Yuseong, Daejeon",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

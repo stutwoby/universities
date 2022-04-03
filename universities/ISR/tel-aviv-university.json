@@ -1,0 +1,23 @@
+{
+  "id": "tel-aviv-university",
+  "name": "Tel Aviv University",
+  "shortName": "TAU",
+  "web": "https://tau.ac.il",
+  "founded": "1956",
+  "approximatePopulaton": 22635,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.11334,
+    34.80442
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ISR",
+  "nearestCity": "Tel Aviv",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

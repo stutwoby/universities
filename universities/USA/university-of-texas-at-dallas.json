@@ -1,0 +1,23 @@
+{
+  "id": "university-of-texas-at-dallas",
+  "name": "University of Texas at Dallas",
+  "shortName": "UT Dallas",
+  "web": "https://utdallas.edu",
+  "founded": "1969",
+  "approximatePopulaton": 23587,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.98576,
+    -96.75014
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Richardson, TX",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

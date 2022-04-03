@@ -1,0 +1,23 @@
+{
+  "id": "university-of-baghdad",
+  "name": "University of Baghdad",
+  "shortName": "UB",
+  "web": "https://en.uobaghdad.edu.iq",
+  "founded": "1957",
+  "approximatePopulaton": 70590,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.27397,
+    44.37988
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Baghdad",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

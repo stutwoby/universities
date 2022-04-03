@@ -1,0 +1,23 @@
+{
+  "id": "university-of-hull",
+  "name": "University of Hull",
+  "shortName": "UH",
+  "web": "https://hull.ac.uk",
+  "founded": "1954",
+  "approximatePopulaton": 14000,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.77149,
+    -0.36735
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Kingston upon Hull",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

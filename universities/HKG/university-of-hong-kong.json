@@ -1,0 +1,23 @@
+{
+  "id": "university-of-hong-kong",
+  "name": "University of Hong Kong",
+  "shortName": "HKU",
+  "web": "https://hku.hk",
+  "founded": "1911",
+  "approximatePopulaton": 18135,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    22.28265,
+    114.13717
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "HKG",
+  "nearestCity": "Pokfulam",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

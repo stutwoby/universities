@@ -1,0 +1,23 @@
+{
+  "id": "babes-bolyai-university",
+  "name": "Babes-Bolyai University",
+  "shortName": "UBB",
+  "web": "https://ubbcluj.ro",
+  "founded": "1959",
+  "approximatePopulaton": 38974,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    46.76779,
+    23.59126
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ROU",
+  "nearestCity": "Cluj-Napoca",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

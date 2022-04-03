@@ -1,0 +1,23 @@
+{
+  "id": "umea-university",
+  "name": "Umea University",
+  "shortName": "UMU",
+  "web": "https://umu.se",
+  "founded": "1965",
+  "approximatePopulaton": 17055,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    63.82058,
+    20.30366
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "SWE",
+  "nearestCity": "Umea",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

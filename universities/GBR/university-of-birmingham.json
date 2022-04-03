@@ -1,0 +1,23 @@
+{
+  "id": "university-of-birmingham",
+  "name": "University of Birmingham",
+  "shortName": "Ubirmingham",
+  "web": "https://birmingham.ac.uk",
+  "founded": "1900",
+  "approximatePopulaton": 31390,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.45086,
+    -1.93047
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Birmingham, West Midlands",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

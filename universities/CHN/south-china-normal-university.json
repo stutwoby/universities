@@ -1,0 +1,23 @@
+{
+  "id": "south-china-normal-university",
+  "name": "South China Normal University",
+  "shortName": "SCNU",
+  "web": "https://english.scnu.edu.cn",
+  "founded": "1933",
+  "approximatePopulaton": 31465,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    23.61146,
+    116.74072
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Guangzhou, Guangdong, China",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

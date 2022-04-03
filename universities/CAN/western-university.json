@@ -1,0 +1,23 @@
+{
+  "id": "western-university",
+  "name": "Western University",
+  "shortName": "Western",
+  "web": "https://uwo.ca",
+  "founded": "1878",
+  "approximatePopulaton": 29865,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.00964,
+    -81.27368
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "London, ON ",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chonnam-national-university",
+  "name": "Chonnam National University",
+  "shortName": "CNU",
+  "web": "https://global.jnu.ac.kr",
+  "founded": "1952",
+  "approximatePopulaton": 22835,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.17592,
+    126.90862
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KOR",
+  "nearestCity": "Gwangju, Chonnam (Jeonnam) Province",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

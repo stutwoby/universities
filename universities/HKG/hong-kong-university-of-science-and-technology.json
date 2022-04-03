@@ -1,0 +1,23 @@
+{
+  "id": "hong-kong-university-of-science-and-technology",
+  "name": "Hong Kong University of Science and Technology",
+  "shortName": "HKUST",
+  "web": "https://ust.hk",
+  "founded": "1991",
+  "approximatePopulaton": 9976,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    22.33643,
+    114.26547
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "HKG",
+  "nearestCity": "Clear Water Bay, New Territories",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

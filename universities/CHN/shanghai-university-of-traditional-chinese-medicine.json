@@ -1,0 +1,23 @@
+{
+  "id": "shanghai-university-of-traditional-chinese-medicine",
+  "name": "Shanghai University of Traditional Chinese Medicine",
+  "shortName": "SHUTCM",
+  "web": "https://shutcm.edu.cn",
+  "founded": "1956",
+  "approximatePopulaton": 11757,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    31.18996,
+    121.45083
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Shanghai, China",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "sichuan-university",
+  "name": "Sichuan University",
+  "shortName": "SichuanU",
+  "web": "https://scu.edu.cn",
+  "founded": "1931",
+  "approximatePopulaton": 64707,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    30.64159,
+    104.06415
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Chengdu, Sichuan",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

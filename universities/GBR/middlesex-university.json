@@ -1,0 +1,23 @@
+{
+  "id": "middlesex-university",
+  "name": "Middlesex University",
+  "shortName": "MU",
+  "web": "https://mdx.ac.uk",
+  "founded": "1973",
+  "approximatePopulaton": 16115,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.58978,
+    -0.22827
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "London, Greater London",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

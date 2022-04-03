@@ -1,0 +1,23 @@
+{
+  "id": "national-taiwan-university-of-science-and-technology",
+  "name": "National Taiwan University of Science and Technology",
+  "shortName": "NTUST",
+  "web": "https://ntust.edu.tw",
+  "founded": "1974",
+  "approximatePopulaton": 8528,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    25.01364,
+    121.54069
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Da'an District, Taipei",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "jeonbuk-national-university",
+  "name": "Jeonbuk National University",
+  "shortName": "JBNU",
+  "web": "https://jbnu.ac.kr",
+  "founded": "1947",
+  "approximatePopulaton": 21839,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.8476,
+    127.12943
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KOR",
+  "nearestCity": "Jeonju, Jeollabuk-do, South Korea",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

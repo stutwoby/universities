@@ -1,0 +1,23 @@
+{
+  "id": "nanjing-university-of-science-technology",
+  "name": "Nanjing University of Science & Technology",
+  "shortName": "NUST",
+  "web": "https://njust.edu.cn",
+  "founded": "1953",
+  "approximatePopulaton": 33452,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.03899,
+    118.85463
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Nanjing",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

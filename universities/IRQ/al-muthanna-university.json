@@ -1,0 +1,23 @@
+{
+  "id": "al-muthanna-university",
+  "name": "Al Muthanna University",
+  "shortName": "AlMU",
+  "web": "https://mu.edu.iq",
+  "founded": "2007",
+  "approximatePopulaton": 11436,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    31.33833,
+    45.28986
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Basrah, Iraq",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "american-university-of-beirut",
+  "name": "American University of Beirut",
+  "shortName": "AUB",
+  "web": "https://aub.edu.lb",
+  "founded": "1866",
+  "approximatePopulaton": 8603,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.90162,
+    35.47936
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "LBN",
+  "nearestCity": "Beirut",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

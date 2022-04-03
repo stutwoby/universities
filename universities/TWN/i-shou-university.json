@@ -1,0 +1,23 @@
+{
+  "id": "i-shou-university",
+  "name": "I-Shou University",
+  "shortName": "ISU",
+  "web": "https://isu.edu.tw",
+  "founded": "1990",
+  "approximatePopulaton": 13419,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    22.72715,
+    120.40581
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Dashu District and Yanchao District",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

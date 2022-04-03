@@ -1,0 +1,23 @@
+{
+  "id": "national-autonomous-university-of-mexico",
+  "name": "National Autonomous University of Mexico",
+  "shortName": "UNAM",
+  "web": "https://unam.mx",
+  "founded": "1910",
+  "approximatePopulaton": 166368,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    19.3193,
+    -99.18447
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "MEX",
+  "nearestCity": "Mexico City",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "imperial-college-london",
+  "name": "Imperial College London",
+  "shortName": "ICL",
+  "web": "https://imperial.ac.uk",
+  "founded": "1907",
+  "approximatePopulaton": 17050,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.49878,
+    -0.17486
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "London",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

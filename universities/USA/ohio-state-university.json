@@ -1,0 +1,23 @@
+{
+  "id": "ohio-state-university",
+  "name": "Ohio State University",
+  "shortName": "OSU",
+  "web": "https://osu.edu",
+  "founded": "1870",
+  "approximatePopulaton": 54650,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.01422,
+    -83.03069
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Columbus, OH",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

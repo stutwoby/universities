@@ -1,0 +1,23 @@
+{
+  "id": "stanford-university",
+  "name": "Stanford University",
+  "shortName": "Stanford",
+  "web": "https://stanford.edu",
+  "founded": "1891",
+  "approximatePopulaton": 16223,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    37.42741,
+    -122.16975
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Stanford, CA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

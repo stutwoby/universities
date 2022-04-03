@@ -1,0 +1,23 @@
+{
+  "id": "university-of-valencia",
+  "name": "University of Valencia",
+  "shortName": "UV",
+  "web": "https://uv.es",
+  "founded": "1499",
+  "approximatePopulaton": 49822,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.47933,
+    -0.35936
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "Valencia, Valencian Community",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

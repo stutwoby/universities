@@ -1,0 +1,23 @@
+{
+  "id": "university-of-ulm",
+  "name": "University of Ulm",
+  "shortName": "Ulm University ",
+  "web": "https://uni-ulm.de",
+  "founded": "1967",
+  "approximatePopulaton": 10503,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    48.42225,
+    9.9556
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Ulm",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

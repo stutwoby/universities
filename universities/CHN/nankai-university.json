@@ -1,0 +1,23 @@
+{
+  "id": "nankai-university",
+  "name": "Nankai University",
+  "shortName": "NU",
+  "web": "https://nankai.edu.cn",
+  "founded": "1919",
+  "approximatePopulaton": 29500,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.10504,
+    117.17418
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "China",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

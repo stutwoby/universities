@@ -1,0 +1,23 @@
+{
+  "id": "vrije-universiteit-brussels-vub",
+  "name": "Vrije Universiteit Brussels (VUB)",
+  "shortName": "VUB",
+  "web": "https://vub.ac.be",
+  "founded": "1969",
+  "approximatePopulaton": 11371,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    50.82152,
+    4.39504
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "BEL",
+  "nearestCity": "Brussels",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

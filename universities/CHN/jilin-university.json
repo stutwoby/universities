@@ -1,0 +1,23 @@
+{
+  "id": "jilin-university",
+  "name": "Jilin University",
+  "shortName": "JU",
+  "web": "https://jlu.edu.cn",
+  "founded": "1946",
+  "approximatePopulaton": 71593,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.8737,
+    125.34869
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Changchun, Jilin",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "washington-university-in-st-louis",
+  "name": "Washington University in St. Louis",
+  "shortName": "Wash. U. / WUSTL",
+  "web": "https://\\nwustl.edu",
+  "founded": "1853",
+  "approximatePopulaton": 13984,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    38.64879,
+    -90.31074
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "St. Louis, MO",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "florida-international-university",
+  "name": "Florida International University",
+  "shortName": "FIU",
+  "web": "https://fiu.edu",
+  "founded": "1965",
+  "approximatePopulaton": 33974,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    25.7564,
+    -80.37391
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "University Park, FL",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

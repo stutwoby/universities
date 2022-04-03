@@ -1,0 +1,23 @@
+{
+  "id": "kemerovo-state-university",
+  "name": "Kemerovo State University",
+  "shortName": "KemSU",
+  "web": "https://kemsu.ru",
+  "founded": "1953",
+  "approximatePopulaton": 11629,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.35184,
+    86.0925
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Kemerovo Oblast, Russia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

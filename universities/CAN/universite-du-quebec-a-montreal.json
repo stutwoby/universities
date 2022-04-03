@@ -1,0 +1,23 @@
+{
+  "id": "universite-du-quebec-a-montreal",
+  "name": "Universite du Quebec a Montreal",
+  "shortName": "UQAM",
+  "web": "https://uqam.ca",
+  "founded": "1969",
+  "approximatePopulaton": 32990,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.51255,
+    -73.56059
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Montreal, QC",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

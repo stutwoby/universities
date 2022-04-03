@@ -1,0 +1,23 @@
+{
+  "id": "shanghai-university",
+  "name": "Shanghai University",
+  "shortName": "SHU / Shangda",
+  "web": "https://shu.edu.cn",
+  "founded": "1994",
+  "approximatePopulaton": 37395,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    31.31484,
+    121.3929
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Shanghai",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

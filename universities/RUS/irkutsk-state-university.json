@@ -1,0 +1,23 @@
+{
+  "id": "irkutsk-state-university",
+  "name": "Irkutsk State University",
+  "shortName": "ISU",
+  "web": "https://isu.ru",
+  "founded": "1918",
+  "approximatePopulaton": 12577,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.27659,
+    104.27779
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Irkutsk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

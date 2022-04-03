@@ -1,0 +1,23 @@
+{
+  "id": "northwestern-university",
+  "name": "Northwestern University",
+  "shortName": "NU",
+  "web": "https://northwestern.edu",
+  "founded": "1851",
+  "approximatePopulaton": 17951,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.05646,
+    -87.67523
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Evanston, IL",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "aristotle-university-of-thessaloniki",
+  "name": "Aristotle University of Thessaloniki",
+  "shortName": "AUTh",
+  "web": "https://auth.gr",
+  "founded": "1925",
+  "approximatePopulaton": 47133,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.63086,
+    22.95918
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GRC",
+  "nearestCity": "Thessaloniki",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-bremen",
+  "name": "University of Bremen",
+  "shortName": "UB",
+  "web": "https://uni-bremen.de",
+  "founded": "1971",
+  "approximatePopulaton": 18843,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.10667,
+    8.85213
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Bremen, Free Hanseatic City of Bremen",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

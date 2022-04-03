@@ -1,0 +1,23 @@
+{
+  "id": "togliatti-state-university",
+  "name": "Togliatti State University",
+  "shortName": "TSU",
+  "web": "https://tltsu.ru",
+  "founded": "1951",
+  "approximatePopulaton": 13899,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.50126,
+    49.39787
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Togliatti, Russia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

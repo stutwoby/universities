@@ -1,0 +1,23 @@
+{
+  "id": "pompeu-fabra-university",
+  "name": "Pompeu Fabra University",
+  "shortName": "UPF",
+  "web": "https://upf.edu",
+  "founded": "1990",
+  "approximatePopulaton": 11914,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.37887,
+    2.17995
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "Barcelona, Catalonia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

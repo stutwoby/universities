@@ -1,0 +1,23 @@
+{
+  "id": "ruprecht-karl-university-of-heidelberg",
+  "name": "Ruprecht Karl University of Heidelberg",
+  "shortName": "Ruperto Carola",
+  "web": "https://uni-heidelberg.de",
+  "founded": "1386",
+  "approximatePopulaton": 20020,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    49.41915,
+    8.67027
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Heidelberg, Baden-Wurttembergy",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

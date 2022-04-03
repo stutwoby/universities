@@ -1,0 +1,23 @@
+{
+  "id": "concordia-university",
+  "name": "Concordia University",
+  "shortName": "Concordia",
+  "web": "https://concordia.ca",
+  "founded": "1974",
+  "approximatePopulaton": 34710,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.49725,
+    -73.57899
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Montreal, QC",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

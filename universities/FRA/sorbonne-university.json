@@ -1,0 +1,23 @@
+{
+  "id": "sorbonne-university",
+  "name": "Sorbonne University",
+  "shortName": "UPMC / Paris 6",
+  "web": "https://upmc.fr",
+  "founded": "1971",
+  "approximatePopulaton": 43585,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    48.84709,
+    2.35754
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "FRA",
+  "nearestCity": "Paris",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

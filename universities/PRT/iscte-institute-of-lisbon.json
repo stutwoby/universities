@@ -1,0 +1,23 @@
+{
+  "id": "iscte-institute-of-lisbon",
+  "name": "ISCTE – University Institute of Lisbon",
+  "shortName": "ISCTE-IUL",
+  "web": "https://iscte-iul.pt",
+  "founded": "1972",
+  "approximatePopulaton": 8868,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    38.74782,
+    -9.15346
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "PRT",
+  "nearestCity": "Lisbon",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

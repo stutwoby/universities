@@ -1,0 +1,23 @@
+{
+  "id": "school-of-oriental-and-african-studies",
+  "name": "School of Oriental and African Studies",
+  "shortName": "SOAS",
+  "web": "https://soas.ac.uk",
+  "founded": "1916",
+  "approximatePopulaton": 5150,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.52235,
+    -0.12926
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "London",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

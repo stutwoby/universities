@@ -1,0 +1,23 @@
+{
+  "id": "hokkaido-university",
+  "name": "Hokkaido University",
+  "shortName": "HU",
+  "web": "https://hokudai.ac.jp",
+  "founded": "1876",
+  "approximatePopulaton": 18483,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.07794,
+    141.34001
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Sapporo, Hokkaido",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-southern-queensland",
+  "name": "University of Southern Queensland",
+  "shortName": "USQ",
+  "web": "https://usq.edu.au/",
+  "founded": "1967",
+  "approximatePopulaton": 12117,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -27.61037,
+    151.92295
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": " Toowoomba",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

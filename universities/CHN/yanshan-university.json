@@ -1,0 +1,23 @@
+{
+  "id": "yanshan-university",
+  "name": "Yanshan University",
+  "shortName": "YSU",
+  "web": "https://ysu.edu.cn",
+  "founded": "1920",
+  "approximatePopulaton": 35554,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.90477,
+    119.5397
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Qinhuangdao, Hebei",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

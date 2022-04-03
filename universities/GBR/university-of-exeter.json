@@ -1,0 +1,23 @@
+{
+  "id": "university-of-exeter",
+  "name": "University of Exeter",
+  "shortName": "Exon",
+  "web": "https://exeter.ac.uk",
+  "founded": "1955",
+  "approximatePopulaton": 22435,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    50.73716,
+    -3.53517
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Exeter, England",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

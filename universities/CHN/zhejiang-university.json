@@ -1,0 +1,23 @@
+{
+  "id": "zhejiang-university",
+  "name": "Zhejiang University",
+  "shortName": "ZJU",
+  "web": "https://zju.edu.cn/english",
+  "founded": "1897",
+  "approximatePopulaton": 36825,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    30.26357,
+    120.12344
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Hangzhou, Zhejiang",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

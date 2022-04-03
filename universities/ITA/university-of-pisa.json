@@ -1,0 +1,23 @@
+{
+  "id": "university-of-pisa",
+  "name": "University of Pisa",
+  "shortName": "UNIPI",
+  "web": "https://unipi.it",
+  "founded": "1343",
+  "approximatePopulaton": 32974,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.7167,
+    10.39887
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ITA",
+  "nearestCity": "Pisa",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

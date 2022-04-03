@@ -1,0 +1,23 @@
+{
+  "id": "university-of-california-berkeley",
+  "name": "University of California, Berkeley",
+  "shortName": "Berkeley",
+  "web": "https://berkeley.edu",
+  "founded": "1868",
+  "approximatePopulaton": 39918,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    37.8719,
+    -122.25854
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Berkeley, CA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

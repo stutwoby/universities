@@ -1,0 +1,23 @@
+{
+  "id": "yamagata-university",
+  "name": "Yamagata University",
+  "shortName": "YU, Yamadai",
+  "web": "https://yamagata-u.ac.jp",
+  "founded": "1878",
+  "approximatePopulaton": 8905,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    38.24661,
+    140.34937
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Yamagata, Yonezawa, and Tsuruoka",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

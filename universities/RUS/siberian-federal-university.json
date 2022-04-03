@@ -1,0 +1,23 @@
+{
+  "id": "siberian-federal-university",
+  "name": "Siberian Federal University",
+  "shortName": "SFU",
+  "web": "https://sfu-kras.ru",
+  "founded": "2006",
+  "approximatePopulaton": 20993,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    56.00435,
+    92.77175
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Krasnoyarsk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

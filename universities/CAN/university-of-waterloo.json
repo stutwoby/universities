@@ -1,0 +1,23 @@
+{
+  "id": "university-of-waterloo",
+  "name": "University of Waterloo",
+  "shortName": "UW ",
+  "web": "https://uwaterloo.ca",
+  "founded": "1956",
+  "approximatePopulaton": 32804,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.4723,
+    -80.54486
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Waterloo, ON ",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

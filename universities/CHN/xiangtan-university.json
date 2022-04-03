@@ -1,0 +1,23 @@
+{
+  "id": "xiangtan-university",
+  "name": "Xiangtan University",
+  "shortName": "XTU",
+  "web": "https://xtu.edu.cn",
+  "founded": "1958",
+  "approximatePopulaton": 31340,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    27.88397,
+    112.8659
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Xiangtan, Hunan",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

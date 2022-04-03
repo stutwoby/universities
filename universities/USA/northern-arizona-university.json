@@ -1,0 +1,23 @@
+{
+  "id": "northern-arizona-university",
+  "name": "Northern Arizona University",
+  "shortName": "NAU",
+  "web": "https://nau.edu",
+  "founded": "2016",
+  "approximatePopulaton": 30222,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.18313,
+    -111.65495
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Flagstaff",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

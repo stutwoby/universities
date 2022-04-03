@@ -1,0 +1,23 @@
+{
+  "id": "far-eastern-federal-university",
+  "name": "Far Eastern Federal University",
+  "shortName": "FEFU",
+  "web": "https://dvfu.ru/en",
+  "founded": "1899",
+  "approximatePopulaton": 15750,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.11732,
+    131.89263
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Vladivostok",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

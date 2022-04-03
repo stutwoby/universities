@@ -1,0 +1,23 @@
+{
+  "id": "university-of-florida",
+  "name": "University of Florida",
+  "shortName": "Florida / UF",
+  "web": "https://ufl.edu",
+  "founded": "1853",
+  "approximatePopulaton": 46632,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    29.64367,
+    -82.35489
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Gainesville, FL",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

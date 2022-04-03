@@ -1,0 +1,23 @@
+{
+  "id": "northeast-normal-university-china",
+  "name": "Northeast Normal University (China)",
+  "shortName": "NENU",
+  "web": "https://nenu.edu.cn",
+  "founded": "1946",
+  "approximatePopulaton": 26862,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.85922,
+    125.32569
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Changchun",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

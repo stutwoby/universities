@@ -1,0 +1,23 @@
+{
+  "id": "osaka-university",
+  "name": "Osaka University",
+  "shortName": "OsakaU",
+  "web": "https://osaka-u.ac.jp",
+  "founded": "1931",
+  "approximatePopulaton": 22867,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    34.822,
+    135.52447
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Suita, Osaka",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

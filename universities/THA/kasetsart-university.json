@@ -1,0 +1,23 @@
+{
+  "id": "kasetsart-university",
+  "name": "Kasetsart University",
+  "shortName": "KU",
+  "web": "https://ku.ac.th",
+  "founded": "1943",
+  "approximatePopulaton": 67668,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    13.84705,
+    100.5718
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "THA",
+  "nearestCity": "Bang Khen, Bangkok",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

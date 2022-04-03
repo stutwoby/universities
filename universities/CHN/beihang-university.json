@@ -1,0 +1,23 @@
+{
+  "id": "beihang-university",
+  "name": "Beihang University",
+  "shortName": "BUAA",
+  "web": "https://buaa.edu.cn",
+  "founded": "1952",
+  "approximatePopulaton": 30172,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.98091,
+    116.34729
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Beijing",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

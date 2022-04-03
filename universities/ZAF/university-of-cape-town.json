@@ -1,0 +1,23 @@
+{
+  "id": "university-of-cape-town",
+  "name": "University of Cape Town",
+  "shortName": "UCT",
+  "web": "https://uct.ac.za",
+  "founded": "1829",
+  "approximatePopulaton": 21647,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -33.95767,
+    18.4612
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ZAF",
+  "nearestCity": "Cape Town, Western Cape",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

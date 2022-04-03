@@ -1,0 +1,23 @@
+{
+  "id": "ivane-javakhishvili-tbilisi-state-university",
+  "name": "Ivane Javakhishvili Tbilisi State University",
+  "shortName": "TSU",
+  "web": "https://tsu.ge",
+  "founded": "1918",
+  "approximatePopulaton": 20319,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.71001,
+    44.77796
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GEO",
+  "nearestCity": "Tbilisi",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

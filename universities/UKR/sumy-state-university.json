@@ -1,0 +1,23 @@
+{
+  "id": "sumy-state-university",
+  "name": "Sumy State University",
+  "shortName": "SSU",
+  "web": "https://sumdu.edu.ua",
+  "founded": "1948",
+  "approximatePopulaton": 8911,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    50.89109,
+    34.84092
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "UKR",
+  "nearestCity": "Sumy",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

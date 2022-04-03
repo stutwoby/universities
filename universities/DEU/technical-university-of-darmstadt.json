@@ -1,0 +1,23 @@
+{
+  "id": "technical-university-of-darmstadt",
+  "name": "Technical University of Darmstadt",
+  "shortName": "TU Darmstadt",
+  "web": "https://www.tu-darmstadt.de/index.en.jsp",
+  "founded": "1877",
+  "approximatePopulaton": 17814,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    49.87508,
+    8.65691
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Darmstadt, Hessen",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

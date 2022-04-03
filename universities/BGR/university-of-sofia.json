@@ -1,0 +1,23 @@
+{
+  "id": "university-of-sofia",
+  "name": "University of Sofia",
+  "shortName": "No information",
+  "web": "https://uni-sofia.bg/",
+  "founded": "1888",
+  "approximatePopulaton": 21735,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.69349,
+    23.33476
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "BGR",
+  "nearestCity": "Sofia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

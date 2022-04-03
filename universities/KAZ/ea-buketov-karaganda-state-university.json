@@ -1,0 +1,23 @@
+{
+  "id": "ea-buketov-karaganda-state-university",
+  "name": "EA Buketov Karaganda State University",
+  "shortName": "KSU",
+  "web": "https://e.ksu.kz",
+  "founded": "1972",
+  "approximatePopulaton": 9902,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    49.77094,
+    73.12589
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KAZ",
+  "nearestCity": "Karagandy",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

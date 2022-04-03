@@ -1,0 +1,23 @@
+{
+  "id": "peter-the-great-st-petersburg-polytechnic-university",
+  "name": "Peter the Great St. Petersburg Polytechnic University",
+  "shortName": "SPbSTU",
+  "web": "https://spbstu.ru",
+  "founded": "1899",
+  "approximatePopulaton": 16768,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    60.00736,
+    30.37286
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "St.Petersburg",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

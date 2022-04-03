@@ -1,0 +1,23 @@
+{
+  "id": "reshetnev-siberian-state-university-of-science-and-technology",
+  "name": "Reshetnev Siberian State University of Science and Technology",
+  "shortName": "Reshetnev University",
+  "web": "https://sibsau.ru",
+  "founded": "1960",
+  "approximatePopulaton": 12727,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    56.01185,
+    92.9738
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Krasnoyarsk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "tufts-university",
+  "name": "Tufts University",
+  "shortName": "Tufts",
+  "web": "https://tufts.edu",
+  "founded": "1852",
+  "approximatePopulaton": 11024,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.40748,
+    -71.11901
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Medford, MA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

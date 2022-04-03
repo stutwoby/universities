@@ -1,0 +1,23 @@
+{
+  "id": "university-of-manchester",
+  "name": "University of Manchester",
+  "shortName": "UoM",
+  "web": "https://manchester.ac.uk",
+  "founded": "1824",
+  "approximatePopulaton": 37575,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.46688,
+    -2.23386
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Manchester, England",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

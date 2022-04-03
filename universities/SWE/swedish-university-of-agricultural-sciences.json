@@ -1,0 +1,23 @@
+{
+  "id": "swedish-university-of-agricultural-sciences",
+  "name": "Swedish University of Agricultural Sciences",
+  "shortName": "SLU",
+  "web": "https://slu.se",
+  "founded": "1977",
+  "approximatePopulaton": 3720,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    59.81497,
+    17.66287
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "SWE",
+  "nearestCity": "Uppsala, Alnarp, Skara, Umea",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "wuhan-university-of-science-technology",
+  "name": "Wuhan University of Science & Technology",
+  "shortName": "WUT",
+  "web": "https://wust.edu.cn",
+  "founded": "1898",
+  "approximatePopulaton": 29639,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    30.44086,
+    114.26724
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Wuhan",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

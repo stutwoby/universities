@@ -1,0 +1,23 @@
+{
+  "id": "rice-university",
+  "name": "Rice University",
+  "shortName": "Rice",
+  "web": "https://rice.edu",
+  "founded": "1912",
+  "approximatePopulaton": 6805,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    29.7174,
+    -95.40185
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Houston, TX",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

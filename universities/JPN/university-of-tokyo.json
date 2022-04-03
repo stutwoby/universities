@@ -1,0 +1,23 @@
+{
+  "id": "university-of-tokyo",
+  "name": "University of Tokyo",
+  "shortName": "Utokyo",
+  "web": "https://u-tokyo.ac.jp",
+  "founded": "1877",
+  "approximatePopulaton": 25935,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.71263,
+    139.76203
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Tokyo",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-politechica-of-bucharest",
+  "name": "University Politechica of Bucharest",
+  "shortName": "UPB",
+  "web": "https://upb.ro",
+  "founded": "1818",
+  "approximatePopulaton": 29526,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    44.44044,
+    26.05082
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ROU",
+  "nearestCity": "Bucharest",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

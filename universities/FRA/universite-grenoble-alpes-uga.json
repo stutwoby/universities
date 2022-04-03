@@ -1,0 +1,23 @@
+{
+  "id": "universite-grenoble-alpes-uga",
+  "name": "Universite Grenoble Alpes (UGA)",
+  "shortName": "UGA",
+  "web": "https://univ-grenoble-alpes.fr",
+  "founded": "1339",
+  "approximatePopulaton": 40486,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.1914,
+    5.76729
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "FRA",
+  "nearestCity": "Grenoble",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

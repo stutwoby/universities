@@ -1,0 +1,23 @@
+{
+  "id": "north-dakota-state-university",
+  "name": "North Dakota State University",
+  "shortName": "NDSU",
+  "web": "https://ndsu.edu",
+  "founded": "1890",
+  "approximatePopulaton": 12731,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    46.89775,
+    -96.80244
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Fargo, ND",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

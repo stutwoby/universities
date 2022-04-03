@@ -1,0 +1,23 @@
+{
+  "id": "comenius-university-in-bratislava",
+  "name": "Comenius University in Bratislava",
+  "shortName": "CU",
+  "web": "https://uniba.sk",
+  "founded": "1919",
+  "approximatePopulaton": 21141,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    48.14112,
+    17.11549
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "SVK",
+  "nearestCity": "Bratislava",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

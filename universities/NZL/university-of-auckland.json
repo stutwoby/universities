@@ -1,0 +1,23 @@
+{
+  "id": "university-of-auckland",
+  "name": "University of Auckland",
+  "shortName": "UOA",
+  "web": "https://auckland.ac.nz",
+  "founded": "1883",
+  "approximatePopulaton": 32596,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -36.85237,
+    174.76903
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "NZL",
+  "nearestCity": "Auckland",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

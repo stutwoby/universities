@@ -1,0 +1,23 @@
+{
+  "id": "king-mongkuts-institute-of-technology-ladkrabang",
+  "name": "King Mongkut`s Institute of Technology Ladkrabang",
+  "shortName": "KMITL",
+  "web": "https://kmitl.ac.th",
+  "founded": "1960",
+  "approximatePopulaton": 25154,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    13.72981,
+    100.77908
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "THA",
+  "nearestCity": "Bangkok",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

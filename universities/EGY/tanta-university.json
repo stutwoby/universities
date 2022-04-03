@@ -1,0 +1,23 @@
+{
+  "id": "tanta-university",
+  "name": "Tanta University",
+  "shortName": "TU",
+  "web": "https://tanta.edu.eg",
+  "founded": "1972",
+  "approximatePopulaton": 115169,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    30.79347,
+    30.9991
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "EGY",
+  "nearestCity": "Tanta, Gharbia, Egypt",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

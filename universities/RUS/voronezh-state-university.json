@@ -1,0 +1,23 @@
+{
+  "id": "voronezh-state-university",
+  "name": "Voronezh State University",
+  "shortName": "VSU",
+  "web": "https://vsu.ru",
+  "founded": "1918",
+  "approximatePopulaton": 16823,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.65662,
+    39.20606
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Voronezh",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

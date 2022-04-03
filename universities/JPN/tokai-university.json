@@ -1,0 +1,23 @@
+{
+  "id": "tokai-university",
+  "name": "Tokai University",
+  "shortName": "UT",
+  "web": "https://u-tokai.ac.jp",
+  "founded": "1942",
+  "approximatePopulaton": 29644,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.66543,
+    139.68443
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Tokyo, Japan",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

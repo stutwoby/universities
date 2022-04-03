@@ -1,0 +1,23 @@
+{
+  "id": "pennsylvania-state-university",
+  "name": "Pennsylvania State University",
+  "shortName": "PSU",
+  "web": "https://psu.edu",
+  "founded": "1855",
+  "approximatePopulaton": 46682,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.79821,
+    -77.85995
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "State College, PA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

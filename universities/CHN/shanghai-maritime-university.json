@@ -1,0 +1,23 @@
+{
+  "id": "shanghai-maritime-university",
+  "name": "Shanghai Maritime University",
+  "shortName": "SMU",
+  "web": "https://shmtu.edu.cn",
+  "founded": "1909",
+  "approximatePopulaton": 21959,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    30.87529,
+    121.90532
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Pudong, Shanghai, China",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

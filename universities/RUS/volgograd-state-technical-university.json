@@ -1,0 +1,23 @@
+{
+  "id": "volgograd-state-technical-university",
+  "name": "Volgograd State Technical University",
+  "shortName": "VSTU",
+  "web": "https://vstu.ru",
+  "founded": "1930",
+  "approximatePopulaton": 14162,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    48.80603,
+    44.60615
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Volgograd,",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

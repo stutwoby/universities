@@ -1,0 +1,23 @@
+{
+  "id": "suleyman-demirel-university-kazakhstan",
+  "name": "Suleyman Demirel University - Kazakhstan",
+  "shortName": "SDU",
+  "web": "https://sdu.edu.kz",
+  "founded": "1996",
+  "approximatePopulaton": 4088,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.20867,
+    76.66888
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KAZ",
+  "nearestCity": "Almaty",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

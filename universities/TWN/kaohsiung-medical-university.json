@@ -1,0 +1,23 @@
+{
+  "id": "kaohsiung-medical-university",
+  "name": "Kaohsiung Medical University",
+  "shortName": "KMU",
+  "web": "https://kmu.edu.tw",
+  "founded": "1954",
+  "approximatePopulaton": 6802,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    22.64738,
+    120.30976
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Sanmin",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

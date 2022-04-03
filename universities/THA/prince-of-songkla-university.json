@@ -1,0 +1,23 @@
+{
+  "id": "prince-of-songkla-university",
+  "name": "Prince of Songkla University",
+  "shortName": "PSU",
+  "web": "https://psu.ac.th",
+  "founded": "1967",
+  "approximatePopulaton": 37788,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    7.00626,
+    100.49863
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "THA",
+  "nearestCity": "Hat Yai, Songkhla",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

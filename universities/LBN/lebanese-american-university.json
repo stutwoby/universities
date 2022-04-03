@@ -1,0 +1,23 @@
+{
+  "id": "lebanese-american-university",
+  "name": "Lebanese American University",
+  "shortName": "LAU",
+  "web": "https://lau.edu.lb",
+  "founded": "1835",
+  "approximatePopulaton": 7861,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.8929,
+    35.47784
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "LBN",
+  "nearestCity": "Beirut and Byblos",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

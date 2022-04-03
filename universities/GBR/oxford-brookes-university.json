@@ -1,0 +1,23 @@
+{
+  "id": "oxford-brookes-university",
+  "name": "Oxford Brookes University",
+  "shortName": "OBU",
+  "web": "https://brookes.ac.uk",
+  "founded": "1992",
+  "approximatePopulaton": 14930,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.75499,
+    -1.22427
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Oxford, England",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

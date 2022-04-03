@@ -1,0 +1,23 @@
+{
+  "id": "brunel-university",
+  "name": "Brunel University",
+  "shortName": "Brunel",
+  "web": "https://brunel.ac.uk",
+  "founded": "1966",
+  "approximatePopulaton": 12610,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.53327,
+    -0.46922
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Uxbridge, Middlesex",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

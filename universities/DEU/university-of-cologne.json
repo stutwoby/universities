@@ -1,0 +1,23 @@
+{
+  "id": "university-of-cologne",
+  "name": "University of Cologne",
+  "shortName": "U Cologne",
+  "web": "https://uni-koeln.de",
+  "founded": "1919",
+  "approximatePopulaton": 36965,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    50.92809,
+    6.92873
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Cologne, NRW",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

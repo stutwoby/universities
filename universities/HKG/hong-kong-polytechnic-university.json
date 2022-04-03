@@ -1,0 +1,23 @@
+{
+  "id": "hong-kong-polytechnic-university",
+  "name": "Hong Kong Polytechnic University",
+  "shortName": "PolyU",
+  "web": "https://polyu.edu.hk",
+  "founded": "1994",
+  "approximatePopulaton": 22778,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    22.3028,
+    114.17846
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "HKG",
+  "nearestCity": "Hung Hom, Kowloon",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

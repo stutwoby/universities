@@ -1,0 +1,23 @@
+{
+  "id": "chang-gung-university",
+  "name": "Chang Gung University",
+  "shortName": "CGU",
+  "web": "https://cgu.edu.tw",
+  "founded": "1997",
+  "approximatePopulaton": 7358,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    25.03076,
+    121.38964
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Gueishan, Taoyuan",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-greenwich",
+  "name": "University of Greenwich",
+  "shortName": "UG",
+  "web": "https://gre.ac.uk",
+  "founded": "1890",
+  "approximatePopulaton": 15480,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.48266,
+    -0.00696
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "London",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

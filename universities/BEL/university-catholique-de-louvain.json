@@ -1,0 +1,23 @@
+{
+  "id": "university-catholique-de-louvain",
+  "name": "University Catholique de Louvain",
+  "shortName": "UCL",
+  "web": "https://uclouvain.be",
+  "founded": "1425",
+  "approximatePopulaton": 26462,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    50.66968,
+    4.61564
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "BEL",
+  "nearestCity": "Louvain-la-Neuve",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

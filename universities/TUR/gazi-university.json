@@ -1,0 +1,23 @@
+{
+  "id": "gazi-university",
+  "name": "Gazi University",
+  "shortName": "GU",
+  "web": "https://gazi.edu.tr",
+  "founded": "1926",
+  "approximatePopulaton": 43518,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.94203,
+    32.82295
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUR",
+  "nearestCity": "Ankara",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "nanyang-technological-university",
+  "name": "Nanyang Technological University",
+  "shortName": "NTU",
+  "web": "https://ntu.edu.sg",
+  "founded": "1991",
+  "approximatePopulaton": 23902,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    1.34837,
+    103.68313
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "SGP",
+  "nearestCity": "Nanyang Avenue",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

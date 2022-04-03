@@ -1,0 +1,23 @@
+{
+  "id": "university-of-hawaii",
+  "name": "University of Hawaii",
+  "shortName": "U.H.",
+  "web": "https://hawaii.edu",
+  "founded": "1907",
+  "approximatePopulaton": 14873,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    21.2992,
+    -157.8172
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Hawaii",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

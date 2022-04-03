@@ -1,0 +1,23 @@
+{
+  "id": "mississippi-state-university",
+  "name": "Mississippi State University",
+  "shortName": "MSU",
+  "web": "https://msstate.edu",
+  "founded": "1878",
+  "approximatePopulaton": 21007,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.45517,
+    -88.79435
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Starkville, MS",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

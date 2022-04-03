@@ -1,0 +1,23 @@
+{
+  "id": "university-of-tabriz",
+  "name": "University of Tabriz",
+  "shortName": "UT",
+  "web": "https://tabrizu.ac.ir",
+  "founded": "1947",
+  "approximatePopulaton": 12444,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    38.06379,
+    46.32923
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRN",
+  "nearestCity": "Tabriz, Iran",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

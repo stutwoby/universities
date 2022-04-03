@@ -1,0 +1,23 @@
+{
+  "id": "democritus-university-of-thrace",
+  "name": "Democritus University of Thrace",
+  "shortName": "DUTH",
+  "web": "https://duth.gr",
+  "founded": "1973",
+  "approximatePopulaton": 30414,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.14372,
+    24.88937
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GRC",
+  "nearestCity": "Xanthi, Komotini, Alexandroupoli, Orestiada, Greece",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

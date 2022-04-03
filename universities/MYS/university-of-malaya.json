@@ -1,0 +1,23 @@
+{
+  "id": "university-of-malaya",
+  "name": "University of Malaya",
+  "shortName": "UM",
+  "web": "https://um.edu.my",
+  "founded": "1962",
+  "approximatePopulaton": 15794,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    3.12008,
+    101.65457
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "MYS",
+  "nearestCity": "Kuala Lumpur",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

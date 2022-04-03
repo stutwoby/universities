@@ -1,0 +1,23 @@
+{
+  "id": "mari-state-university",
+  "name": "Mari State University",
+  "shortName": "MSU",
+  "web": "https://marsu.ru",
+  "founded": "1972",
+  "approximatePopulaton": 8262,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    56.63205,
+    47.88957
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Yoshkar Ola, Russia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

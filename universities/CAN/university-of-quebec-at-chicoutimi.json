@@ -1,0 +1,23 @@
+{
+  "id": "university-of-quebec-at-chicoutimi",
+  "name": "University of Quebec at Chicoutimi",
+  "shortName": "UQAC",
+  "web": "https://uqac.ca",
+  "founded": "1969",
+  "approximatePopulaton": 5155,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    48.41915,
+    -71.05263
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Quebec",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

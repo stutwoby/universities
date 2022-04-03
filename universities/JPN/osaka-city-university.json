@@ -1,0 +1,23 @@
+{
+  "id": "osaka-city-university",
+  "name": "Osaka City University",
+  "shortName": "OCU",
+  "web": "https://osaka-cu.ac.jp/en",
+  "founded": "1880",
+  "approximatePopulaton": 8019,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    34.59063,
+    135.50507
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Osaka, Osaka",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

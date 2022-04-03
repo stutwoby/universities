@@ -1,0 +1,23 @@
+{
+  "id": "national-university-of-ostroh-academy",
+  "name": "National University of Ostroh Academy",
+  "shortName": "NUOA",
+  "web": "https://oa.edu.ua",
+  "founded": "1576",
+  "approximatePopulaton": 2973,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    50.32929,
+    26.51268
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "UKR",
+  "nearestCity": "Ostroh",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

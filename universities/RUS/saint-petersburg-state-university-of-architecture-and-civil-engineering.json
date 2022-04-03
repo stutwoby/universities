@@ -1,0 +1,23 @@
+{
+  "id": "saint-petersburg-state-university-of-architecture-and-civil-engineering",
+  "name": "Saint Petersburg State University of Architecture and Civil Engineering",
+  "shortName": "SPbGASU",
+  "web": "https://spbgasu.ru",
+  "founded": "1832",
+  "approximatePopulaton": 11357,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    59.91507,
+    30.3164
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "St Petersburg",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

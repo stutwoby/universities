@@ -1,0 +1,23 @@
+{
+  "id": "university-of-the-thai-chamber-of-commerce",
+  "name": "University of the Thai Chamber of Commerce",
+  "shortName": "UTCC",
+  "web": "https://utcc.ac.th",
+  "founded": "1940",
+  "approximatePopulaton": 18757,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    13.7812,
+    100.56023
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "THA",
+  "nearestCity": "Thailand ",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

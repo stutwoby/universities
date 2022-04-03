@@ -1,0 +1,23 @@
+{
+  "id": "renmin-university-of-china",
+  "name": "Renmin University of China",
+  "shortName": "RUC",
+  "web": "https://ruc.edu.cn/en",
+  "founded": "1937",
+  "approximatePopulaton": 27134,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.96961,
+    116.31884
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Beijing",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

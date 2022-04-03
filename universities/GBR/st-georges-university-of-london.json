@@ -1,0 +1,23 @@
+{
+  "id": "st-georges-university-of-london",
+  "name": "St George`s University of London",
+  "shortName": "St George's",
+  "web": "https://sgul.ac.uk",
+  "founded": "1733",
+  "approximatePopulaton": 3475,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.42717,
+    -0.1745
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "London, England",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

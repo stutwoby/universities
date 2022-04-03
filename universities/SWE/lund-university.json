@@ -1,0 +1,23 @@
+{
+  "id": "lund-university",
+  "name": "Lund University",
+  "shortName": "LU (Sweden)",
+  "web": "https://lunduniversity.lu.se",
+  "founded": "1666",
+  "approximatePopulaton": 27443,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.71194,
+    13.20349
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "SWE",
+  "nearestCity": "Lund, Scania",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

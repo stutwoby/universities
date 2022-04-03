@@ -1,0 +1,23 @@
+{
+  "id": "university-of-lodz",
+  "name": "University of Lodz",
+  "shortName": "UL",
+  "web": "https://uni.lodz.pl",
+  "founded": "1945",
+  "approximatePopulaton": 24758,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.77206,
+    19.47402
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "POL",
+  "nearestCity": "Lodz",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

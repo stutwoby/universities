@@ -1,0 +1,23 @@
+{
+  "id": "omsk-state-university",
+  "name": "Omsk State University",
+  "shortName": "OMSU",
+  "web": "https://omsu.ru",
+  "founded": "1974",
+  "approximatePopulaton": 7074,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.02847,
+    73.26517
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Omsk, Russia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

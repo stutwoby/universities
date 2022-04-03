@@ -1,0 +1,23 @@
+{
+  "id": "university-of-connecticut",
+  "name": "University of Connecticut",
+  "shortName": "Uconn",
+  "web": "https://uconn.edu",
+  "founded": "1881",
+  "approximatePopulaton": 27996,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.80772,
+    -72.254
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Storrs, CT",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

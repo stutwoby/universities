@@ -1,0 +1,23 @@
+{
+  "id": "don-state-technical-university",
+  "name": "Don State Technical University",
+  "shortName": "DSTU",
+  "web": "https://donstu.ru",
+  "founded": "1930",
+  "approximatePopulaton": 26567,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    47.23732,
+    39.7121
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Rostov-on-Don",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

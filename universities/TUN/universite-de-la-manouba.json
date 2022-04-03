@@ -1,0 +1,23 @@
+{
+  "id": "universite-de-la-manouba",
+  "name": "Universite de la Manouba",
+  "shortName": "UM",
+  "web": "https://uma.rnu.tn",
+  "founded": "2000",
+  "approximatePopulaton": 16894,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.81665,
+    10.06191
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUN",
+  "nearestCity": "Manouba",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "old-dominion-university",
+  "name": "Old Dominion University",
+  "shortName": "ODU",
+  "web": "https://odu.edu",
+  "founded": "1930",
+  "approximatePopulaton": 19237,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.88555,
+    -76.30678
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Norfolk, VA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

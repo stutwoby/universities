@@ -1,0 +1,23 @@
+{
+  "id": "worcester-polytechnic-institute",
+  "name": "Worcester Polytechnic Institute",
+  "shortName": "WPI",
+  "web": "https://wpi.edu",
+  "founded": "1865",
+  "approximatePopulaton": 5761,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.27464,
+    -71.80634
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Worcester, Massachusetts",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

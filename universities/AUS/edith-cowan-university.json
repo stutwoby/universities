@@ -1,0 +1,23 @@
+{
+  "id": "edith-cowan-university",
+  "name": "Edith Cowan University",
+  "shortName": "ECU",
+  "web": "https://ecu.edu.au",
+  "founded": "1982",
+  "approximatePopulaton": 17756,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -31.75253,
+    115.7732
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Perth, WA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

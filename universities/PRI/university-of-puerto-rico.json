@@ -1,0 +1,23 @@
+{
+  "id": "university-of-puerto-rico",
+  "name": "University of Puerto Rico",
+  "shortName": "UPR",
+  "web": "https://upr.edu",
+  "founded": "1903",
+  "approximatePopulaton": 43680,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    18.40449,
+    -66.04978
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "PRI",
+  "nearestCity": "San Juan",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

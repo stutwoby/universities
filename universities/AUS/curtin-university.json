@@ -1,0 +1,23 @@
+{
+  "id": "curtin-university",
+  "name": "Curtin University",
+  "shortName": "CUT",
+  "web": "https://curtin.edu.au",
+  "founded": "1986",
+  "approximatePopulaton": 30130,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -32.00625,
+    115.8945
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Bentley, WA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

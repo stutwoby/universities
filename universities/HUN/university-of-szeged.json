@@ -1,0 +1,23 @@
+{
+  "id": "university-of-szeged",
+  "name": "University of Szeged",
+  "shortName": "SZTE",
+  "web": "https://u-szeged.hu",
+  "founded": "1921",
+  "approximatePopulaton": 18859,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    46.24971,
+    20.1459
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "HUN",
+  "nearestCity": "Szeged",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

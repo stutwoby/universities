@@ -1,0 +1,23 @@
+{
+  "id": "istanbul-medipol-university",
+  "name": "Istanbul Medipol University",
+  "shortName": "IMU",
+  "web": "https://medipol.edu.tr",
+  "founded": "2009",
+  "approximatePopulaton": 30456,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.0216,
+    28.95893
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUR",
+  "nearestCity": "Unkapanı",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-tehran",
+  "name": "University of Tehran",
+  "shortName": "UT",
+  "web": "https://ut.ac.ir/",
+  "founded": "1934",
+  "approximatePopulaton": 44960,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.70225,
+    51.39571
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRN",
+  "nearestCity": "Tehran",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

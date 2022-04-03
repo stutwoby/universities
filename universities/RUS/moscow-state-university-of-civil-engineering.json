@@ -1,0 +1,23 @@
+{
+  "id": "moscow-state-university-of-civil-engineering",
+  "name": "Moscow State University of Civil Engineering",
+  "shortName": "MSUCI",
+  "web": "https://mgsu.ru",
+  "founded": "1921",
+  "approximatePopulaton": 9466,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.85798,
+    37.6916
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Moscow, Russia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "basrah-university-college-of-science-and-technology",
+  "name": "Basrah University College of Science and Technology",
+  "shortName": "BUSCT",
+  "web": "https://basrah-college.edu.iq",
+  "founded": "2015",
+  "approximatePopulaton": 471,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    30.51623,
+    47.83903
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Basrah, Iraq",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

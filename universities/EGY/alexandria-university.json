@@ -1,0 +1,23 @@
+{
+  "id": "alexandria-university",
+  "name": "Alexandria University",
+  "shortName": "ALEXU",
+  "web": "https://alexu.edu.eg ",
+  "founded": "1938",
+  "approximatePopulaton": 187170,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    31.21046,
+    29.91321
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "EGY",
+  "nearestCity": "Alexandria",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

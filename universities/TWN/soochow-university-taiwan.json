@@ -1,0 +1,23 @@
+{
+  "id": "soochow-university-taiwan",
+  "name": "Soochow University (Taiwan)",
+  "shortName": "SCU",
+  "web": "https://scu.edu.tw",
+  "founded": "1900",
+  "approximatePopulaton": 15665,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    25.09122,
+    121.58431
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Shihlin",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

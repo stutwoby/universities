@@ -1,0 +1,23 @@
+{
+  "id": "east-china-university-of-science-and-technology",
+  "name": "East China University of Science and Technology",
+  "shortName": "ECUST",
+  "web": "https://ecust.edu.cn",
+  "founded": "1952",
+  "approximatePopulaton": 25985,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    31.14086,
+    121.42517
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Xuhui District, Shanghai",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

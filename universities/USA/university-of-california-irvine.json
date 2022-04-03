@@ -1,0 +1,23 @@
+{
+  "id": "university-of-california-irvine",
+  "name": "University of California, Irvine",
+  "shortName": "UC Irvine",
+  "web": "https://uci.edu",
+  "founded": "1965",
+  "approximatePopulaton": 35040,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.6405,
+    -117.8443
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Irvine, CA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

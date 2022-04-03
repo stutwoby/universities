@@ -1,0 +1,23 @@
+{
+  "id": "huazhong-university-of-science-and-technology",
+  "name": "Huazhong University of Science and Technology",
+  "shortName": "HUST",
+  "web": "https://english.hust.edu.cn",
+  "founded": "1953",
+  "approximatePopulaton": 56941,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    30.50787,
+    114.41369
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Wuhan, Hubei",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

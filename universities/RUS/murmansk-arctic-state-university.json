@@ -1,0 +1,23 @@
+{
+  "id": "murmansk-arctic-state-university",
+  "name": "Murmansk Arctic State University",
+  "shortName": "MASU",
+  "web": "https://masu.edu.ru",
+  "founded": "1939",
+  "approximatePopulaton": 3700,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    68.9658,
+    33.07752
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Murmansk, Russia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

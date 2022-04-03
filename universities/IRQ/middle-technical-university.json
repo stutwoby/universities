@@ -1,0 +1,23 @@
+{
+  "id": "middle-technical-university",
+  "name": "Middle Technical University",
+  "shortName": "MTU",
+  "web": "https://mtu.edu.iq",
+  "founded": "2014",
+  "approximatePopulaton": 41201,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.27167,
+    44.48138
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Baghdad",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "bauman-moscow-state-technical-university",
+  "name": "Bauman Moscow State Technical University",
+  "shortName": "BMSTU",
+  "web": "https://bmstu.ru/en",
+  "founded": "1830",
+  "approximatePopulaton": 19501,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.76591,
+    37.68558
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Moscow",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

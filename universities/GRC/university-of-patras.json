@@ -1,0 +1,23 @@
+{
+  "id": "university-of-patras",
+  "name": "University of Patras",
+  "shortName": "No information",
+  "web": "https://upatras.gr",
+  "founded": "1964",
+  "approximatePopulaton": 25636,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    38.28921,
+    21.78537
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GRC",
+  "nearestCity": "Patras",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

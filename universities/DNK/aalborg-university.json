@@ -1,0 +1,23 @@
+{
+  "id": "aalborg-university",
+  "name": "Aalborg University",
+  "shortName": "AAU",
+  "web": "https://en.aau.dk",
+  "founded": "1974",
+  "approximatePopulaton": 16227,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    57.01458,
+    9.98191
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DNK",
+  "nearestCity": "Aalborg",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

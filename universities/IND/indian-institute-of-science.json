@@ -1,0 +1,23 @@
+{
+  "id": "indian-institute-of-science",
+  "name": "Indian Institute of Science",
+  "shortName": "IISc",
+  "web": "https://iisc.ac.in",
+  "founded": "1909",
+  "approximatePopulaton": 4038,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    13.02186,
+    77.56714
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IND",
+  "nearestCity": "Bengaluru",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

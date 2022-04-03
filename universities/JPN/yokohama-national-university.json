@@ -1,0 +1,23 @@
+{
+  "id": "yokohama-national-university",
+  "name": "Yokohama National University",
+  "shortName": "Yokokoku",
+  "web": "https://ynu.ac.jp",
+  "founded": "1876",
+  "approximatePopulaton": 10120,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.47466,
+    139.58816
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Yokohama, Kanagawa",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

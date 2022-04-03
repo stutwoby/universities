@@ -1,0 +1,23 @@
+{
+  "id": "university-of-basrah",
+  "name": "University of Basrah",
+  "shortName": "UBr",
+  "web": "https://uobasrah.edu.iq",
+  "founded": "1964",
+  "approximatePopulaton": 30690,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    30.52168,
+    47.84144
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Basra",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

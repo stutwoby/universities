@@ -1,0 +1,23 @@
+{
+  "id": "central-south-university",
+  "name": "Central South University",
+  "shortName": "CSU",
+  "web": "https://csu.edu.cn",
+  "founded": "2000",
+  "approximatePopulaton": 53277,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    28.16431,
+    112.9325
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Changsha",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "khon-kaen-university",
+  "name": "Khon Kaen University",
+  "shortName": "KKU",
+  "web": "https://kku.ac.th",
+  "founded": "1966",
+  "approximatePopulaton": 33738,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    16.47758,
+    102.82307
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "THA",
+  "nearestCity": "Khon Kaen",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

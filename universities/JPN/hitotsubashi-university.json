@@ -1,0 +1,23 @@
+{
+  "id": "hitotsubashi-university",
+  "name": "Hitotsubashi University",
+  "shortName": "N/A",
+  "web": "https://hit-u.ac.jp",
+  "founded": "1875",
+  "approximatePopulaton": 6261,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.69438,
+    139.44548
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Kunitachi, Tokyo",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

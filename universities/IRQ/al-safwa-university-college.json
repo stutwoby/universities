@@ -1,0 +1,23 @@
+{
+  "id": "al-safwa-university-college",
+  "name": "Al-Safwa University College",
+  "shortName": "ASUC",
+  "web": "https://alsafwa.edu.iq/en/",
+  "founded": "2013",
+  "approximatePopulaton": 3538,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.6238,
+    44.00664
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Karbala, Iraq",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

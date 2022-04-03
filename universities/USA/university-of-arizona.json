@@ -1,0 +1,23 @@
+{
+  "id": "university-of-arizona",
+  "name": "University of Arizona",
+  "shortName": "U Arizona",
+  "web": "https://arizona.edu",
+  "founded": "1885",
+  "approximatePopulaton": 39635,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.23188,
+    -110.95009
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Tucson, AZ",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

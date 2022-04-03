@@ -1,0 +1,23 @@
+{
+  "id": "yangzhou-university",
+  "name": "Yangzhou University",
+  "shortName": "YZU",
+  "web": "https://yzu.edu.cn",
+  "founded": "1902",
+  "approximatePopulaton": 33876,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.39921,
+    119.38984
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Yangzhou",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

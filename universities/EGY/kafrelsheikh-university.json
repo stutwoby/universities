@@ -1,0 +1,23 @@
+{
+  "id": "kafrelsheikh-university",
+  "name": "Kafrelsheikh University",
+  "shortName": "KU",
+  "web": "https://kfs.edu.eg",
+  "founded": "2006",
+  "approximatePopulaton": 74546,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    31.09828,
+    30.94893
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "EGY",
+  "nearestCity": "Kafr Elsheikh",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

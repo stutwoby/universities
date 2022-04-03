@@ -1,0 +1,23 @@
+{
+  "id": "ryazan-state-medical-university",
+  "name": "Ryazan State Medical University",
+  "shortName": "RSMU",
+  "web": "https://rzgmu.ru",
+  "founded": "1943",
+  "approximatePopulaton": 5812,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    54.60666,
+    39.73581
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Ryazan",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

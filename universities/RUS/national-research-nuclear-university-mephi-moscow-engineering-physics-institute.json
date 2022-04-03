@@ -1,0 +1,23 @@
+{
+  "id": "national-research-nuclear-university-mephi-moscow-engineering-physics-institute",
+  "name": "National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)",
+  "shortName": "MEPHI",
+  "web": "https://mephi.ru/eng",
+  "founded": "1942",
+  "approximatePopulaton": 5797,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.64959,
+    37.66384
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Moscow",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

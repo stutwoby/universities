@@ -1,0 +1,23 @@
+{
+  "id": "immanuel-kant-baltic-federal-university",
+  "name": "Immanuel Kant Baltic Federal University",
+  "shortName": "IKBFU",
+  "web": "https://kantiana.ru",
+  "founded": "1947",
+  "approximatePopulaton": 7282,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    54.72427,
+    20.52746
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Kaliningrad",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "harbin-institute-of-technology",
+  "name": "Harbin Institute of Technology",
+  "shortName": "HIT",
+  "web": "https://en.hit.edu.cn",
+  "founded": "1920",
+  "approximatePopulaton": 31513,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.74708,
+    126.63346
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Harbin, Heilongjiang",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

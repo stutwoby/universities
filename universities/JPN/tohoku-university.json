@@ -1,0 +1,23 @@
+{
+  "id": "tohoku-university",
+  "name": "Tohoku University",
+  "shortName": "TohokuU",
+  "web": "https://tohoku.ac.jp",
+  "founded": "1907",
+  "approximatePopulaton": 17752,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    38.25382,
+    140.87409
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Sendai, Miyagi",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

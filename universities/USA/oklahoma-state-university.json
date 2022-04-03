@@ -1,0 +1,23 @@
+{
+  "id": "oklahoma-state-university",
+  "name": "Oklahoma State University",
+  "shortName": "OSU",
+  "web": "https://go.okstate.edu",
+  "founded": "1890",
+  "approximatePopulaton": 22047,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.12798,
+    -97.07385
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Oklahoma",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

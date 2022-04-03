@@ -1,0 +1,23 @@
+{
+  "id": "city-university-of-hong-kong",
+  "name": "City University of Hong Kong",
+  "shortName": "CityU",
+  "web": "https://cityu.edu.hk",
+  "founded": "1984",
+  "approximatePopulaton": 9513,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    22.3375,
+    114.17199
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "HKG",
+  "nearestCity": "Kowloon Tong",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

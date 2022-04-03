@@ -1,0 +1,23 @@
+{
+  "id": "osaka-prefecture-university",
+  "name": "Osaka Prefecture University",
+  "shortName": "OPU",
+  "web": "https://osakafu-u.ac.jp",
+  "founded": "1949",
+  "approximatePopulaton": 7710,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    34.54789,
+    135.50799
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Sakai, Osaka",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

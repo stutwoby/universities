@@ -1,0 +1,23 @@
+{
+  "id": "tomsk-polytechnic-university",
+  "name": "Tomsk Polytechnic University",
+  "shortName": "TPU",
+  "web": "https://tpu.ru/en",
+  "founded": "1896",
+  "approximatePopulaton": 9118,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    56.46543,
+    84.95016
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Tomsk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "makerere-university",
+  "name": "Makerere University",
+  "shortName": "MUK",
+  "web": "https://mak.ac.ug",
+  "founded": "1922",
+  "approximatePopulaton": 31932,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    0.32912,
+    32.57097
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "UGA",
+  "nearestCity": "Kampala",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

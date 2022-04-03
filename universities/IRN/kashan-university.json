@@ -1,0 +1,23 @@
+{
+  "id": "kashan-university",
+  "name": "Kashan University",
+  "shortName": "KasU",
+  "web": "https://kashanu.ac.ir",
+  "founded": "1974",
+  "approximatePopulaton": 8245,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    34.01818,
+    51.36614
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRN",
+  "nearestCity": "Iran",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

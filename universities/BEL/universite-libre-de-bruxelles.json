@@ -1,0 +1,23 @@
+{
+  "id": "universite-libre-de-bruxelles",
+  "name": "Universite Libre de Bruxelles",
+  "shortName": "ULB",
+  "web": "https://ulb.ac.be",
+  "founded": "1834",
+  "approximatePopulaton": 24157,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    50.81319,
+    4.38218
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "BEL",
+  "nearestCity": "Brussels",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

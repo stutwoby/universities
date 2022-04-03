@@ -1,0 +1,23 @@
+{
+  "id": "university-of-brescia",
+  "name": "University of Brescia",
+  "shortName": "UB",
+  "web": "https://unibs.it",
+  "founded": "1982",
+  "approximatePopulaton": 14479,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.53788,
+    10.21725
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ITA",
+  "nearestCity": "Brescia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

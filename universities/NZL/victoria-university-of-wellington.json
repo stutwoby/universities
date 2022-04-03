@@ -1,0 +1,23 @@
+{
+  "id": "victoria-university-of-wellington",
+  "name": "Victoria University of Wellington",
+  "shortName": "VUW",
+  "web": "https://victoria.ac.nz",
+  "founded": "1897",
+  "approximatePopulaton": 17442,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -41.29047,
+    174.76876
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "NZL",
+  "nearestCity": "Wellington",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

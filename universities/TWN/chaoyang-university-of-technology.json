@@ -1,0 +1,23 @@
+{
+  "id": "chaoyang-university-of-technology",
+  "name": "Chaoyang University of Technology",
+  "shortName": "CYUT",
+  "web": "https://cyut.edu.tw",
+  "founded": "1994",
+  "approximatePopulaton": 16173,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    24.06966,
+    120.71485
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Wufeng District",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

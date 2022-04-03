@@ -1,0 +1,23 @@
+{
+  "id": "al-furat-al-awsat-technical-university",
+  "name": "Al-Furat Al-Awsat Technical  University",
+  "shortName": "AFAATU",
+  "web": "https://en.atu.edu.iq",
+  "founded": "1969",
+  "approximatePopulaton": 17671,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.0585,
+    44.40618
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Kufa",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

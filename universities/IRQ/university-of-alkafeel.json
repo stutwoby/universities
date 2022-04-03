@@ -1,0 +1,23 @@
+{
+  "id": "university-of-alkafeel",
+  "name": "University of Alkafeel",
+  "shortName": "AUC",
+  "web": "https://alkafeel.edu.iq",
+  "founded": "2005",
+  "approximatePopulaton": 3621,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.02511,
+    44.39443
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Najaf",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "polytechnic-university-of-milan",
+  "name": "Polytechnic University of Milan",
+  "shortName": "PU Milan",
+  "web": "https://english.polimi.it",
+  "founded": "1863",
+  "approximatePopulaton": 36828,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.47809,
+    9.22734
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ITA",
+  "nearestCity": "Milan",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

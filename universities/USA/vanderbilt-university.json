@@ -1,0 +1,23 @@
+{
+  "id": "vanderbilt-university",
+  "name": "Vanderbilt University",
+  "shortName": "Vandy",
+  "web": "https://vanderbilt.edu",
+  "founded": "1873",
+  "approximatePopulaton": 12139,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.1447,
+    -86.80264
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Nashville, TN",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

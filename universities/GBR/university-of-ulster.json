@@ -1,0 +1,23 @@
+{
+  "id": "university-of-ulster",
+  "name": "University of Ulster",
+  "shortName": "UU",
+  "web": "https://ulster.ac.uk",
+  "founded": "1984",
+  "approximatePopulaton": 18493,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.00612,
+    -7.32451
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Belfast, Coleraine, Derry, Jordanstown, Northern Ireland & London & Birmingham",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

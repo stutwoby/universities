@@ -1,0 +1,23 @@
+{
+  "id": "kanazawa-university",
+  "name": "Kanazawa University",
+  "shortName": "KaU",
+  "web": "https://kanazawa-u.ac.jp",
+  "founded": "1949",
+  "approximatePopulaton": 10341,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.54598,
+    136.70875
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Kanazawa, Ishikawa",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "queen-mary-university-of-london",
+  "name": "Queen Mary, University of London",
+  "shortName": "QMUL / QM",
+  "web": "https://qmul.ac.uk",
+  "founded": "1995",
+  "approximatePopulaton": 19035,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.52408,
+    -0.04038
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "London",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

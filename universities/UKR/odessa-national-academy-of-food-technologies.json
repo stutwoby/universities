@@ -1,0 +1,23 @@
+{
+  "id": "odessa-national-academy-of-food-technologies",
+  "name": "Odessa National Academy of Food Technologies",
+  "shortName": "ONAFT",
+  "web": "https://onaft.edu.ua",
+  "founded": "1902",
+  "approximatePopulaton": 4090,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    46.45999,
+    30.74448
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "UKR",
+  "nearestCity": "Odesa, Ukraine",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

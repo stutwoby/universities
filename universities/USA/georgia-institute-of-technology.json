@@ -1,0 +1,23 @@
+{
+  "id": "georgia-institute-of-technology",
+  "name": "Georgia Institute of Technology",
+  "shortName": "Georgia Tech",
+  "web": "https://gatech.edu",
+  "founded": "1885",
+  "approximatePopulaton": 24695,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.77559,
+    -84.39629
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Atlanta, GA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

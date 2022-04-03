@@ -1,0 +1,23 @@
+{
+  "id": "university-of-gothenburg",
+  "name": "University of Gothenburg",
+  "shortName": "UGOT",
+  "web": "https://gu.se",
+  "founded": "1954",
+  "approximatePopulaton": 19618,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    57.69815,
+    11.97185
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "SWE",
+  "nearestCity": "Gothenburg",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

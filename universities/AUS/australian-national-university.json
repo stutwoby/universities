@@ -1,0 +1,23 @@
+{
+  "id": "australian-national-university",
+  "name": "Australian National University",
+  "shortName": "ANU",
+  "web": "https://anu.edu.au",
+  "founded": "1946",
+  "approximatePopulaton": 18801,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -35.27773,
+    149.11852
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Canberra, ACT",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

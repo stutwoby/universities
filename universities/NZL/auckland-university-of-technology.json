@@ -1,0 +1,23 @@
+{
+  "id": "auckland-university-of-technology",
+  "name": "Auckland University of Technology",
+  "shortName": "AUT",
+  "web": "https://aut.ac.nz",
+  "founded": "2000",
+  "approximatePopulaton": 17909,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -36.85323,
+    174.76734
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "NZL",
+  "nearestCity": "Auckland",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

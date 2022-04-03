@@ -1,0 +1,23 @@
+{
+  "id": "moscow-pedagogical-state-university",
+  "name": "Moscow Pedagogical State University",
+  "shortName": "MSPU",
+  "web": "https://mpgu.su",
+  "founded": "1872",
+  "approximatePopulaton": 21292,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.73234,
+    37.5764
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Moscow",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

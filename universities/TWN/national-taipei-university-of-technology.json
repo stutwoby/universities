@@ -1,0 +1,23 @@
+{
+  "id": "national-taipei-university-of-technology",
+  "name": "National Taipei University of Technology",
+  "shortName": "NTUT",
+  "web": "https://ntut.edu.tw",
+  "founded": "1912",
+  "approximatePopulaton": 9874,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    25.04227,
+    121.53554
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Taipei",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-zagreb",
+  "name": "University of Zagreb",
+  "shortName": "UZ",
+  "web": "https://unizg.hr",
+  "founded": "1669",
+  "approximatePopulaton": 59336,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.81047,
+    15.96981
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "HRV",
+  "nearestCity": "Zagreb, Croatia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

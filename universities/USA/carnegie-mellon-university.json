@@ -1,0 +1,23 @@
+{
+  "id": "carnegie-mellon-university",
+  "name": "Carnegie Mellon University",
+  "shortName": "CMU",
+  "web": "https://cmu.edu",
+  "founded": "1900",
+  "approximatePopulaton": 13430,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.44295,
+    -79.94295
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Pittsburgh, PA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

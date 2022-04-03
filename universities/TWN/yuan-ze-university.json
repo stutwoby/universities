@@ -1,0 +1,23 @@
+{
+  "id": "yuan-ze-university",
+  "name": "Yuan Ze University",
+  "shortName": "YZU",
+  "web": "https://yzu.edu.tw",
+  "founded": "1989",
+  "approximatePopulaton": 8188,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    24.97034,
+    121.2675
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Jhongli City, Taoyuan County",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

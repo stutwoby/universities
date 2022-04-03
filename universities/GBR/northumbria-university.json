@@ -1,0 +1,23 @@
+{
+  "id": "northumbria-university",
+  "name": "Northumbria University",
+  "shortName": "NU",
+  "web": "https://northumbria.ac.uk",
+  "founded": "1992",
+  "approximatePopulaton": 22515,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    54.97676,
+    -1.6077
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Newcastle upon Tyne",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

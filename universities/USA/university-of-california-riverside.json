@@ -1,0 +1,23 @@
+{
+  "id": "university-of-california-riverside",
+  "name": "University of California, Riverside",
+  "shortName": "UC Riverside",
+  "web": "https://ucr.edu",
+  "founded": "1954",
+  "approximatePopulaton": 22498,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.97372,
+    -117.32804
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Riverside, CA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

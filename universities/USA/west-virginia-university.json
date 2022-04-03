@@ -1,0 +1,23 @@
+{
+  "id": "west-virginia-university",
+  "name": "West Virginia University",
+  "shortName": "WVU",
+  "web": "https://wvu.edu",
+  "founded": "1867",
+  "approximatePopulaton": 27597,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.63613,
+    -79.95592
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Morgantown, WV",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

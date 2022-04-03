@@ -1,0 +1,23 @@
+{
+  "id": "university-of-delaware",
+  "name": "University of Delaware",
+  "shortName": "UD",
+  "web": "https://udel.edu",
+  "founded": "1743",
+  "approximatePopulaton": 21564,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.67794,
+    -75.75062
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Newark, DE",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

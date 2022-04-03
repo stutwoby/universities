@@ -1,0 +1,23 @@
+{
+  "id": "complutense-university-of-madrid",
+  "name": "Complutense University of Madrid",
+  "shortName": "UCM",
+  "web": "https://ucm.es",
+  "founded": "1499",
+  "approximatePopulaton": 61732,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.44781,
+    -3.72856
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "Madrid",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

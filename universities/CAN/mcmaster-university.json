@@ -1,0 +1,23 @@
+{
+  "id": "mcmaster-university",
+  "name": "McMaster University",
+  "shortName": "Mac",
+  "web": "https://mcmaster.ca",
+  "founded": "1887",
+  "approximatePopulaton": 25285,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.26086,
+    -79.9192
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Hamilton, ON",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

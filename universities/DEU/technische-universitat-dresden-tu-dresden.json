@@ -1,0 +1,23 @@
+{
+  "id": "technische-universitat-dresden-tu-dresden",
+  "name": "Technische Universitat Dresden (TU Dresden)",
+  "shortName": "TU Dresde",
+  "web": "https://tu-dresden.de",
+  "founded": "1828",
+  "approximatePopulaton": 32339,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.02944,
+    13.72902
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Dresden",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

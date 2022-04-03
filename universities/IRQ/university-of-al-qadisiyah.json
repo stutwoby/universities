@@ -1,0 +1,23 @@
+{
+  "id": "university-of-al-qadisiyah",
+  "name": "University of AL-Qadisiyah",
+  "shortName": "UAlQ",
+  "web": "https://qu.edu.iq",
+  "founded": "1987",
+  "approximatePopulaton": 23559,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.01037,
+    44.91148
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Baghdad",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

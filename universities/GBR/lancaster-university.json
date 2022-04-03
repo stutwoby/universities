@@ -1,0 +1,23 @@
+{
+  "id": "lancaster-university",
+  "name": "Lancaster University",
+  "shortName": "LU",
+  "web": "https://lancaster.ac.uk",
+  "founded": "1964",
+  "approximatePopulaton": 13150,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    54.01038,
+    -2.78771
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Bailrigg, City of Lancaster",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

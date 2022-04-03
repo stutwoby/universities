@@ -1,0 +1,23 @@
+{
+  "id": "national-changhua-university-of-education",
+  "name": "National Changhua University of Education",
+  "shortName": "NCUE",
+  "web": "https://ncue.edu.tw",
+  "founded": "1971",
+  "approximatePopulaton": 8333,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    24.08274,
+    120.55863
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Changhua City",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

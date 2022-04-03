@@ -1,0 +1,23 @@
+{
+  "id": "university-of-georgia",
+  "name": "University of Georgia",
+  "shortName": "UGA",
+  "web": "https://uga.edu",
+  "founded": "1785",
+  "approximatePopulaton": 36169,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.94802,
+    -83.3773
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Athens, Georgia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

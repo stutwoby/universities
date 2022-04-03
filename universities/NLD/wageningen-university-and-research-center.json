@@ -1,0 +1,23 @@
+{
+  "id": "wageningen-university-and-research-center",
+  "name": "Wageningen University & Research Center",
+  "shortName": "Wageningen UR",
+  "web": "https://wur.nl",
+  "founded": "1918",
+  "approximatePopulaton": 14356,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.98446,
+    5.66566
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "NLD",
+  "nearestCity": " Wageningen",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

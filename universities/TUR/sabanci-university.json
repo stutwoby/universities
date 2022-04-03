@@ -1,0 +1,23 @@
+{
+  "id": "sabanci-university",
+  "name": "Sabanci University",
+  "shortName": "SU",
+  "web": "https://sabanciuniv.edu",
+  "founded": "1994",
+  "approximatePopulaton": 3687,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.89241,
+    29.37721
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUR",
+  "nearestCity": "Istanbul",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

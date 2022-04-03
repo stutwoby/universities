@@ -1,0 +1,23 @@
+{
+  "id": "kyung-hee-university",
+  "name": "Kyung Hee University",
+  "shortName": "KHU",
+  "web": "https://kyunghee.edu",
+  "founded": "1949",
+  "approximatePopulaton": 20862,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    37.59617,
+    127.05257
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KOR",
+  "nearestCity": "Seoul",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

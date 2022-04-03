@@ -1,0 +1,23 @@
+{
+  "id": "university-of-california-davis",
+  "name": "University of California, Davis",
+  "shortName": "UC Davis",
+  "web": "https://ucdavis.edu",
+  "founded": "1959",
+  "approximatePopulaton": 39164,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    38.53825,
+    -121.76175
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Davis, CA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

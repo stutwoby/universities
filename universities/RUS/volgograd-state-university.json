@@ -1,0 +1,23 @@
+{
+  "id": "volgograd-state-university",
+  "name": "Volgograd State University",
+  "shortName": "VSU",
+  "web": "https://volsu.ru",
+  "founded": "1980",
+  "approximatePopulaton": 7685,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    48.64315,
+    44.42544
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Volgograd",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

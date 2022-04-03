@@ -1,0 +1,23 @@
+{
+  "id": "fudan-university",
+  "name": "Fudan University",
+  "shortName": "FU",
+  "web": "https://fudan.edu.cn/en",
+  "founded": "1905",
+  "approximatePopulaton": 32597,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    31.29738,
+    121.50365
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Shanghai",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

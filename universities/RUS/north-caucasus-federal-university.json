@@ -1,0 +1,23 @@
+{
+  "id": "north-caucasus-federal-university",
+  "name": "North Caucasus Federal University",
+  "shortName": "NCFU",
+  "web": "https://ncfu.ru",
+  "founded": "2012",
+  "approximatePopulaton": 22847,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.04288,
+    41.96217
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Stavropol",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

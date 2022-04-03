@@ -1,0 +1,23 @@
+{
+  "id": "tokyo-medical-and-dental-university",
+  "name": "Tokyo Medical and Dental University",
+  "shortName": "TMDU",
+  "web": "https://tmd.ac.jp",
+  "founded": "1928",
+  "approximatePopulaton": 2999,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.70131,
+    139.76447
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Bunkyo, Tokyo",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

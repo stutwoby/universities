@@ -1,0 +1,23 @@
+{
+  "id": "universita-cattolica-del-sacro-cuore",
+  "name": "Universita Cattolica del Sacro Cuore",
+  "shortName": "UCSC",
+  "web": "https://unicatt.it",
+  "founded": "1921",
+  "approximatePopulaton": 28725,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.46209,
+    9.17718
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ITA",
+  "nearestCity": "Milano",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

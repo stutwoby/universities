@@ -1,0 +1,23 @@
+{
+  "id": "manchester-metropolitan-university",
+  "name": "Manchester Metropolitan University",
+  "shortName": "MMU",
+  "web": "https://mmu.ac.uk",
+  "founded": "1824",
+  "approximatePopulaton": 28895,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.47114,
+    -2.23933
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Manchester, England, UK",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

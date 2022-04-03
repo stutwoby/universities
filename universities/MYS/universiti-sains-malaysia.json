@@ -1,0 +1,23 @@
+{
+  "id": "universiti-sains-malaysia",
+  "name": "Universiti Sains Malaysia",
+  "shortName": "USM",
+  "web": "https://usm.my",
+  "founded": "1969",
+  "approximatePopulaton": 21039,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    5.35592,
+    100.30256
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "MYS",
+  "nearestCity": "Penang",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

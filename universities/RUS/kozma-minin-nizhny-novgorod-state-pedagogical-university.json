@@ -1,0 +1,23 @@
+{
+  "id": "kozma-minin-nizhny-novgorod-state-pedagogical-university",
+  "name": "Kozma Minin Nizhny Novgorod State Pedagogical University",
+  "shortName": "NGPU",
+  "web": "https://mininuniver.ru",
+  "founded": "1911",
+  "approximatePopulaton": 9002,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    56.32615,
+    44.00773
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Nizhny Novgorod",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

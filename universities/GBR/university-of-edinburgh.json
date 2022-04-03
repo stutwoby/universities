@@ -1,0 +1,23 @@
+{
+  "id": "university-of-edinburgh",
+  "name": "University of Edinburgh",
+  "shortName": "UOE",
+  "web": "https://ed.ac.uk",
+  "founded": "1583",
+  "approximatePopulaton": 30450,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.94454,
+    -3.18926
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Edinburgh, Scotland",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

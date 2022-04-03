@@ -1,0 +1,23 @@
+{
+  "id": "northern-technical-university",
+  "name": "Northern Technical University",
+  "shortName": "NTU",
+  "web": "https://ntu.edu.iq",
+  "founded": "2014",
+  "approximatePopulaton": 20000,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    30.45747,
+    47.76795
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Mosul",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

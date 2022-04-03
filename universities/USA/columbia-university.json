@@ -1,0 +1,23 @@
+{
+  "id": "columbia-university",
+  "name": "Columbia University",
+  "shortName": "Columbia",
+  "web": "https://columbia.edu",
+  "founded": "1754",
+  "approximatePopulaton": 27384,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.80756,
+    -73.96263
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "New York, NY",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

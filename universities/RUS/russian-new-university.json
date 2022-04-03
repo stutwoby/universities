@@ -1,0 +1,23 @@
+{
+  "id": "russian-new-university",
+  "name": "Russian New University",
+  "shortName": "RosNOU",
+  "web": "https://rosnou.ru",
+  "founded": "1991",
+  "approximatePopulaton": 3053,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.76258,
+    37.68246
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Moscow",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "baghdad-college-of-economic-sciences-university",
+  "name": "Baghdad College Of Economic Sciences University",
+  "shortName": "BCES",
+  "web": "https://baghdadcollege.edu.iq",
+  "founded": "1996",
+  "approximatePopulaton": 4259,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.34136,
+    44.3347
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Baghdad",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

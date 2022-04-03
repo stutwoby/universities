@@ -1,0 +1,23 @@
+{
+  "id": "university-of-warith-alanbiyaa",
+  "name": "University of Warith Alanbiyaa",
+  "shortName": "UOWA",
+  "web": "https://uowa.edu.iq",
+  "founded": "2017",
+  "approximatePopulaton": 987,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.67512,
+    44.07295
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Karbala, Iraq",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

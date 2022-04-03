@@ -1,0 +1,23 @@
+{
+  "id": "maikop-state-technological-university",
+  "name": "Maikop State Technological University",
+  "shortName": "MSTU",
+  "web": "https://mkgtu.ru",
+  "founded": "1993",
+  "approximatePopulaton": 6015,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    44.60394,
+    40.10798
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Maykop, Russia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-washington",
+  "name": "University of Washington",
+  "shortName": "Washington / Udub",
+  "web": "https://washington.edu",
+  "founded": "1861",
+  "approximatePopulaton": 46258,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    47.65523,
+    -122.3035
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Seattle, WA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

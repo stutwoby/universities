@@ -1,0 +1,23 @@
+{
+  "id": "chiang-mai-university",
+  "name": "Chiang Mai University",
+  "shortName": "CMU",
+  "web": "https://cmu.ac.th",
+  "founded": "1964",
+  "approximatePopulaton": 36296,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    18.80596,
+    98.95334
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "THA",
+  "nearestCity": "Chiang Mai",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "indian-institute-of-technology-indian-school-of-mines",
+  "name": "Indian Institute of Technology (Indian School of Mines)",
+  "shortName": "ISM",
+  "web": "https://iitism.ac.in",
+  "founded": "1926",
+  "approximatePopulaton": 7179,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    23.8144,
+    86.44117
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IND",
+  "nearestCity": "Dhanbad, Jharkhand",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

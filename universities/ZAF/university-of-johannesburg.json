@@ -1,0 +1,23 @@
+{
+  "id": "university-of-johannesburg",
+  "name": "University of Johannesburg",
+  "shortName": "UJ",
+  "web": "https://uj.ac.za",
+  "founded": "2005",
+  "approximatePopulaton": 27660,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -26.17882,
+    27.99558
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ZAF",
+  "nearestCity": "Johannesburg",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

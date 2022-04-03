@@ -1,0 +1,23 @@
+{
+  "id": "kyoto-university",
+  "name": "Kyoto University",
+  "shortName": "KyU",
+  "web": "https://kyoto-u.ac.jp",
+  "founded": "1897",
+  "approximatePopulaton": 22566,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.02627,
+    135.78078
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Kyoto, Kyoto",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-geneva",
+  "name": "University of Geneva",
+  "shortName": "UG",
+  "web": "https://unige.ch",
+  "founded": "1559",
+  "approximatePopulaton": 17271,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    46.19944,
+    6.14507
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHE",
+  "nearestCity": "Geneva",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

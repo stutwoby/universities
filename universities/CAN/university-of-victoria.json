@@ -1,0 +1,23 @@
+{
+  "id": "university-of-victoria",
+  "name": "University of Victoria",
+  "shortName": "UVic",
+  "web": "https://uvic.ca",
+  "founded": "1963",
+  "approximatePopulaton": 21317,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    48.46338,
+    -123.31169
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Victoria, BC",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

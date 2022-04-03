@@ -1,0 +1,23 @@
+{
+  "id": "university-of-jyvaskyla",
+  "name": "University of Jyvaskyla",
+  "shortName": "U Jyvaskyla",
+  "web": "https://jyu.fi",
+  "founded": "1934",
+  "approximatePopulaton": 10262,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    62.23653,
+    25.73163
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "FIN",
+  "nearestCity": "Jyvaskyla",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "dalian-university-of-technology",
+  "name": "Dalian University of Technology",
+  "shortName": "DUT",
+  "web": "https://dlut.edu.cn",
+  "founded": "1949",
+  "approximatePopulaton": 39705,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    38.88036,
+    121.529
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Dalian, Liaoning",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "siberian-state-medical-university",
+  "name": "Siberian State Medical University",
+  "shortName": "SSMU",
+  "web": "https://sibmed.ru",
+  "founded": "1888",
+  "approximatePopulaton": 6247,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    56.47356,
+    84.94916
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Tomsk,",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

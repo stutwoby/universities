@@ -1,0 +1,23 @@
+{
+  "id": "nanjing-medical-university",
+  "name": "Nanjing Medical University",
+  "shortName": "NMU",
+  "web": "https://njmu.edu.cn",
+  "founded": "1934",
+  "approximatePopulaton": 17046,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.04446,
+    118.77481
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Nanjing, Jiangsu, China",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

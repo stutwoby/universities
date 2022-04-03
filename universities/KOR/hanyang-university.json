@@ -1,0 +1,23 @@
+{
+  "id": "hanyang-university",
+  "name": "Hanyang University",
+  "shortName": "NYU",
+  "web": "https://hanyang.ac.kr",
+  "founded": "1939",
+  "approximatePopulaton": 20019,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    37.55721,
+    127.0453
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KOR",
+  "nearestCity": "Seoul",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

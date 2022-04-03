@@ -1,0 +1,23 @@
+{
+  "id": "university-of-manitoba",
+  "name": "University of Manitoba",
+  "shortName": "U of M",
+  "web": "https://umanitoba.ca",
+  "founded": "1877",
+  "approximatePopulaton": 28786,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    49.80732,
+    -97.13671
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Winnipeg, MB",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

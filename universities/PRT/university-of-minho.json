@@ -1,0 +1,23 @@
+{
+  "id": "university-of-minho",
+  "name": "University of Minho",
+  "shortName": "U Minho",
+  "web": "https://uminho.pt",
+  "founded": "1973",
+  "approximatePopulaton": 18504,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.5599,
+    -8.39664
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "PRT",
+  "nearestCity": "Braga",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "masaryk-university",
+  "name": "Masaryk University",
+  "shortName": "MU",
+  "web": "https://muni.cz",
+  "founded": "1919",
+  "approximatePopulaton": 31107,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    49.19861,
+    16.60542
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CZE",
+  "nearestCity": "Brno",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

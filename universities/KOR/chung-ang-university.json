@@ -1,0 +1,23 @@
+{
+  "id": "chung-ang-university",
+  "name": "Chung-Ang University",
+  "shortName": "CAU",
+  "web": "https://neweng.cau.ac.kr",
+  "founded": "1953",
+  "approximatePopulaton": 17599,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    37.50412,
+    126.95702
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KOR",
+  "nearestCity": "Heukseok-dong (Seoul), Anseong (Gyeonggi), Pyeong-dong (Seoul)",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

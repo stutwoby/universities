@@ -1,0 +1,23 @@
+{
+  "id": "sapienza-university-of-rome",
+  "name": "Sapienza University of Rome",
+  "shortName": "La Sapienza",
+  "web": "https://uniroma1.it",
+  "founded": "1303",
+  "approximatePopulaton": 77548,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.9038,
+    12.51436
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ITA",
+  "nearestCity": "Rome",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

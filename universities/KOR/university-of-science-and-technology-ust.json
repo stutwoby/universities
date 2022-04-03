@@ -1,0 +1,23 @@
+{
+  "id": "university-of-science-and-technology-ust",
+  "name": "University of Science and Technology (UST)",
+  "shortName": "UST",
+  "web": "https://ust.ac.kr",
+  "founded": "2003",
+  "approximatePopulaton": 1298,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.386,
+    127.36843
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KOR",
+  "nearestCity": "Daejeon,  South Korea",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

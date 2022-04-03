@@ -1,0 +1,23 @@
+{
+  "id": "free-university-of-berlin",
+  "name": "Free University of Berlin",
+  "shortName": "FU Berlin",
+  "web": "https://fu-berlin.de/en",
+  "founded": "1948",
+  "approximatePopulaton": 36380,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.45255,
+    13.28961
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Dahlem, Berlin",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "national-chung-hsing-university",
+  "name": "National Chung Hsing University",
+  "shortName": "NCHU",
+  "web": "https://nchu.edu.tw",
+  "founded": "1919",
+  "approximatePopulaton": 15184,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    24.12353,
+    120.67533
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "South District, Taichung",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

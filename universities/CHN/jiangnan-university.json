@@ -1,0 +1,23 @@
+{
+  "id": "jiangnan-university",
+  "name": "Jiangnan University",
+  "shortName": "JU",
+  "web": "https://jiangnan.edu.cn",
+  "founded": "1902",
+  "approximatePopulaton": 20191,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    31.48254,
+    120.27761
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Wuxi, Jiangsu",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

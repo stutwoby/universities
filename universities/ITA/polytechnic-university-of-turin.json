@@ -1,0 +1,23 @@
+{
+  "id": "polytechnic-university-of-turin",
+  "name": "Polytechnic University of Turin",
+  "shortName": "PU Turin",
+  "web": "https://polito.it",
+  "founded": "1859",
+  "approximatePopulaton": 29006,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.06245,
+    7.66227
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ITA",
+  "nearestCity": "Torino",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "altai-state-university",
+  "name": "Altai State University",
+  "shortName": "ASU",
+  "web": "https://asu.ru",
+  "founded": "1973",
+  "approximatePopulaton": 8323,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.34839,
+    83.77579
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Barnaul",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

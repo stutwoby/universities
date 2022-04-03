@@ -1,0 +1,23 @@
+{
+  "id": "ninevah-university",
+  "name": "Ninevah University",
+  "shortName": "NU",
+  "web": "https://uoninevah.edu.iq",
+  "founded": "2014",
+  "approximatePopulaton": 688,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.33079,
+    43.15105
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Mosul",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

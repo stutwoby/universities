@@ -1,0 +1,23 @@
+{
+  "id": "university-of-information-technology-and-communications",
+  "name": "University of Information Technology and Communications",
+  "shortName": "UoITC",
+  "web": "https://uoitc.edu.iq",
+  "founded": "2014",
+  "approximatePopulaton": 393,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.31274,
+    44.42807
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Baghdad",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

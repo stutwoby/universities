@@ -1,0 +1,23 @@
+{
+  "id": "trinity-college-dublin",
+  "name": "Trinity College Dublin",
+  "shortName": "TCD",
+  "web": "https://tcd.ie",
+  "founded": "1592",
+  "approximatePopulaton": 17154,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.34381,
+    -6.25462
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRL",
+  "nearestCity": "Dublin, Co. Dublin",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

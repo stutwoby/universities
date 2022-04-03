@@ -1,0 +1,23 @@
+{
+  "id": "university-of-macau",
+  "name": "University of Macau",
+  "shortName": "UM",
+  "web": "https://umac.mo",
+  "founded": "1991",
+  "approximatePopulaton": 9343,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    22.12938,
+    113.5449
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "MAC",
+  "nearestCity": "Avenida da Universidade, Taipa",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-lisbon",
+  "name": "University of Lisbon",
+  "shortName": "Ulisboa",
+  "web": "https://ulisboa.pt",
+  "founded": "1911",
+  "approximatePopulaton": 49019,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    38.75248,
+    -9.1585
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "PRT",
+  "nearestCity": "Lisbon",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

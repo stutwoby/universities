@@ -1,0 +1,23 @@
+{
+  "id": "sun-yat-sen-university",
+  "name": "Sun Yat-sen University",
+  "shortName": "Sun Yat-sen U",
+  "web": "https://sysu.edu.cn",
+  "founded": "1924",
+  "approximatePopulaton": 53734,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    23.09633,
+    113.29882
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Guangzhou, Guangdong",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

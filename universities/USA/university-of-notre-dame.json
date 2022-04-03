@@ -1,0 +1,23 @@
+{
+  "id": "university-of-notre-dame",
+  "name": "University of Notre Dame",
+  "shortName": "Notre Dame",
+  "web": "https://nd.edu",
+  "founded": "1842",
+  "approximatePopulaton": 12149,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.70557,
+    -86.23538
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Notre Dame, IN",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

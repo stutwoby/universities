@@ -1,0 +1,23 @@
+{
+  "id": "novosibirsk-state-university-of-economics-and-management",
+  "name": "Novosibirsk State University of Economics and Management",
+  "shortName": "NSUEM",
+  "web": "https://nsuem.com",
+  "founded": "1929",
+  "approximatePopulaton": 9103,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.03497,
+    82.92922
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Novosibirsk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

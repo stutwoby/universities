@@ -1,0 +1,23 @@
+{
+  "id": "university-of-pennsylvania",
+  "name": "University of Pennsylvania",
+  "shortName": "Penn / UPenn",
+  "web": "https://upenn.edu",
+  "founded": "1740",
+  "approximatePopulaton": 20771,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.95219,
+    -75.19327
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Philadelphia, PA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "polytechnic-university-of-madrid",
+  "name": "Polytechnic University of Madrid",
+  "shortName": "UPM",
+  "web": "https://upm.es",
+  "founded": "1971",
+  "approximatePopulaton": 40592,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.44865,
+    -3.71928
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "Madrid",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

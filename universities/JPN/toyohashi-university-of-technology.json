@@ -1,0 +1,23 @@
+{
+  "id": "toyohashi-university-of-technology",
+  "name": "Toyohashi University of Technology",
+  "shortName": "Toyohashi Tech, TUT",
+  "web": "https://tut.ac.jp",
+  "founded": "1976",
+  "approximatePopulaton": 2059,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    34.70176,
+    137.40864
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Toyohashi, Aichi",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "jiangsu-university",
+  "name": "Jiangsu University",
+  "shortName": "SJU",
+  "web": "https://ujs.edu.cn",
+  "founded": "1902",
+  "approximatePopulaton": 36125,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.19932,
+    119.51428
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Zhenjiang",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

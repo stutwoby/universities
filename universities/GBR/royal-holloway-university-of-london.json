@@ -1,0 +1,23 @@
+{
+  "id": "royal-holloway-university-of-london",
+  "name": "Royal Holloway, University of London",
+  "shortName": "RHC / RHUL",
+  "web": "https://royalholloway.ac.uk",
+  "founded": "1985",
+  "approximatePopulaton": 9790,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.42587,
+    -0.56319
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Egham, Surrey, England",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

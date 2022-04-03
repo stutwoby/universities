@@ -1,0 +1,23 @@
+{
+  "id": "university-of-st-gallen",
+  "name": "University of St. Gallen",
+  "shortName": "HSG",
+  "web": "https://unisg.ch",
+  "founded": "1898",
+  "approximatePopulaton": 7759,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    47.43216,
+    9.37559
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHE",
+  "nearestCity": "St. Gallen",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

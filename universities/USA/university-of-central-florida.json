@@ -1,0 +1,23 @@
+{
+  "id": "university-of-central-florida",
+  "name": "University of Central Florida",
+  "shortName": "UCF",
+  "web": "https://ucf.edu",
+  "founded": "1963",
+  "approximatePopulaton": 58425,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    28.60245,
+    -81.20008
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Orlando, FL",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "dublin-city-university",
+  "name": "Dublin City University",
+  "shortName": "DCU",
+  "web": "https://dcu.ie",
+  "founded": "1989",
+  "approximatePopulaton": 12619,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.38507,
+    -6.2568
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRL",
+  "nearestCity": "Dublin, Co. Dublin",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

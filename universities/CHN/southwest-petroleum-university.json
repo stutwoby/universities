@@ -1,0 +1,23 @@
+{
+  "id": "southwest-petroleum-university",
+  "name": "Southwest Petroleum University",
+  "shortName": "SWPU",
+  "web": "https://swpu.edu.cn",
+  "founded": "1958",
+  "approximatePopulaton": 35001,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    30.82282,
+    104.18352
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Chengdu and Nanchong, Sichuan, China",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

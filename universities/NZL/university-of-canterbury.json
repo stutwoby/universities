@@ -1,0 +1,23 @@
+{
+  "id": "university-of-canterbury",
+  "name": "University of Canterbury",
+  "shortName": "Cantuar. / Cant.",
+  "web": "https://canterbury.ac.nz",
+  "founded": "1873",
+  "approximatePopulaton": 14069,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -43.52351,
+    172.58397
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "NZL",
+  "nearestCity": "Christchurch, Canterbury",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

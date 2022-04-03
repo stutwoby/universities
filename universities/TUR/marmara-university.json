@@ -1,0 +1,23 @@
+{
+  "id": "marmara-university",
+  "name": "Marmara University",
+  "shortName": "MU",
+  "web": "https://marmara.edu.tr/en",
+  "founded": "1883",
+  "approximatePopulaton": 63090,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.98703,
+    29.05278
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUR",
+  "nearestCity": "Istanbul",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

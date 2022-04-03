@@ -1,0 +1,23 @@
+{
+  "id": "rutgers-the-state-university-of-new-jersey",
+  "name": "Rutgers the State University of New Jersey",
+  "shortName": "Rutgers / RU",
+  "web": "https://rutgers.edu",
+  "founded": "1766",
+  "approximatePopulaton": 44655,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.49816,
+    -74.44681
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Piscataway Township, NJ",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

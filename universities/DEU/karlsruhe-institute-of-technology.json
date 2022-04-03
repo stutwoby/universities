@@ -1,0 +1,23 @@
+{
+  "id": "karlsruhe-institute-of-technology",
+  "name": "Karlsruhe Institute of Technology",
+  "shortName": "KIT",
+  "web": "https://kit.edu",
+  "founded": "2009",
+  "approximatePopulaton": 26903,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    49.01193,
+    8.4171
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Karlsruhe, Baden-Wurttemberg ",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

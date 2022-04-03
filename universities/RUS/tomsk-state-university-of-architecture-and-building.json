@@ -1,0 +1,23 @@
+{
+  "id": "tomsk-state-university-of-architecture-and-building",
+  "name": "Tomsk State University of Architecture and Building",
+  "shortName": "TSUAB",
+  "web": "https://tsuab.ru",
+  "founded": "1931",
+  "approximatePopulaton": 4137,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    56.49713,
+    84.95768
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Tomsk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

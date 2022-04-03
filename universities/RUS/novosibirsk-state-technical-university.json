@@ -1,0 +1,23 @@
+{
+  "id": "novosibirsk-state-technical-university",
+  "name": "Novosibirsk State Technical University",
+  "shortName": "NSTU",
+  "web": "https://nstu.ru",
+  "founded": "1950",
+  "approximatePopulaton": 11589,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    54.98767,
+    82.90632
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Novosibirsk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

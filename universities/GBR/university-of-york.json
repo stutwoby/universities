@@ -1,0 +1,23 @@
+{
+  "id": "university-of-york",
+  "name": "University of York",
+  "shortName": "Ebor",
+  "web": "https://york.ac.uk",
+  "founded": "1963",
+  "approximatePopulaton": 17105,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.94553,
+    -1.05619
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "York",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

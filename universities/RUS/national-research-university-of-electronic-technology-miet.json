@@ -1,0 +1,23 @@
+{
+  "id": "national-research-university-of-electronic-technology-miet",
+  "name": "National Research University of Electronic Technology (MIET)",
+  "shortName": "MIET",
+  "web": "https://\\nmiet.ru",
+  "founded": "1965",
+  "approximatePopulaton": 4210,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.98296,
+    37.20924
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Zelenograd, Moscow",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

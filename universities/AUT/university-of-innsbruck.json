@@ -1,0 +1,23 @@
+{
+  "id": "university-of-innsbruck",
+  "name": "University of Innsbruck",
+  "shortName": "UI",
+  "web": "https://uibk.ac.at",
+  "founded": "1669",
+  "approximatePopulaton": 13493,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    47.26336,
+    11.38378
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUT",
+  "nearestCity": "Innsbruck, osterreich",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

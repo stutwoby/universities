@@ -1,0 +1,23 @@
+{
+  "id": "university-of-agricultural-sciences-and-veterinary-medicine-of-cluj-napoca",
+  "name": "University of Agricultural Sciences and Veterinary Medicine of Cluj-Napoca",
+  "shortName": "UASVM",
+  "web": "https://usamvcluj.ro",
+  "founded": "1906",
+  "approximatePopulaton": 5464,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    46.7617,
+    23.57072
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ROU",
+  "nearestCity": "Cluj-Napoca, Romania",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

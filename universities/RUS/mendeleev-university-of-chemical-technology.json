@@ -1,0 +1,23 @@
+{
+  "id": "mendeleev-university-of-chemical-technology",
+  "name": "Mendeleev University of Chemical Technology",
+  "shortName": "Mendeleev University",
+  "web": "https://muctr.ru/en",
+  "founded": "1880",
+  "approximatePopulaton": 5836,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.77869,
+    37.59503
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Moscow",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

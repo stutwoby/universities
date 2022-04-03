@@ -1,0 +1,23 @@
+{
+  "id": "university-of-waikato",
+  "name": "University of Waikato",
+  "shortName": "UW",
+  "web": "https://waikato.ac.nz",
+  "founded": "1964",
+  "approximatePopulaton": 10257,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -37.78684,
+    175.31844
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "NZL",
+  "nearestCity": "Hamilton, Waikato",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

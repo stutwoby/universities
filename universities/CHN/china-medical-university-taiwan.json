@@ -1,0 +1,23 @@
+{
+  "id": "china-medical-university-taiwan",
+  "name": "China Medical University (Taiwan)",
+  "shortName": "CMU",
+  "web": "https://cmu.edu.tw",
+  "founded": "1958",
+  "approximatePopulaton": 7633,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    24.15632,
+    120.6801
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Taichung",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

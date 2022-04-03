@@ -1,0 +1,23 @@
+{
+  "id": "suranaree-university-of-technology",
+  "name": "Suranaree University of Technology",
+  "shortName": "SUT",
+  "web": "https://sut.ac.th",
+  "founded": "1990",
+  "approximatePopulaton": 14329,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    14.88174,
+    102.02072
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "THA",
+  "nearestCity": "Nakhon Ratchasima",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-south-china",
+  "name": "University of South China",
+  "shortName": "USCh",
+  "web": "https://usc.edu.cn",
+  "founded": "2000",
+  "approximatePopulaton": 32903,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    26.89979,
+    112.59035
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Hengyang, Hunan, China",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "utrecht-university",
+  "name": "Utrecht University",
+  "shortName": "Utrecht",
+  "web": "https://uu.nl",
+  "founded": "1636",
+  "approximatePopulaton": 31833,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.09014,
+    5.1226
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "NLD",
+  "nearestCity": "Utrecht",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

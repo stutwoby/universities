@@ -1,0 +1,23 @@
+{
+  "id": "gdansk-university-of-technology",
+  "name": "Gdansk University of Technology",
+  "shortName": "GUT",
+  "web": "https://pg.edu.pl",
+  "founded": "1904",
+  "approximatePopulaton": 14986,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    54.3725,
+    18.61624
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "POL",
+  "nearestCity": "Poland",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "jamia-millia-islamia",
+  "name": "Jamia Millia Islamia",
+  "shortName": "Jamia",
+  "web": "https://jmi.ac.in",
+  "founded": "1920",
+  "approximatePopulaton": 10717,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    28.56101,
+    77.2844
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IND",
+  "nearestCity": "New Delhi, Delhi",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

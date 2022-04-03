@@ -1,0 +1,23 @@
+{
+  "id": "cornell-university",
+  "name": "Cornell University",
+  "shortName": "Cornell",
+  "web": "https://cornell.edu",
+  "founded": "1865",
+  "approximatePopulaton": 23016,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.45355,
+    -76.47349
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Ithaca, NY",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

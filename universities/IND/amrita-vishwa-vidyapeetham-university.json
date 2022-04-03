@@ -1,0 +1,23 @@
+{
+  "id": "amrita-vishwa-vidyapeetham-university",
+  "name": "Amrita Vishwa Vidyapeetham University",
+  "shortName": "AVV",
+  "web": "https://amrita.edu",
+  "founded": "1994",
+  "approximatePopulaton": 15130,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    10.90352,
+    76.90058
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IND",
+  "nearestCity": "Ettimadai, Coimbatore, India",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

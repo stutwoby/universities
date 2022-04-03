@@ -1,0 +1,23 @@
+{
+  "id": "university-of-new-south-wales",
+  "name": "University of New South Wales",
+  "shortName": "UNSW",
+  "web": "https://unsw.edu.au",
+  "founded": "1949",
+  "approximatePopulaton": 46234,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -33.91726,
+    151.2316
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Sydney, NSW",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

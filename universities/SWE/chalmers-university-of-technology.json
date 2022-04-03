@@ -1,0 +1,23 @@
+{
+  "id": "chalmers-university-of-technology",
+  "name": "Chalmers University of Technology",
+  "shortName": "Chalmers",
+  "web": "https://chalmers.se",
+  "founded": "1829",
+  "approximatePopulaton": 8910,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    57.68837,
+    11.97764
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "SWE",
+  "nearestCity": "Gothenburg",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

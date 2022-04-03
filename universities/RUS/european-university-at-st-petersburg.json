@@ -1,0 +1,23 @@
+{
+  "id": "european-university-at-st-petersburg",
+  "name": "European University at St. Petersburg",
+  "shortName": "EUSP",
+  "web": "https://eu.spb.ru",
+  "founded": "1994",
+  "approximatePopulaton": 297,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    59.94783,
+    30.34151
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "St. Petersburg",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-sumer",
+  "name": "University of Sumer",
+  "shortName": "SU",
+  "web": "https://uos.edu.iq",
+  "founded": "2014",
+  "approximatePopulaton": 1598,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    31.7205,
+    46.10879
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Thi-Qar, Iraq",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

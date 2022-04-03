@@ -1,0 +1,23 @@
+{
+  "id": "babol-noshirvani-university-of-technology",
+  "name": "Babol Noshirvani University of Technology",
+  "shortName": "BNUT",
+  "web": "https://en.nit.ac.ir",
+  "founded": "1970",
+  "approximatePopulaton": 5140,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.56233,
+    52.68049
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRN",
+  "nearestCity": "Babol",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

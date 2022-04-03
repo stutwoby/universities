@@ -1,0 +1,23 @@
+{
+  "id": "university-of-nebraska-medical-center",
+  "name": "University of Nebraska Medical Center",
+  "shortName": "UNMC",
+  "web": "https://unmc.edu",
+  "founded": "1880",
+  "approximatePopulaton": 3675,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.25512,
+    -95.97787
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Omaha",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

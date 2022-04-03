@@ -1,0 +1,23 @@
+{
+  "id": "imam-jaafar-al-sadiq-university",
+  "name": "Imam Ja`afar Al-Sadiq University",
+  "shortName": "ASU",
+  "web": "https://sadiq.edu.iq",
+  "founded": "2004",
+  "approximatePopulaton": 13138,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.37719,
+    44.39551
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Baghdad",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

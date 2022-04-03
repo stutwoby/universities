@@ -1,0 +1,23 @@
+{
+  "id": "universiti-putra-malaysia",
+  "name": "Universiti Putra Malaysia",
+  "shortName": "UPM",
+  "web": "https://upm.edu.my",
+  "founded": "1931",
+  "approximatePopulaton": 19937,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    2.9917,
+    101.71627
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "MYS",
+  "nearestCity": "Serdang, Selangor",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

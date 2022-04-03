@@ -1,0 +1,23 @@
+{
+  "id": "university-of-liverpool",
+  "name": "University of Liverpool",
+  "shortName": "UOLe",
+  "web": "https://liv.ac.uk",
+  "founded": "1903",
+  "approximatePopulaton": 26035,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.40594,
+    -2.96557
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Liverpool, England",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

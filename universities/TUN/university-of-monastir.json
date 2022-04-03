@@ -1,0 +1,23 @@
+{
+  "id": "university-of-monastir",
+  "name": "University of Monastir",
+  "shortName": "UM",
+  "web": "https://um.rnu.tn",
+  "founded": "2004",
+  "approximatePopulaton": 18876,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.76348,
+    10.82912
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUN",
+  "nearestCity": "Monastir",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "gubkin-russian-state-university-of-oil-and-gas",
+  "name": "Gubkin Russian State University of Oil and Gas",
+  "shortName": "GUBKIN",
+  "web": "https://gubkin.ru/en",
+  "founded": "1930",
+  "approximatePopulaton": 9553,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.69219,
+    37.55509
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Moscow",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

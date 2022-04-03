@@ -1,0 +1,23 @@
+{
+  "id": "samara-state-technical-university",
+  "name": "Samara State Technical University",
+  "shortName": "SSTU",
+  "web": "https://samgtu.ru",
+  "founded": "1914",
+  "approximatePopulaton": 14139,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.21003,
+    50.12475
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Samara",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

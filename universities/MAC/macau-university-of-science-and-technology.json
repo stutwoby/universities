@@ -1,0 +1,23 @@
+{
+  "id": "macau-university-of-science-and-technology",
+  "name": "Macau University of Science and Technology",
+  "shortName": "M.U.S.T.",
+  "web": "https://must.edu.mo",
+  "founded": "2000",
+  "approximatePopulaton": 10596,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    22.15341,
+    113.56754
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "MAC",
+  "nearestCity": "Avenida Wai Long, Taipa, Macau, China",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

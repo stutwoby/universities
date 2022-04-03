@@ -1,0 +1,23 @@
+{
+  "id": "technical-university-of-munich",
+  "name": "Technical University of Munich",
+  "shortName": "TUM",
+  "web": "https://tum.de",
+  "founded": "1868",
+  "approximatePopulaton": 32377,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    48.14967,
+    11.56789
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Munich",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

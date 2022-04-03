@@ -1,0 +1,23 @@
+{
+  "id": "glasgow-caledonian-university",
+  "name": "Glasgow Caledonian University",
+  "shortName": "GCU",
+  "web": "https://gcu.ac.uk",
+  "founded": "1993",
+  "approximatePopulaton": 13880,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.86616,
+    -4.25079
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Glasgow",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

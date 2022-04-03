@@ -1,0 +1,23 @@
+{
+  "id": "george-mason-university",
+  "name": "George Mason University",
+  "shortName": "GMU / Mason",
+  "web": "https://gmu.edu",
+  "founded": "1957",
+  "approximatePopulaton": 30500,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    38.83157,
+    -77.31209
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Fairfax, VA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

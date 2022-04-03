@@ -1,0 +1,23 @@
+{
+  "id": "savannah-college-of-art-and-design",
+  "name": "Savannah College of Art and Design",
+  "shortName": "SCAD",
+  "web": "https://scad.edu",
+  "founded": "1978",
+  "approximatePopulaton": 12147,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.0729,
+    -81.09387
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Savannah",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

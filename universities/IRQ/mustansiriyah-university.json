@@ -1,0 +1,23 @@
+{
+  "id": "mustansiriyah-university",
+  "name": "Mustansiriyah University",
+  "shortName": "Al-MU",
+  "web": "https://uomustansiriyah.edu.iq",
+  "founded": "1963",
+  "approximatePopulaton": 41683,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.36779,
+    44.40346
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Iraq",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

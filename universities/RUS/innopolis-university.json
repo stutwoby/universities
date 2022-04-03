@@ -1,0 +1,23 @@
+{
+  "id": "innopolis-university",
+  "name": "Innopolis University",
+  "shortName": "IU",
+  "web": "https://innopolis.university",
+  "founded": "2012",
+  "approximatePopulaton": 771,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.75345,
+    48.74337
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Innopolis",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

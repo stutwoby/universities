@@ -1,0 +1,23 @@
+{
+  "id": "koc-university",
+  "name": "Koc University",
+  "shortName": "Koc",
+  "web": "https://ku.edu.tr",
+  "founded": "1993",
+  "approximatePopulaton": 5440,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.19755,
+    29.06697
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUR",
+  "nearestCity": "Sar?yer, Istanbul",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

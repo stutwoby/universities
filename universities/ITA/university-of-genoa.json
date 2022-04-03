@@ -1,0 +1,23 @@
+{
+  "id": "university-of-genoa",
+  "name": "University of Genoa",
+  "shortName": "UniGe",
+  "web": "https://unige.it",
+  "founded": "1481",
+  "approximatePopulaton": 23405,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    44.41492,
+    8.92673
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ITA",
+  "nearestCity": "Genoa",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

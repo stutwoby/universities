@@ -1,0 +1,23 @@
+{
+  "id": "university-of-petra-uop",
+  "name": "University of Petra (UOP)",
+  "shortName": "UOP",
+  "web": "https://uop.edu.jo",
+  "founded": "1991",
+  "approximatePopulaton": 7305,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    31.89382,
+    35.87458
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JOR",
+  "nearestCity": "Jordan",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

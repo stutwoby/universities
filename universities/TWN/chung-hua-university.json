@@ -1,0 +1,23 @@
+{
+  "id": "chung-hua-university",
+  "name": "Chung Hua University",
+  "shortName": "CHU",
+  "web": "https://chu.edu.tw",
+  "founded": "1990",
+  "approximatePopulaton": 6722,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    24.76091,
+    120.95303
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Khon Kaen,Thailand",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

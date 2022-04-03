@@ -1,0 +1,23 @@
+{
+  "id": "university-of-montpellier",
+  "name": "University of Montpellier",
+  "shortName": "UM",
+  "web": "https://umontpellier.fr",
+  "founded": "1289",
+  "approximatePopulaton": 39703,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.61572,
+    3.87201
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "FRA",
+  "nearestCity": "Montpellier",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

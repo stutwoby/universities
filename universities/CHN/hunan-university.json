@@ -1,0 +1,23 @@
+{
+  "id": "hunan-university",
+  "name": "Hunan University",
+  "shortName": "Hunan",
+  "web": "https://www-en.hnu.edu.cn",
+  "founded": "976",
+  "approximatePopulaton": 41210,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    28.179,
+    112.94383
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Changsha, Hunan",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "dijlah-university-college",
+  "name": "Dijlah University College",
+  "shortName": "DUC",
+  "web": "https://duc.edu.iq",
+  "founded": "2004",
+  "approximatePopulaton": 6864,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.82582,
+    44.24452
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Baghdad / Dorah / Al-masafi Street",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

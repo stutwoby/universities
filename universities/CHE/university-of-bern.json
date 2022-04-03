@@ -1,0 +1,23 @@
+{
+  "id": "university-of-bern",
+  "name": "University of Bern",
+  "shortName": "UniBE",
+  "web": "https://unibe.ch",
+  "founded": "1834",
+  "approximatePopulaton": 11419,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    46.95049,
+    7.4381
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHE",
+  "nearestCity": "Bern",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

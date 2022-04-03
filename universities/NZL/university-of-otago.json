@@ -1,0 +1,23 @@
+{
+  "id": "university-of-otago",
+  "name": "University of Otago",
+  "shortName": "UO",
+  "web": "https://otago.ac.nz",
+  "founded": "1869",
+  "approximatePopulaton": 18571,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -45.86468,
+    170.5144
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "NZL",
+  "nearestCity": "Dunedin, Otago",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "al-karkh-university-of-science",
+  "name": "Al-Karkh University of Science",
+  "shortName": "AlKUS",
+  "web": "https://kus.edu.iq",
+  "founded": "2014",
+  "approximatePopulaton": 264,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.34212,
+    44.37421
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Baghdad",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "metropolitan-autonomous-university",
+  "name": "Metropolitan Autonomous University",
+  "shortName": "UAM",
+  "web": "https://uam.mx",
+  "founded": "1974",
+  "approximatePopulaton": 58623,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    19.2873,
+    -99.13712
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "MEX",
+  "nearestCity": "Mexico City",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

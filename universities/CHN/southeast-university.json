@@ -1,0 +1,23 @@
+{
+  "id": "southeast-university",
+  "name": "Southeast University",
+  "shortName": "SEU",
+  "web": "https://seu.edu.cn",
+  "founded": "1902",
+  "approximatePopulaton": 33804,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.05601,
+    118.79421
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Nanjing",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

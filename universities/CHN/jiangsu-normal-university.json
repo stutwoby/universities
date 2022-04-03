@@ -1,0 +1,23 @@
+{
+  "id": "jiangsu-normal-university",
+  "name": "Jiangsu Normal University",
+  "shortName": "JNU",
+  "web": "https://xznu.edu.cn",
+  "founded": "1952",
+  "approximatePopulaton": 22372,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    34.19928,
+    117.18427
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Xuzhou, Jiangsu, China",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

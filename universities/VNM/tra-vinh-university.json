@@ -1,0 +1,23 @@
+{
+  "id": "tra-vinh-university",
+  "name": "Tra Vinh University",
+  "shortName": "TVU",
+  "web": "https://tvu.edu.vn",
+  "founded": "2006",
+  "approximatePopulaton": 12223,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    9.92434,
+    106.34648
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "VNM",
+  "nearestCity": "Tra Vinh city, Tra Vinh Province, Vietnam",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

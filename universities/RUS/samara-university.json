@@ -1,0 +1,23 @@
+{
+  "id": "samara-university",
+  "name": "Samara University",
+  "shortName": "SSAU",
+  "web": "https://ssau.ru",
+  "founded": "1942",
+  "approximatePopulaton": 9806,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.21339,
+    50.17572
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Samara",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

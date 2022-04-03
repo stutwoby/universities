@@ -1,0 +1,23 @@
+{
+  "id": "university-of-oregon",
+  "name": "University of Oregon",
+  "shortName": "UO",
+  "web": "https://uoregon.edu",
+  "founded": "1876",
+  "approximatePopulaton": 22019,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    44.04483,
+    -123.07265
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Eugene, Oregon",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

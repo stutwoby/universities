@@ -1,0 +1,23 @@
+{
+  "id": "texas-a-m-university",
+  "name": "Texas A&M University",
+  "shortName": "Texas A&M",
+  "web": "https://tamu.edu",
+  "founded": "1876",
+  "approximatePopulaton": 62070,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    30.61854,
+    -96.33644
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "College Station, TX",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

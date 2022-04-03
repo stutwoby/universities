@@ -1,0 +1,23 @@
+{
+  "id": "ulyanovsk-state-university",
+  "name": "Ulyanovsk State University",
+  "shortName": "USU",
+  "web": "https://ulsu.ru",
+  "founded": "1988",
+  "approximatePopulaton": 10670,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    54.31245,
+    48.38991
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Ulyanovsk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

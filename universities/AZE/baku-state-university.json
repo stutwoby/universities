@@ -1,0 +1,23 @@
+{
+  "id": "baku-state-university",
+  "name": "Baku State University",
+  "shortName": "BSU",
+  "web": "https://bsu.edu.az/en",
+  "founded": "1919",
+  "approximatePopulaton": 19994,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.37454,
+    49.81146
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AZE",
+  "nearestCity": "Baku",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

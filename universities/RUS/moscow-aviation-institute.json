@@ -1,0 +1,23 @@
+{
+  "id": "moscow-aviation-institute",
+  "name": "Moscow Aviation Institute",
+  "shortName": "MAI",
+  "web": "https://intstudy.mai.ru",
+  "founded": "1930",
+  "approximatePopulaton": 16268,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.8109,
+    37.50009
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Moscow",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

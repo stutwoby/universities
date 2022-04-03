@@ -1,0 +1,23 @@
+{
+  "id": "arab-american-university-aaup",
+  "name": "Arab American University (AAUP)",
+  "shortName": "AAUP",
+  "web": "https://aaup.edu",
+  "founded": "2000",
+  "approximatePopulaton": 11346,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.46674,
+    35.29372
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "PSE",
+  "nearestCity": "Jenin - Palestine",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

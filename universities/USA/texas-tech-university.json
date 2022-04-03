@@ -1,0 +1,23 @@
+{
+  "id": "texas-tech-university",
+  "name": "Texas Tech University",
+  "shortName": "Texas Tech",
+  "web": "https://ttu.edu",
+  "founded": "1923",
+  "approximatePopulaton": 33464,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.58428,
+    -101.8783
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Lubbock, TX",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

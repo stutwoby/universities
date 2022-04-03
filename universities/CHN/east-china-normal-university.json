@@ -1,0 +1,23 @@
+{
+  "id": "east-china-normal-university",
+  "name": "East China Normal University",
+  "shortName": "ECNU",
+  "web": "https://ecnu.edu.cn",
+  "founded": "1951",
+  "approximatePopulaton": 27085,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    31.22778,
+    121.40657
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Shanghai",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "state-university-of-campinas-unicamp",
+  "name": "State University of Campinas (Unicamp)",
+  "shortName": "Unicamp",
+  "web": "https://unicamp.br",
+  "founded": "1966",
+  "approximatePopulaton": 29082,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -22.81842,
+    -47.06475
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "BRA",
+  "nearestCity": "Campinas, SP",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

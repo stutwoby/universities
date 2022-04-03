@@ -1,0 +1,23 @@
+{
+  "id": "ege-university",
+  "name": "Ege University",
+  "shortName": "EU",
+  "web": "https://ege.edu.tr",
+  "founded": "1955",
+  "approximatePopulaton": 42173,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    38.46307,
+    27.22041
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUR",
+  "nearestCity": "Bornova",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

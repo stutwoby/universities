@@ -1,0 +1,23 @@
+{
+  "id": "hofstra-university",
+  "name": "Hofstra University",
+  "shortName": "Hofstra",
+  "web": "https://hofstra.edu",
+  "founded": "1935",
+  "approximatePopulaton": 10042,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.71658,
+    -73.59855
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Hempstead, NY",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

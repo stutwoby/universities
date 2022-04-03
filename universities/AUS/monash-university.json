@@ -1,0 +1,23 @@
+{
+  "id": "monash-university",
+  "name": "Monash University",
+  "shortName": "Monash",
+  "web": "https://monash.edu.au",
+  "founded": "1958",
+  "approximatePopulaton": 57406,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -37.91224,
+    145.13525
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Clayton, VIC",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

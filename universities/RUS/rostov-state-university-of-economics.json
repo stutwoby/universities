@@ -1,0 +1,23 @@
+{
+  "id": "rostov-state-university-of-economics",
+  "name": "Rostov State University of Economics",
+  "shortName": "RSUE",
+  "web": "https://en.rsue.ru",
+  "founded": "1931",
+  "approximatePopulaton": 19255,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    47.22342,
+    39.71791
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Rostov-on-Don",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

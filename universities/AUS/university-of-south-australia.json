@@ -1,0 +1,23 @@
+{
+  "id": "university-of-south-australia",
+  "name": "University of South Australia",
+  "shortName": "UniSA",
+  "web": "https://unisa.edu.au",
+  "founded": "1991",
+  "approximatePopulaton": 20930,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -34.92222,
+    138.58491
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Adelaide, SA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

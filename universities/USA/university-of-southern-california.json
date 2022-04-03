@@ -1,0 +1,23 @@
+{
+  "id": "university-of-southern-california",
+  "name": "University of Southern California",
+  "shortName": "USC / SC",
+  "web": "https://usc.edu",
+  "founded": "1880",
+  "approximatePopulaton": 36929,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    34.02228,
+    -118.28507
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Los Angeles, CA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

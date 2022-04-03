@@ -1,0 +1,23 @@
+{
+  "id": "ufa-state-petroleum-technological-university-usptu",
+  "name": "Ufa State Petroleum Technological University (USPTU)",
+  "shortName": "USPTU",
+  "web": "https://rusoil.net",
+  "founded": "1948",
+  "approximatePopulaton": 18812,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    54.81932,
+    56.06858
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Ufa",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

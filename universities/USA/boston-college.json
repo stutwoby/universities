@@ -1,0 +1,23 @@
+{
+  "id": "boston-college",
+  "name": "Boston College",
+  "shortName": "BC",
+  "web": "https://bc.edu",
+  "founded": "1863",
+  "approximatePopulaton": 12921,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.33552,
+    -71.16857
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Chestnut Hill, MA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

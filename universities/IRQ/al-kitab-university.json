@@ -1,0 +1,23 @@
+{
+  "id": "al-kitab-university",
+  "name": "Al-Kitab University",
+  "shortName": "AlKU",
+  "web": "https://uoalkitab.edu.iq",
+  "founded": "2012",
+  "approximatePopulaton": 4207,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.76215,
+    44.15828
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Kirkuk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

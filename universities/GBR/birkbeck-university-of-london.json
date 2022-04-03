@@ -1,0 +1,23 @@
+{
+  "id": "birkbeck-university-of-london",
+  "name": "Birkbeck, University of London",
+  "shortName": "BBK",
+  "web": "https://bbk.ac.uk",
+  "founded": "1920",
+  "approximatePopulaton": 8155,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.5219,
+    -0.13026
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Bloomsbury, London",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

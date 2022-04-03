@@ -1,0 +1,23 @@
+{
+  "id": "national-taiwan-normal-university",
+  "name": "National Taiwan Normal University",
+  "shortName": "NTNU",
+  "web": "https://ntnu.edu.tw",
+  "founded": "1946",
+  "approximatePopulaton": 9854,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    25.02604,
+    121.52753
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Taipei",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

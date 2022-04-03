@@ -1,0 +1,23 @@
+{
+  "id": "azerbaijan-state-university-of-economics-unec",
+  "name": "Azerbaijan State University of Economics (UNEC)",
+  "shortName": "UNEC",
+  "web": "https://unec.edu.az",
+  "founded": "1930",
+  "approximatePopulaton": 17629,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.36783,
+    49.83242
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AZE",
+  "nearestCity": "Baku",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

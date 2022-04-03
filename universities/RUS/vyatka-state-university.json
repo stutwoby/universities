@@ -1,0 +1,23 @@
+{
+  "id": "vyatka-state-university",
+  "name": "Vyatka State University",
+  "shortName": "VyatSU",
+  "web": "https://vyatsu.ru",
+  "founded": "1963",
+  "approximatePopulaton": 11964,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    58.60629,
+    49.67095
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Kirov, Russia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "al-esraa-university-college",
+  "name": "Al-Esraa University College",
+  "shortName": "AlEUC",
+  "web": "https://esraa.edu.iq",
+  "founded": "2011",
+  "approximatePopulaton": 15245,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.31673,
+    44.42678
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Baghdad",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

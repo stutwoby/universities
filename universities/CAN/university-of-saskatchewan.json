@@ -1,0 +1,23 @@
+{
+  "id": "university-of-saskatchewan",
+  "name": "University of Saskatchewan",
+  "shortName": "U of S",
+  "web": "https://usask.ca",
+  "founded": "1907",
+  "approximatePopulaton": 17973,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.13337,
+    -106.63143
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Saskatoon, SK",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

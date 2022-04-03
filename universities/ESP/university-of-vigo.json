@@ -1,0 +1,23 @@
+{
+  "id": "university-of-vigo",
+  "name": "University of Vigo",
+  "shortName": "UVIGO",
+  "web": "https://uvigo.es",
+  "founded": "1990",
+  "approximatePopulaton": 18868,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.16945,
+    -8.68344
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "Vigo, Galicia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kyiv-national-economic-university",
+  "name": "Kyiv National Economic University",
+  "shortName": "KNEU",
+  "web": "https://kneu.edu.ua",
+  "founded": "1906",
+  "approximatePopulaton": 11359,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    50.45615,
+    30.44066
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "UKR",
+  "nearestCity": "Kiev",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

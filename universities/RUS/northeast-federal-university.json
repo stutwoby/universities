@@ -1,0 +1,23 @@
+{
+  "id": "northeast-federal-university",
+  "name": "Northeast Federal University",
+  "shortName": "NEFU",
+  "web": "https://s-vfu.ru",
+  "founded": "1956",
+  "approximatePopulaton": 12806,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    62.01985,
+    129.70933
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Yakutsk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

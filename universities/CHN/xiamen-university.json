@@ -1,0 +1,23 @@
+{
+  "id": "xiamen-university",
+  "name": "Xiamen University",
+  "shortName": "Xia Da",
+  "web": "https://xmu.edu.cn",
+  "founded": "1921",
+  "approximatePopulaton": 41546,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    24.43727,
+    118.09783
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Xiamen, Fujian",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

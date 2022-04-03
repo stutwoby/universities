@@ -1,0 +1,23 @@
+{
+  "id": "university-of-plymouth",
+  "name": "University of Plymouth",
+  "shortName": "N/A",
+  "web": "https://plymouth.ac.uk",
+  "founded": "1992",
+  "approximatePopulaton": 18055,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    50.3745,
+    -4.14068
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Plymouth, England",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

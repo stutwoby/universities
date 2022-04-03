@@ -1,0 +1,23 @@
+{
+  "id": "university-of-turku",
+  "name": "University of Turku",
+  "shortName": "UTU",
+  "web": "https://utu.fi",
+  "founded": "1920",
+  "approximatePopulaton": 12639,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    60.45629,
+    22.28506
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "FIN",
+  "nearestCity": "Turku",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

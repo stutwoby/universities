@@ -1,0 +1,23 @@
+{
+  "id": "mahasarakham-university",
+  "name": "Mahasarakham University",
+  "shortName": "MSU",
+  "web": "https://msu.ac.th",
+  "founded": "1968",
+  "approximatePopulaton": 42386,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    16.20033,
+    103.284
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "THA",
+  "nearestCity": "Kantharawichai",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "technical-university-of-berlin",
+  "name": "Technical University of Berlin",
+  "shortName": "TU Berlin",
+  "web": "https://tu-berlin.de",
+  "founded": "1946",
+  "approximatePopulaton": 22695,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.51253,
+    13.32691
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Berlin",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

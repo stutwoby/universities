@@ -1,0 +1,23 @@
+{
+  "id": "sungkyunkwan-university",
+  "name": "Sungkyunkwan University",
+  "shortName": "Seongdae",
+  "web": "https://skku.edu",
+  "founded": "1398",
+  "approximatePopulaton": 23340,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    37.58822,
+    126.99356
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KOR",
+  "nearestCity": "Suwon, Seoul",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

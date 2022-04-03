@@ -1,0 +1,23 @@
+{
+  "id": "the-kosygin-state-university-of-russia-kosygin-university",
+  "name": "The Kosygin State University of Russia (Kosygin University)",
+  "shortName": "Kosygin University",
+  "web": "https://kosygin-rgu.ru",
+  "founded": "1930",
+  "approximatePopulaton": 9881,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.71977,
+    37.6005
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Moscow",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

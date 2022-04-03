@@ -1,0 +1,23 @@
+{
+  "id": "kabardino-balkarian-state-university",
+  "name": "Kabardino-Balkarian State University",
+  "shortName": "KBSU",
+  "web": "https://pk.kbsu.ru",
+  "founded": "1957",
+  "approximatePopulaton": 9258,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.49515,
+    43.59628
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Nalchik, Kabardino-Balkaria, Russia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

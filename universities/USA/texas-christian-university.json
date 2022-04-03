@@ -1,0 +1,23 @@
+{
+  "id": "texas-christian-university",
+  "name": "Texas Christian University",
+  "shortName": "TCU",
+  "web": "https://tcu.edu",
+  "founded": "1873",
+  "approximatePopulaton": 10247,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.70963,
+    -97.3628
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Fort Worth, Texas",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

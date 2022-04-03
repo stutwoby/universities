@@ -1,0 +1,23 @@
+{
+  "id": "university-of-tsukuba",
+  "name": "University of Tsukuba",
+  "shortName": "UT",
+  "web": "https://tsukuba.ac.jp",
+  "founded": "1973",
+  "approximatePopulaton": 16633,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.10868,
+    140.10396
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Tsukuba, Ibaraki",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

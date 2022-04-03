@@ -1,0 +1,23 @@
+{
+  "id": "beijing-institute-of-technology",
+  "name": "Beijing Institute of Technology",
+  "shortName": "BIT",
+  "web": "https://bit.edu.cn",
+  "founded": "1940",
+  "approximatePopulaton": 31964,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.95713,
+    116.31154
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Beijing",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

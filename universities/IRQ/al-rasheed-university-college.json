@@ -1,0 +1,23 @@
+{
+  "id": "al-rasheed-university-college",
+  "name": "Al-Rasheed University College",
+  "shortName": "RU",
+  "web": "https://alrasheedcol.edu.iq",
+  "founded": "2010",
+  "approximatePopulaton": 4370,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.28573,
+    44.30934
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Baghdad, Iraq",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

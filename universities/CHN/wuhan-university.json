@@ -1,0 +1,23 @@
+{
+  "id": "wuhan-university",
+  "name": "Wuhan University",
+  "shortName": "WHU",
+  "web": "https://whu.edu.cn/",
+  "founded": "1893",
+  "approximatePopulaton": 53956,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    30.53605,
+    114.3644
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Wuhan, Hubei",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "east-carolina-university",
+  "name": "East Carolina University",
+  "shortName": "ECU / East Carolina",
+  "web": "https://ecu.edu",
+  "founded": "1907",
+  "approximatePopulaton": 26230,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.60551,
+    -77.36456
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": " Greenville, NC",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

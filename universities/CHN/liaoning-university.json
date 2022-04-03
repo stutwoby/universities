@@ -1,0 +1,23 @@
+{
+  "id": "liaoning-university",
+  "name": "Liaoning University",
+  "shortName": "LU",
+  "web": "https://lnu.edu.cn",
+  "founded": "1948",
+  "approximatePopulaton": 24767,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.902,
+    123.41334
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Shenyang, Liaoning, China",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

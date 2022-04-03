@@ -1,0 +1,23 @@
+{
+  "id": "jinan-university",
+  "name": "Jinan University",
+  "shortName": "JNU",
+  "web": "https://english.jnu.edu.cn",
+  "founded": "1906",
+  "approximatePopulaton": 35124,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    23.12802,
+    113.3478
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Tianhe, Guangzhou",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

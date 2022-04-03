@@ -1,0 +1,23 @@
+{
+  "id": "keele-university",
+  "name": "Keele University",
+  "shortName": "KU",
+  "web": "https://keele.ac.uk",
+  "founded": "1949",
+  "approximatePopulaton": 9055,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.00344,
+    -2.27203
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Keele, Newcastle-under-Lyme, Staffordshire",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

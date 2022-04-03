@@ -1,0 +1,23 @@
+{
+  "id": "fu-jen-catholic-university",
+  "name": "Fu Jen Catholic University",
+  "shortName": "FJU",
+  "web": "https://fju.edu.tw",
+  "founded": "1961",
+  "approximatePopulaton": 19606,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    25.0354,
+    121.43246
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Xinzhuang, New Taipei City",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

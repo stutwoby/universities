@@ -1,0 +1,23 @@
+{
+  "id": "dartmouth-college",
+  "name": "Dartmouth College",
+  "shortName": "Dartmouth",
+  "web": "https://dartmouth.edu",
+  "founded": "1769",
+  "approximatePopulaton": 6336,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.70443,
+    -72.2887
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Hanover, NH",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

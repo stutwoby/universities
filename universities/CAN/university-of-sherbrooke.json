@@ -1,0 +1,23 @@
+{
+  "id": "university-of-sherbrooke",
+  "name": "University of Sherbrooke",
+  "shortName": "No information",
+  "web": "https://usherbrooke.ca/",
+  "founded": "1954",
+  "approximatePopulaton": 15667,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.37898,
+    -71.92883
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": " Sherbrooke",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

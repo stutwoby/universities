@@ -1,0 +1,23 @@
+{
+  "id": "eotvos-lorand-university",
+  "name": "Eotvos Lorand University",
+  "shortName": "ELTE",
+  "web": "https://elte.hu",
+  "founded": "1635",
+  "approximatePopulaton": 27199,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    47.49089,
+    19.05874
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "HUN",
+  "nearestCity": "Budapest",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

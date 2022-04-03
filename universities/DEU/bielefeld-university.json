@@ -1,0 +1,23 @@
+{
+  "id": "bielefeld-university",
+  "name": "Bielefeld University",
+  "shortName": "Bielefeld U",
+  "web": "https://uni-bielefeld.de",
+  "founded": "1969",
+  "approximatePopulaton": 25015,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.03542,
+    8.49633
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Bielefeld, Northrhine-Westphalia ",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

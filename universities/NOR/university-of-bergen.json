@@ -1,0 +1,23 @@
+{
+  "id": "university-of-bergen",
+  "name": "University of Bergen",
+  "shortName": "UBergen",
+  "web": "https://uib.no",
+  "founded": "1946",
+  "approximatePopulaton": 14297,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    60.38783,
+    5.3218
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "NOR",
+  "nearestCity": "Bergen",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "flinders-university",
+  "name": "Flinders University",
+  "shortName": "FU",
+  "web": "https://flinders.edu.au",
+  "founded": "1966",
+  "approximatePopulaton": 17167,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -35.02266,
+    138.56944
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Adelaide, SA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "lappeenranta-university-of-technology",
+  "name": "Lappeenranta University of Technology",
+  "shortName": "LUT",
+  "web": "https://lut.fi",
+  "founded": "1969",
+  "approximatePopulaton": 4099,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    61.06481,
+    28.09295
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "FIN",
+  "nearestCity": "Lappeenranta",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

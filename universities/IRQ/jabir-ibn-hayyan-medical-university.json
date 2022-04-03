@@ -1,0 +1,23 @@
+{
+  "id": "jabir-ibn-hayyan-medical-university",
+  "name": "Jabir Ibn Hayyan Medical University",
+  "shortName": "JIHMU",
+  "web": "https://jmu.edu.iq",
+  "founded": "2013",
+  "approximatePopulaton": 787,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.01315,
+    44.36155
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Kufa",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

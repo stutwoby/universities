@@ -1,0 +1,23 @@
+{
+  "id": "kuwait-university",
+  "name": "Kuwait University",
+  "shortName": "KU",
+  "web": "https://kuniv.edu",
+  "founded": "1966",
+  "approximatePopulaton": 36853,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    29.33991,
+    47.91809
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KWT",
+  "nearestCity": "Kuwait City",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

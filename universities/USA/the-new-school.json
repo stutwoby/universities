@@ -1,0 +1,23 @@
+{
+  "id": "the-new-school",
+  "name": "The New School",
+  "shortName": "NS",
+  "web": "https://newschool.edu",
+  "founded": "1919",
+  "approximatePopulaton": 8823,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.7355,
+    -73.99712
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "New York City",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

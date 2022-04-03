@@ -1,0 +1,23 @@
+{
+  "id": "tsinghua-university",
+  "name": "Tsinghua University",
+  "shortName": "THU",
+  "web": "https://tsinghua.edu.cn",
+  "founded": "1911",
+  "approximatePopulaton": 37484,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.99962,
+    116.32653
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Beijing",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

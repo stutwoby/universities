@@ -1,0 +1,23 @@
+{
+  "id": "university-of-toronto",
+  "name": "University of Toronto",
+  "shortName": "Utoronto",
+  "web": "https://utoronto.ca",
+  "founded": "1827",
+  "approximatePopulaton": 74502,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.66286,
+    -79.39566
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Toronto, ON",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

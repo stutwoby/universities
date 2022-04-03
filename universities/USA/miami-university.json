@@ -1,0 +1,23 @@
+{
+  "id": "miami-university",
+  "name": "Miami University",
+  "shortName": "Miami U",
+  "web": "https://miamioh.edu",
+  "founded": "1809",
+  "approximatePopulaton": 18301,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.51013,
+    -84.7314
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Oxford, OH",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

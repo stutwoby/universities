@@ -1,0 +1,23 @@
+{
+  "id": "ludwig-maximilian-university-of-munich",
+  "name": "Ludwig Maximilian University of Munich",
+  "shortName": "LMU",
+  "web": "https://en.uni-muenchen.de",
+  "founded": "1472",
+  "approximatePopulaton": 34252,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    48.15065,
+    11.58014
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Munich",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

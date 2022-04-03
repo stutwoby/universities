@@ -1,0 +1,23 @@
+{
+  "id": "aberystwyth-university",
+  "name": "Aberystwyth University",
+  "shortName": "AU",
+  "web": "https://aber.ac.uk",
+  "founded": "1872",
+  "approximatePopulaton": 6800,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.41537,
+    -4.06325
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Aberystwyth, Wales",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

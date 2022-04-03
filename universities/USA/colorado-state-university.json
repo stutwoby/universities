@@ -1,0 +1,23 @@
+{
+  "id": "colorado-state-university",
+  "name": "Colorado State University",
+  "shortName": "CSU",
+  "web": "https://colostate.edu",
+  "founded": "1870",
+  "approximatePopulaton": 26178,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.57347,
+    -105.08645
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Fort Collins, CO",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

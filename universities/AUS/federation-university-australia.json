@@ -1,0 +1,23 @@
+{
+  "id": "federation-university-australia",
+  "name": "Federation University Australia",
+  "shortName": "FUA",
+  "web": "https://federation.edu.au",
+  "founded": "1870",
+  "approximatePopulaton": 11888,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -37.515,
+    143.89471
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Oceania",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

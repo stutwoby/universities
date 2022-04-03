@@ -1,0 +1,23 @@
+{
+  "id": "northeastern-university",
+  "name": "Northeastern University",
+  "shortName": "NU",
+  "web": "https://northeastern.edu",
+  "founded": "1898",
+  "approximatePopulaton": 20711,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.34028,
+    -71.08574
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Boston, MA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

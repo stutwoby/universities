@@ -1,0 +1,23 @@
+{
+  "id": "gwangju-institute-of-science-and-technology",
+  "name": "Gwangju Institute of Science and Technology",
+  "shortName": "GIST",
+  "web": "https://gist.ac.kr",
+  "founded": "1993",
+  "approximatePopulaton": 1933,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.22722,
+    126.84068
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KOR",
+  "nearestCity": "Gwangju",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

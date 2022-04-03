@@ -1,0 +1,23 @@
+{
+  "id": "gebze-technical-university",
+  "name": "Gebze Technical University",
+  "shortName": "GTU",
+  "web": "https://gtu.edu.tr",
+  "founded": "1992",
+  "approximatePopulaton": 7492,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.80913,
+    29.36498
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUR",
+  "nearestCity": "Gebze",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

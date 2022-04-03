@@ -1,0 +1,23 @@
+{
+  "id": "ufa-state-aviation-technical-university",
+  "name": "Ufa State Aviation Technical University",
+  "shortName": "USATU",
+  "web": "https://ugatu.su",
+  "founded": "1932",
+  "approximatePopulaton": 14111,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    54.72501,
+    55.94249
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Ufa",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

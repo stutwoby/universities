@@ -1,0 +1,23 @@
+{
+  "id": "hunan-normal-university",
+  "name": "Hunan Normal University",
+  "shortName": "HNU",
+  "web": "https://hunnu.edu.cn",
+  "founded": "1938",
+  "approximatePopulaton": 32697,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    28.16886,
+    112.93704
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Changsha, Hunan, China",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

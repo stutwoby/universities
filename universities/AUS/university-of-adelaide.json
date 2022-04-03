@@ -1,0 +1,23 @@
+{
+  "id": "university-of-adelaide",
+  "name": "University of Adelaide",
+  "shortName": "UA",
+  "web": "https://adelaide.edu.au",
+  "founded": "1874",
+  "approximatePopulaton": 21054,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -34.9206,
+    138.60622
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Adelaide, SA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

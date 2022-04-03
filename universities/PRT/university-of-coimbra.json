@@ -1,0 +1,23 @@
+{
+  "id": "university-of-coimbra",
+  "name": "University of Coimbra",
+  "shortName": "UC",
+  "web": "https://uc.pt",
+  "founded": "1290",
+  "approximatePopulaton": 21332,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.20897,
+    -8.42419
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "PRT",
+  "nearestCity": "Coimbra",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

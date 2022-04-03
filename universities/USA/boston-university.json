@@ -1,0 +1,23 @@
+{
+  "id": "boston-university",
+  "name": "Boston University",
+  "shortName": "BU / Boston U",
+  "web": "https://bu.edu",
+  "founded": "1839",
+  "approximatePopulaton": 26510,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.35045,
+    -71.10541
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Boston, MA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

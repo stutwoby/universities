@@ -1,0 +1,23 @@
+{
+  "id": "yokohama-city-university",
+  "name": "Yokohama City University",
+  "shortName": "YCU",
+  "web": "https://yokohama-cu.ac.jp/index-e.html",
+  "founded": "1882",
+  "approximatePopulaton": 4976,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.33385,
+    139.61827
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Yokohama, Kanagawa",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

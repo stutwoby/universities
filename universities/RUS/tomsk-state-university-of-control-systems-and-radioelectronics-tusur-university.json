@@ -1,0 +1,23 @@
+{
+  "id": "tomsk-state-university-of-control-systems-and-radioelectronics-tusur-university",
+  "name": "Tomsk State University of Control Systems and Radioelectronics (TUSUR University)",
+  "shortName": "TUSUR",
+  "web": "https://tusur.ru/en",
+  "founded": "1962",
+  "approximatePopulaton": 6409,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    56.47444,
+    84.94915
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Tomsk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

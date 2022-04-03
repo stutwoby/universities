@@ -1,0 +1,23 @@
+{
+  "id": "universite-de-carthage",
+  "name": "Universite de Carthage",
+  "shortName": "UC",
+  "web": "https://ucar.rnu.tn",
+  "founded": "1988",
+  "approximatePopulaton": 31188,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.86456,
+    10.33193
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUN",
+  "nearestCity": "Carthage",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

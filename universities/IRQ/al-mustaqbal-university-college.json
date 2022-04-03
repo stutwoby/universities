@@ -1,0 +1,23 @@
+{
+  "id": "al-mustaqbal-university-college",
+  "name": "Al-Mustaqbal University College",
+  "shortName": "AMU",
+  "web": "https://mustaqbal-college.edu.iq",
+  "founded": "2010",
+  "approximatePopulaton": 4840,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.39559,
+    44.40376
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Hillah",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

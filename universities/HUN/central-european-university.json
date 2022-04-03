@@ -1,0 +1,23 @@
+{
+  "id": "central-european-university",
+  "name": "Central European University",
+  "shortName": "CEU",
+  "web": "https://ceu.hu",
+  "founded": "1991",
+  "approximatePopulaton": 1369,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    47.50053,
+    19.04949
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "HUN",
+  "nearestCity": "Budapest",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

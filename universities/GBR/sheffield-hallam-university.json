@@ -1,0 +1,23 @@
+{
+  "id": "sheffield-hallam-university",
+  "name": "Sheffield Hallam University",
+  "shortName": "SHU",
+  "web": "https://shu.ac.uk",
+  "founded": "1992",
+  "approximatePopulaton": 26540,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.37903,
+    -1.46604
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Sheffield, South Yorkshire, England",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

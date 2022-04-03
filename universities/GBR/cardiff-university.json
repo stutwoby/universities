@@ -1,0 +1,23 @@
+{
+  "id": "cardiff-university",
+  "name": "Cardiff University",
+  "shortName": "CU",
+  "web": "https://cardiff.ac.uk",
+  "founded": "1997",
+  "approximatePopulaton": 26735,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.48655,
+    -3.17891
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Cardiff, Wales",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

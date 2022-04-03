@@ -1,0 +1,23 @@
+{
+  "id": "university-of-sheffield",
+  "name": "University of Sheffield",
+  "shortName": "N/A",
+  "web": "https://sheffield.ac.uk",
+  "founded": "1905",
+  "approximatePopulaton": 27065,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.38094,
+    -1.48794
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Sheffield, South Yorkshire, England",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

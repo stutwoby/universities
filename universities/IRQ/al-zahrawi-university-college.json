@@ -1,0 +1,23 @@
+{
+  "id": "al-zahrawi-university-college",
+  "name": "Al-Zahrawi University College",
+  "shortName": "AZUC",
+  "web": "https://alzahu.edu.iq",
+  "founded": "2009",
+  "approximatePopulaton": 2701,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.51923,
+    44.11926
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Kerbala, Iraq",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

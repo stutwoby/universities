@@ -1,0 +1,23 @@
+{
+  "id": "dunarea-de-jos-university-of-galati",
+  "name": "Dunarea de Jos University of Galati",
+  "shortName": "UG",
+  "web": "https://ugal.ro",
+  "founded": "1974",
+  "approximatePopulaton": 12383,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.43934,
+    28.05596
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ROU",
+  "nearestCity": "Romania\\n",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

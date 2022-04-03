@@ -1,0 +1,23 @@
+{
+  "id": "charles-university-in-prague",
+  "name": "Charles University in Prague",
+  "shortName": "CUP",
+  "web": "https://cuni.cz",
+  "founded": "1348",
+  "approximatePopulaton": 47406,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    50.08708,
+    14.4235
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CZE",
+  "nearestCity": "Prague",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

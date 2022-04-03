@@ -1,0 +1,23 @@
+{
+  "id": "university-of-central-lancashire",
+  "name": "University of Central Lancashire",
+  "shortName": "UCLan",
+  "web": "https://uclan.ac.uk",
+  "founded": "1992",
+  "approximatePopulaton": 18685,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.7619,
+    -2.70844
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Preston",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

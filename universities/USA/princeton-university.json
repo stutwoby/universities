@@ -1,0 +1,23 @@
+{
+  "id": "princeton-university",
+  "name": "Princeton University",
+  "shortName": "Princeton",
+  "web": "https://princeton.edu",
+  "founded": "1746",
+  "approximatePopulaton": 8091,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.34399,
+    -74.65143
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Princeton, NJ",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

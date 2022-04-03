@@ -1,0 +1,23 @@
+{
+  "id": "king-saud-university",
+  "name": "King Saud University",
+  "shortName": "KSU",
+  "web": "https://ksu.edu.sa",
+  "founded": "1957",
+  "approximatePopulaton": 40184,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    24.71626,
+    46.61913
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "SAU",
+  "nearestCity": "Riyadh",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "karolinska-institute",
+  "name": "Karolinska Institute",
+  "shortName": "KI ",
+  "web": "https://ki.se",
+  "founded": "1810",
+  "approximatePopulaton": 7696,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    59.34814,
+    18.02363
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "SWE",
+  "nearestCity": "Solna, Stockholm County",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

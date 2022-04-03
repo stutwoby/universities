@@ -1,0 +1,23 @@
+{
+  "id": "university-of-turin",
+  "name": "University of Turin",
+  "shortName": "UNITO",
+  "web": "https://unito.it",
+  "founded": "1404",
+  "approximatePopulaton": 55957,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.06944,
+    7.68891
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ITA",
+  "nearestCity": "Turin",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

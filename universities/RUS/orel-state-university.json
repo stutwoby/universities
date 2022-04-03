@@ -1,0 +1,23 @@
+{
+  "id": "orel-state-university",
+  "name": "Orel State University",
+  "shortName": "OSU",
+  "web": "https://oreluniver.ru",
+  "founded": "1931",
+  "approximatePopulaton": 16636,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.95085,
+    36.06394
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Oryol",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

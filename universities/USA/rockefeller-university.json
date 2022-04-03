@@ -1,0 +1,23 @@
+{
+  "id": "rockefeller-university",
+  "name": "Rockefeller University",
+  "shortName": "RU",
+  "web": "https://rockefeller.edu",
+  "founded": "1901",
+  "approximatePopulaton": 231,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.76255,
+    -73.95568
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "New York City",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

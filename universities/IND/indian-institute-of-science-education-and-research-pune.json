@@ -1,0 +1,23 @@
+{
+  "id": "indian-institute-of-science-education-and-research-pune",
+  "name": "Indian Institute of Science Education and Research, Pune",
+  "shortName": "IISER PUNE",
+  "web": "https://iiserpune.ac.in",
+  "founded": "2006",
+  "approximatePopulaton": 1418,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    18.54769,
+    73.80756
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IND",
+  "nearestCity": "Pune, Maharashtra",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

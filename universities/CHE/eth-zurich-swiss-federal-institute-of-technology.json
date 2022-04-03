@@ -1,0 +1,23 @@
+{
+  "id": "eth-zurich-swiss-federal-institute-of-technology",
+  "name": "ETH Zurich (Swiss Federal Institute of Technology)",
+  "shortName": "ETH Zurich",
+  "web": "https://ethz.ch",
+  "founded": "1855",
+  "approximatePopulaton": 19043,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    47.37631,
+    8.54766
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHE",
+  "nearestCity": "Zurich",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

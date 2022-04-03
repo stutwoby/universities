@@ -1,0 +1,23 @@
+{
+  "id": "european-university-skopje",
+  "name": "European University Skopje",
+  "shortName": "EU",
+  "web": "https://eu.edu.mk",
+  "founded": "2001",
+  "approximatePopulaton": 781,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.99519,
+    21.42397
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "MKD",
+  "nearestCity": "Skopje",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-lucerne",
+  "name": "University of Lucerne",
+  "shortName": "UNILU",
+  "web": "https://unilu.ch",
+  "founded": "2000",
+  "approximatePopulaton": 2780,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    47.0494,
+    8.31251
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHE",
+  "nearestCity": "Lucerne",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

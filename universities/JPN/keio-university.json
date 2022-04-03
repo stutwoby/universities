@@ -1,0 +1,23 @@
+{
+  "id": "keio-university",
+  "name": "Keio University",
+  "shortName": "KeU",
+  "web": "https://keio.ac.jp",
+  "founded": "1858",
+  "approximatePopulaton": 34498,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.64893,
+    139.74293
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Minato, Tokyo",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

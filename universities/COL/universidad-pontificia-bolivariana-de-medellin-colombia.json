@@ -1,0 +1,23 @@
+{
+  "id": "universidad-pontificia-bolivariana-de-medellin-colombia",
+  "name": "Universidad Pontificia Bolivariana de Medellin-Colombia",
+  "shortName": "UPB",
+  "web": "https://upb.edu.co",
+  "founded": "1936",
+  "approximatePopulaton": 15401,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    6.24256,
+    -75.5892
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "COL",
+  "nearestCity": "Medellin, Antioquia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

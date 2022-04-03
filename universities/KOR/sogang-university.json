@@ -1,0 +1,23 @@
+{
+  "id": "sogang-university",
+  "name": "Sogang University",
+  "shortName": "SU",
+  "web": "https://sogang.ac.kr",
+  "founded": "1960",
+  "approximatePopulaton": 9749,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    37.55129,
+    126.94073
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KOR",
+  "nearestCity": "Seoul",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

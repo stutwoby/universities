@@ -1,0 +1,23 @@
+{
+  "id": "tver-state-university",
+  "name": "Tver State University",
+  "shortName": "TSU",
+  "web": "https://tversu.ru",
+  "founded": "1870",
+  "approximatePopulaton": 8554,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    56.85487,
+    35.91139
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Tver",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "perm-national-research-polytechnic-university",
+  "name": "Perm National Research Polytechnic University",
+  "shortName": "PNRPU",
+  "web": "https://pstu.ru",
+  "founded": "1935",
+  "approximatePopulaton": 8257,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    58.00824,
+    56.24025
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Perm",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

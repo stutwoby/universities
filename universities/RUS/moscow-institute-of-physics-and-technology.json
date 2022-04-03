@@ -1,0 +1,23 @@
+{
+  "id": "moscow-institute-of-physics-and-technology",
+  "name": "Moscow Institute of Physics and Technology",
+  "shortName": "Phystech / MIPT",
+  "web": "https://mipt.ru",
+  "founded": "1946",
+  "approximatePopulaton": 5736,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.92941,
+    37.5185
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Dolgoprudniy",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

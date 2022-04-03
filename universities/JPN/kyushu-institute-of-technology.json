@@ -1,0 +1,23 @@
+{
+  "id": "kyushu-institute-of-technology",
+  "name": "Kyushu Institute of Technology",
+  "shortName": "KIT",
+  "web": "https://kyutech.ac.jp",
+  "founded": "1949",
+  "approximatePopulaton": 5649,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.89415,
+    130.83925
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Kitakyushu and Iizuka, Fukuoka",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

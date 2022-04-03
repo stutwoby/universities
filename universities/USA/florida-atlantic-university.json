@@ -1,0 +1,23 @@
+{
+  "id": "florida-atlantic-university",
+  "name": "Florida Atlantic University",
+  "shortName": "FAU",
+  "web": "https://fau.edu",
+  "founded": "1961",
+  "approximatePopulaton": 24921,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    26.37633,
+    -80.10115
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Boca",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

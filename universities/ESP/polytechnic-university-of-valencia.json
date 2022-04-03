@@ -1,0 +1,23 @@
+{
+  "id": "polytechnic-university-of-valencia",
+  "name": "Polytechnic University of Valencia",
+  "shortName": "UPV",
+  "web": "https://upv.es",
+  "founded": "1971",
+  "approximatePopulaton": 22443,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.48104,
+    -0.34111
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "Valencia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-science-and-technology-of-china",
+  "name": "University of Science and Technology of China",
+  "shortName": "USTC",
+  "web": "https://ustc.edu.cn",
+  "founded": "1958",
+  "approximatePopulaton": 16434,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    31.83872,
+    117.26208
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Hefei, Anhui",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

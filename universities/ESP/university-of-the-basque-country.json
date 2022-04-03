@@ -1,0 +1,23 @@
+{
+  "id": "university-of-the-basque-country",
+  "name": "University of the Basque Country",
+  "shortName": "UPV/EHU",
+  "web": "https://ehu.eus",
+  "founded": "1980",
+  "approximatePopulaton": 42724,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.33093,
+    -2.96786
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "San Sebastian",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

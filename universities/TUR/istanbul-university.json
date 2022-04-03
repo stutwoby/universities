@@ -1,0 +1,23 @@
+{
+  "id": "istanbul-university",
+  "name": "Istanbul University",
+  "shortName": "IU",
+  "web": "https://istanbul.edu.tr",
+  "founded": "1933",
+  "approximatePopulaton": 87146,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.0126,
+    28.96184
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUR",
+  "nearestCity": "Istanbul",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

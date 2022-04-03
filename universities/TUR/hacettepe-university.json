@@ -1,0 +1,23 @@
+{
+  "id": "hacettepe-university",
+  "name": "Hacettepe University",
+  "shortName": "HU",
+  "web": "https://hacettepe.edu.tr",
+  "founded": "1967",
+  "approximatePopulaton": 51530,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.93176,
+    32.86261
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUR",
+  "nearestCity": "Ankara",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

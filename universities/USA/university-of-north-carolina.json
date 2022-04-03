@@ -1,0 +1,23 @@
+{
+  "id": "university-of-north-carolina",
+  "name": "University of North Carolina",
+  "shortName": "UNC system",
+  "web": "https://northcarolina.edu",
+  "founded": "1789",
+  "approximatePopulaton": 30953,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.30697,
+    -80.73162
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Chapel Hill, NC",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

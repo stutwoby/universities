@@ -1,0 +1,23 @@
+{
+  "id": "universite-cote-dazur-comue",
+  "name": "Universite Cote d`Azur (ComUE)",
+  "shortName": "UCtA",
+  "web": "https://univ-cotedazur.fr",
+  "founded": "2015",
+  "approximatePopulaton": 36706,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.61564,
+    7.07171
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "FRA",
+  "nearestCity": "Nice",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "saint-petersburg-state-university",
+  "name": "Saint Petersburg State University",
+  "shortName": "SPbSU",
+  "web": "https://eng.spbu.ru",
+  "founded": "1724 (1819)",
+  "approximatePopulaton": 21865,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    59.94188,
+    30.2989
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Saint-Petersburg",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

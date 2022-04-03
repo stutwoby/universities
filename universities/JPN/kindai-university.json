@@ -1,0 +1,23 @@
+{
+  "id": "kindai-university",
+  "name": "Kindai University",
+  "shortName": "Kinki",
+  "web": "https://kindai.ac.jp/english",
+  "founded": "1925",
+  "approximatePopulaton": 33614,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    34.65124,
+    135.58703
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Higashiosaka",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

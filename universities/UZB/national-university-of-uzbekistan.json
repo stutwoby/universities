@@ -1,0 +1,23 @@
+{
+  "id": "national-university-of-uzbekistan",
+  "name": "National University of Uzbekistan",
+  "shortName": "NUU",
+  "web": "https://nuu.uz",
+  "founded": "1918",
+  "approximatePopulaton": 15131,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.35118,
+    69.20543
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "UZB",
+  "nearestCity": "Tashkent, Uzbekistan",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

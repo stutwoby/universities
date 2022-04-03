@@ -1,0 +1,23 @@
+{
+  "id": "virginia-polytechnic-institute-and-state-university",
+  "name": "Virginia Polytechnic Institute and State University",
+  "shortName": "Virginia Tech",
+  "web": "https://vt.edu",
+  "founded": "1872",
+  "approximatePopulaton": 34155,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    37.22836,
+    -80.42343
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Blacksburg, VA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

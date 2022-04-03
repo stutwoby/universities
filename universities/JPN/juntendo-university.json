@@ -1,0 +1,23 @@
+{
+  "id": "juntendo-university",
+  "name": "Juntendo University",
+  "shortName": "Juntendo",
+  "web": "https://juntendo.ac.jp",
+  "founded": "1838",
+  "approximatePopulaton": 4953,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.70211,
+    139.76087
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Bunkyj, Tokyo",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

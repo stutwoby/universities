@@ -1,0 +1,23 @@
+{
+  "id": "gyeongsang-national-university",
+  "name": "Gyeongsang National University",
+  "shortName": "GNU",
+  "web": "https://gnu.ac.kr/main",
+  "founded": "1948",
+  "approximatePopulaton": 13397,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.15401,
+    128.09947
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KOR",
+  "nearestCity": "Jinju, Gyeongsangnam-do, South Korea",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-aberdeen",
+  "name": "University of Aberdeen",
+  "shortName": "UA",
+  "web": "https://abdn.ac.uk",
+  "founded": "1495",
+  "approximatePopulaton": 12615,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    57.16475,
+    -2.10153
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Aberdeen",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

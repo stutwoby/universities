@@ -1,0 +1,23 @@
+{
+  "id": "university-of-st-andrews",
+  "name": "University of St. Andrews",
+  "shortName": "St. Andrews",
+  "web": "https://st-andrews.ac.uk/",
+  "founded": "1413",
+  "approximatePopulaton": 9605,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    56.34169,
+    -2.79279
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Fife, Scotland, UK",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "vellore-institute-of-technology",
+  "name": "Vellore Institute of Technology",
+  "shortName": "VIT",
+  "web": "https://vit.ac.in",
+  "founded": "1984",
+  "approximatePopulaton": 32943,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    12.97153,
+    79.15877
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IND",
+  "nearestCity": "Vellore, Chennai",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

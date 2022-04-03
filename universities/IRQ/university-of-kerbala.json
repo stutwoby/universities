@@ -1,0 +1,23 @@
+{
+  "id": "university-of-kerbala",
+  "name": "University of Kerbala",
+  "shortName": "UoK",
+  "web": "https://uokerbala.edu.iq",
+  "founded": "2002",
+  "approximatePopulaton": 16496,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.60936,
+    44.00384
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Kerbala",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

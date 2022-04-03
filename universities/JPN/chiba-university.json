@@ -1,0 +1,23 @@
+{
+  "id": "chiba-university",
+  "name": "Chiba University",
+  "shortName": "CU",
+  "web": "https://chiba-u.jp",
+  "founded": "1949",
+  "approximatePopulaton": 13764,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.62622,
+    140.1024
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Chiba, Chiba",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

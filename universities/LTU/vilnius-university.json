@@ -1,0 +1,23 @@
+{
+  "id": "vilnius-university",
+  "name": "Vilnius University",
+  "shortName": "VU",
+  "web": "https://vu.lt",
+  "founded": "1579",
+  "approximatePopulaton": 16216,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    54.68259,
+    25.28765
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "LTU",
+  "nearestCity": "Vilnius",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

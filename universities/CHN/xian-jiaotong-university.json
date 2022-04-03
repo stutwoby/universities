@@ -1,0 +1,23 @@
+{
+  "id": "xian-jiaotong-university",
+  "name": "Xi`an Jiaotong University",
+  "shortName": "XJTU",
+  "web": "https://xjtu.edu.cn",
+  "founded": "1896",
+  "approximatePopulaton": 36551,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    34.25057,
+    108.9837
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Xi'an, Shaanxi ",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

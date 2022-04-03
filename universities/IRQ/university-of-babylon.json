@@ -1,0 +1,23 @@
+{
+  "id": "university-of-babylon",
+  "name": "University of Babylon",
+  "shortName": "UB",
+  "web": "https://uobabylon.edu.iq",
+  "founded": "1991",
+  "approximatePopulaton": 24299,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.39383,
+    44.39814
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Babylon",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

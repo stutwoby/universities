@@ -1,0 +1,23 @@
+{
+  "id": "weizmann-institute-of-science",
+  "name": "Weizmann Institute of Science",
+  "shortName": "WIS",
+  "web": "https://weizmann.ac.il",
+  "founded": "1934",
+  "approximatePopulaton": 1147,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    31.90554,
+    34.80838
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ISR",
+  "nearestCity": "Rehovot",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

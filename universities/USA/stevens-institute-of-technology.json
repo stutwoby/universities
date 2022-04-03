@@ -1,0 +1,23 @@
+{
+  "id": "stevens-institute-of-technology",
+  "name": "Stevens Institute of Technology",
+  "shortName": "SIT",
+  "web": "https://stevens.edu",
+  "founded": "1870",
+  "approximatePopulaton": 6178,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.74509,
+    -74.02545
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Hoboken",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

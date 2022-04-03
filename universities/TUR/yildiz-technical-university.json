@@ -1,0 +1,23 @@
+{
+  "id": "yildiz-technical-university",
+  "name": "Yildiz Technical University",
+  "shortName": "YTU",
+  "web": "https://yildiz.edu.tr",
+  "founded": "1911",
+  "approximatePopulaton": 34336,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.05183,
+    29.01057
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUR",
+  "nearestCity": "Istanbul",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-kufa",
+  "name": "University of Kufa",
+  "shortName": "UK",
+  "web": "https://uokufa.edu.iq",
+  "founded": "1987",
+  "approximatePopulaton": 28175,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.03017,
+    44.37196
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Kufa, Najaf",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

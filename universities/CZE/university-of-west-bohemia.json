@@ -1,0 +1,23 @@
+{
+  "id": "university-of-west-bohemia",
+  "name": "University of West Bohemia",
+  "shortName": "ZCU",
+  "web": "https://zcu.cz/en/",
+  "founded": "1991",
+  "approximatePopulaton": 11730,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    49.7236,
+    13.35154
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CZE",
+  "nearestCity": "Pilsen ",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

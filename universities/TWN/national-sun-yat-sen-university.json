@@ -1,0 +1,23 @@
+{
+  "id": "national-sun-yat-sen-university",
+  "name": "National Sun Yat-Sen University",
+  "shortName": "NSYSU",
+  "web": "https://nsysu.edu.tw",
+  "founded": "1980",
+  "approximatePopulaton": 8374,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    22.62642,
+    120.26584
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Gushan, Kaohsiung",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

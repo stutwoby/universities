@@ -1,0 +1,23 @@
+{
+  "id": "athens-university-of-economics-and-business",
+  "name": "Athens University of Economics and Business",
+  "shortName": "AUEB",
+  "web": "https://aueb.gr",
+  "founded": "1920",
+  "approximatePopulaton": 9620,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    37.99408,
+    23.73243
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GRC",
+  "nearestCity": "Athens",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

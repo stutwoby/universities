@@ -1,0 +1,23 @@
+{
+  "id": "shanghai-jiao-tong-university",
+  "name": "Shanghai Jiao Tong University",
+  "shortName": "SJTU",
+  "web": "https://sjtu.edu.cn",
+  "founded": "1896",
+  "approximatePopulaton": 38556,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    31.02522,
+    121.4338
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Shanghai",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

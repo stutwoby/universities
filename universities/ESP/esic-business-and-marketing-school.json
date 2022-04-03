@@ -1,0 +1,23 @@
+{
+  "id": "esic-business-and-marketing-school",
+  "name": "ESIC Business and Marketing School",
+  "shortName": "ESIC",
+  "web": "https://esic.edu",
+  "founded": "1965",
+  "approximatePopulaton": 5618,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.39613,
+    2.14591
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "Madrid",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pontificial-catholic-university-of-valparaiso",
+  "name": "Pontificial Catholic University of Valparaiso",
+  "shortName": "PUCV",
+  "web": "https://pucv.cl",
+  "founded": "1928",
+  "approximatePopulaton": 15935,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -33.04441,
+    -71.60582
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHL",
+  "nearestCity": "Valparaiso",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

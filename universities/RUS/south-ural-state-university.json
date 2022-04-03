@@ -1,0 +1,23 @@
+{
+  "id": "south-ural-state-university",
+  "name": "South Ural State University",
+  "shortName": "SUSU",
+  "web": "https://susu.ru",
+  "founded": "1943",
+  "approximatePopulaton": 22313,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.16048,
+    61.37018
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Chelyabinsk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

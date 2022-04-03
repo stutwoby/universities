@@ -1,0 +1,23 @@
+{
+  "id": "lodz-university-of-technology",
+  "name": "Lodz University of Technology",
+  "shortName": "TUL",
+  "web": "https://p.lodz.pl",
+  "founded": "1945",
+  "approximatePopulaton": 13958,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.75456,
+    19.45163
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "POL",
+  "nearestCity": "Lodz",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

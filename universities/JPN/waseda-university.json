@@ -1,0 +1,23 @@
+{
+  "id": "waseda-university",
+  "name": "Waseda University",
+  "shortName": "Sodai",
+  "web": "https://waseda.jp/top/en",
+  "founded": "1882",
+  "approximatePopulaton": 48260,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.70873,
+    139.71967
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Shinjuku, Tokyo",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

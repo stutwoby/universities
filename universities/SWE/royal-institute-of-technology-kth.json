@@ -1,0 +1,23 @@
+{
+  "id": "royal-institute-of-technology-kth",
+  "name": "Royal Institute of Technology (KTH)",
+  "shortName": "KTH",
+  "web": "https://kth.se/en",
+  "founded": "1827",
+  "approximatePopulaton": 13482,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    59.34985,
+    18.07061
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "SWE",
+  "nearestCity": "Stockholm",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

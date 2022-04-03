@@ -1,0 +1,23 @@
+{
+  "id": "national-chiayi-university",
+  "name": "National Chiayi University",
+  "shortName": "NCYU",
+  "web": "https://ncyu.edu.tw",
+  "founded": "1915",
+  "approximatePopulaton": 12070,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    23.46867,
+    120.48506
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Chiayi City and Chiayi County",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

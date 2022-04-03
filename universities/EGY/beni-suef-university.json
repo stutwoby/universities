@@ -1,0 +1,23 @@
+{
+  "id": "beni-suef-university",
+  "name": "Beni-Suef University",
+  "shortName": "BSU",
+  "web": "https://bsu.edu.eg",
+  "founded": "2005",
+  "approximatePopulaton": 71669,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    29.08409,
+    31.10214
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "EGY",
+  "nearestCity": "Egypt",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

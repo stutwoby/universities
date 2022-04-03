@@ -1,0 +1,23 @@
+{
+  "id": "university-of-nova-de-lisboa",
+  "name": "University of Nova de Lisboa",
+  "shortName": "NOVA ",
+  "web": "https://unl.pt",
+  "founded": "1973",
+  "approximatePopulaton": 19976,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    38.7337,
+    -9.1604
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "PRT",
+  "nearestCity": "Lisbon",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

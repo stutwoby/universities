@@ -1,0 +1,23 @@
+{
+  "id": "national-university-of-singapore",
+  "name": "National University of Singapore",
+  "shortName": "NUS",
+  "web": "https://nus.edu.sg",
+  "founded": "1905",
+  "approximatePopulaton": 30943,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    1.29662,
+    103.77639
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "SGP",
+  "nearestCity": "Singapore",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

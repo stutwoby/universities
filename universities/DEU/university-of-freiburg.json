@@ -1,0 +1,23 @@
+{
+  "id": "university-of-freiburg",
+  "name": "University of Freiburg",
+  "shortName": "Uni Freiburg",
+  "web": "https://uni-freiburg.de",
+  "founded": "1457",
+  "approximatePopulaton": 14878,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    47.99352,
+    7.84591
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Freiburg",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

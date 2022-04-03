@@ -1,0 +1,23 @@
+{
+  "id": "university-of-trieste",
+  "name": "University of Trieste",
+  "shortName": "UNITS",
+  "web": "https://units.it/",
+  "founded": "1924",
+  "approximatePopulaton": 16217,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.65865,
+    13.79348
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ITA",
+  "nearestCity": "Trieste",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

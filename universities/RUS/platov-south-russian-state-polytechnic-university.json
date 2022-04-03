@@ -1,0 +1,23 @@
+{
+  "id": "platov-south-russian-state-polytechnic-university",
+  "name": "Platov South-Russian State Polytechnic University",
+  "shortName": "NPI",
+  "web": "https://npi-tu.ru",
+  "founded": "1907",
+  "approximatePopulaton": 12461,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    47.41763,
+    40.08631
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Novocherkassk, Russia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

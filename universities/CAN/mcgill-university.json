@@ -1,0 +1,23 @@
+{
+  "id": "mcgill-university",
+  "name": "McGill University",
+  "shortName": "McGill ",
+  "web": "https://mcgill.ca",
+  "founded": "1821",
+  "approximatePopulaton": 31578,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.50476,
+    -73.57715
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Montreal, QC",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

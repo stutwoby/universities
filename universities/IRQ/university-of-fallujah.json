@@ -1,0 +1,23 @@
+{
+  "id": "university-of-fallujah",
+  "name": "University of Fallujah",
+  "shortName": "UF",
+  "web": "https://uofallujah.edu.iq",
+  "founded": "2013",
+  "approximatePopulaton": 2862,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.35252,
+    43.76385
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Fallujah",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

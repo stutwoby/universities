@@ -1,0 +1,23 @@
+{
+  "id": "university-of-california-los-angeles",
+  "name": "University of California, Los Angeles",
+  "shortName": "UCLA",
+  "web": "https://ucla.edu",
+  "founded": "1919",
+  "approximatePopulaton": 42509,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    34.06885,
+    -118.44522
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Los Angeles, CA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

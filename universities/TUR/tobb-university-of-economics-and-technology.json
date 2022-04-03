@@ -1,0 +1,23 @@
+{
+  "id": "tobb-university-of-economics-and-technology",
+  "name": "TOBB University of Economics and Technology",
+  "shortName": "TOBB",
+  "web": "https://etu.edu.tr/en",
+  "founded": "2003",
+  "approximatePopulaton": 5839,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.92131,
+    32.79882
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUR",
+  "nearestCity": "Ankara",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

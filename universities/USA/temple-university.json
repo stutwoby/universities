@@ -1,0 +1,23 @@
+{
+  "id": "temple-university",
+  "name": "Temple University",
+  "shortName": "Temple",
+  "web": "https://temple.edu",
+  "founded": "1884",
+  "approximatePopulaton": 36398,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.98116,
+    -75.15532
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Philadelphia, PA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "erciyes-university",
+  "name": "Erciyes University",
+  "shortName": "EU",
+  "web": "https://erciyes.edu.tr",
+  "founded": "1978",
+  "approximatePopulaton": 37580,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    38.71039,
+    35.53387
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUR",
+  "nearestCity": "Kayseri",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

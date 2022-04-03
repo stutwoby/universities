@@ -1,0 +1,23 @@
+{
+  "id": "university-of-electro-communications",
+  "name": "University of Electro-Communications",
+  "shortName": "UEC",
+  "web": "https://uec.ac.jp",
+  "founded": "1918",
+  "approximatePopulaton": 4838,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.6556,
+    139.54429
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Chofu, Tokyo",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

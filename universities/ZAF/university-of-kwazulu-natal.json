@@ -1,0 +1,23 @@
+{
+  "id": "university-of-kwazulu-natal",
+  "name": "University of KwaZulu Natal",
+  "shortName": "UKZN",
+  "web": "https://ukzn.ac.za",
+  "founded": "2004",
+  "approximatePopulaton": 34732,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -29.86752,
+    30.98068
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ZAF",
+  "nearestCity": "KwaZulu-Natal",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

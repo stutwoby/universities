@@ -1,0 +1,23 @@
+{
+  "id": "tambov-state-technical-university",
+  "name": "Tambov State Technical University",
+  "shortName": "TSTU",
+  "web": "https://tstu.ru",
+  "founded": "1965",
+  "approximatePopulaton": 7480,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.71886,
+    41.4628
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Tambov, Russia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

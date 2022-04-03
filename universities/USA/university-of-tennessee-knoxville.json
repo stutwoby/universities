@@ -1,0 +1,23 @@
+{
+  "id": "university-of-tennessee-knoxville",
+  "name": "University of Tennessee Knoxville",
+  "shortName": "UT",
+  "web": "https://utk.edu/",
+  "founded": "1794",
+  "approximatePopulaton": 26184,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.95438,
+    -83.92946
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Knoxville, Tennessee",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

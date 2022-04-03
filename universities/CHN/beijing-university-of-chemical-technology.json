@@ -1,0 +1,23 @@
+{
+  "id": "beijing-university-of-chemical-technology",
+  "name": "Beijing University of Chemical Technology",
+  "shortName": "BUCT",
+  "web": "https://buct.edu",
+  "founded": "1958",
+  "approximatePopulaton": 25739,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.97155,
+    116.42105
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Beijing, China",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

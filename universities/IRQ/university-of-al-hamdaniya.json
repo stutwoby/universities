@@ -1,0 +1,23 @@
+{
+  "id": "university-of-al-hamdaniya",
+  "name": "University of Al-Hamdaniya",
+  "shortName": "UAlH",
+  "web": "https://uohamdaniya.edu.iq",
+  "founded": "2014",
+  "approximatePopulaton": 2524,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.34158,
+    43.41144
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Bakhdida, Iraq",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

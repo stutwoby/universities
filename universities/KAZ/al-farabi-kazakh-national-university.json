@@ -1,0 +1,23 @@
+{
+  "id": "al-farabi-kazakh-national-university",
+  "name": "Al-Farabi Kazakh National University",
+  "shortName": "KazNU",
+  "web": "https://kaznu.kz",
+  "founded": "1934",
+  "approximatePopulaton": 21138,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.22519,
+    76.92198
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KAZ",
+  "nearestCity": "Almaty",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

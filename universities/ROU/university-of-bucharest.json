@@ -1,0 +1,23 @@
+{
+  "id": "university-of-bucharest",
+  "name": "University of Bucharest",
+  "shortName": "UB",
+  "web": "https://unibuc.ro",
+  "founded": "1864",
+  "approximatePopulaton": 32371,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    44.4354,
+    26.10163
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ROU",
+  "nearestCity": "Bucharest",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-college-london",
+  "name": "University College London",
+  "shortName": "UCL",
+  "web": "https://ucl.ac.uk",
+  "founded": "1826",
+  "approximatePopulaton": 34785,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.52449,
+    -0.13395
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "London",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

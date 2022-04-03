@@ -1,0 +1,23 @@
+{
+  "id": "ghent-university",
+  "name": "Ghent University",
+  "shortName": "Ugent",
+  "web": "https://ugent.be/en",
+  "founded": "1817",
+  "approximatePopulaton": 37587,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.04653,
+    3.72791
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "BEL",
+  "nearestCity": "Ghent",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

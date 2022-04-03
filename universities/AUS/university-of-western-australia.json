@@ -1,0 +1,23 @@
+{
+  "id": "university-of-western-australia",
+  "name": "University of Western Australia",
+  "shortName": "UWA",
+  "web": "https://uwa.edu.au",
+  "founded": "1911",
+  "approximatePopulaton": 18451,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -31.98117,
+    115.8199
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Crawley, WA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

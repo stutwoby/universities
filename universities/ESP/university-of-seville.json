@@ -1,0 +1,23 @@
+{
+  "id": "university-of-seville",
+  "name": "University of Seville",
+  "shortName": "US",
+  "web": "https://us.es",
+  "founded": "1505",
+  "approximatePopulaton": 50970,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    37.38074,
+    -5.99123
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "Seville, Andalucia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

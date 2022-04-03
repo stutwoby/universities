@@ -1,0 +1,23 @@
+{
+  "id": "university-of-minnesota",
+  "name": "University of Minnesota",
+  "shortName": "Minnesota / U of M",
+  "web": "https://umn.edu",
+  "founded": "1851",
+  "approximatePopulaton": 45710,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    44.97396,
+    -93.22771
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Minneapolis, MN",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

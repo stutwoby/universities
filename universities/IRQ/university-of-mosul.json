@@ -1,0 +1,23 @@
+{
+  "id": "university-of-mosul",
+  "name": "University of Mosul",
+  "shortName": "UoM",
+  "web": "https://uomosul.edu.iq",
+  "founded": "1967",
+  "approximatePopulaton": 40878,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.37757,
+    43.14394
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Mosul, Iraq",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

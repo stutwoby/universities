@@ -1,0 +1,23 @@
+{
+  "id": "beijing-university-of-technology",
+  "name": "Beijing University of Technology",
+  "shortName": "Bei Gong Da",
+  "web": "https://bjut.edu.cn",
+  "founded": "1960",
+  "approximatePopulaton": 21899,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.87168,
+    116.47939
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Beijing",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

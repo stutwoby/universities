@@ -1,0 +1,23 @@
+{
+  "id": "china-agricultural-university",
+  "name": "China Agricultural University",
+  "shortName": "CAU",
+  "web": "https://cau.edu.cn",
+  "founded": "1905",
+  "approximatePopulaton": 20609,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.00415,
+    116.35303
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Beijing",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

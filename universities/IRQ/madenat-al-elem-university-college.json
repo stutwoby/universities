@@ -1,0 +1,23 @@
+{
+  "id": "madenat-al-elem-university-college",
+  "name": "Madenat Alelem University College",
+  "shortName": "MAUC",
+  "web": "https://en.mauc.edu.iq",
+  "founded": "2005",
+  "approximatePopulaton": 3312,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.39519,
+    44.30834
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Iraq",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

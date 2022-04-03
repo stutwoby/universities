@@ -1,0 +1,23 @@
+{
+  "id": "university-of-warwick",
+  "name": "University of Warwick",
+  "shortName": "Warwick",
+  "web": "https://warwick.ac.uk",
+  "founded": "1965",
+  "approximatePopulaton": 22430,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.3792,
+    -1.56143
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Coventry, England",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

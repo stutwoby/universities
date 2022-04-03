@@ -1,0 +1,23 @@
+{
+  "id": "university-of-anbar",
+  "name": "University of Anbar",
+  "shortName": "UA",
+  "web": "https://uoanbar.edu.iq",
+  "founded": "1987",
+  "approximatePopulaton": 23269,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.40228,
+    43.26046
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Baghdad",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

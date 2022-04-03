@@ -1,0 +1,23 @@
+{
+  "id": "asia-university-taiwan",
+  "name": "Asia University (Taiwan)",
+  "shortName": "AU",
+  "web": "https://asia.edu.tw",
+  "founded": "2001",
+  "approximatePopulaton": 11627,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    24.04613,
+    120.68738
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Taichung",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-ottawa",
+  "name": "University of Ottawa",
+  "shortName": "Ottawa U",
+  "web": "https://uottawa.ca",
+  "founded": "1848",
+  "approximatePopulaton": 35140,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.42311,
+    -75.68315
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Ottawa, ON ",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

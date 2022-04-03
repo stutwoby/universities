@@ -1,0 +1,23 @@
+{
+  "id": "tver-state-technical-university",
+  "name": "Tver State Technical University",
+  "shortName": "TvSTU",
+  "web": "https://tstu.tver.ru",
+  "founded": "1922",
+  "approximatePopulaton": 3482,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    56.86547,
+    35.91585
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Tver",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

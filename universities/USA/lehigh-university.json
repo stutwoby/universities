@@ -1,0 +1,23 @@
+{
+  "id": "lehigh-university",
+  "name": "Lehigh University",
+  "shortName": "Lehigh",
+  "web": "https://lehigh.edu",
+  "founded": "1865",
+  "approximatePopulaton": 6545,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.60679,
+    -75.3782
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Bethlehem, PA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

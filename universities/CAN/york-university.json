@@ -1,0 +1,23 @@
+{
+  "id": "york-university",
+  "name": "York University",
+  "shortName": "YU",
+  "web": "https://yorku.ca",
+  "founded": "1959",
+  "approximatePopulaton": 49354,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.77345,
+    -79.50186
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Toronto, ON ",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

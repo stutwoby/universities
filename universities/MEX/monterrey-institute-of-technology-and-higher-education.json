@@ -1,0 +1,23 @@
+{
+  "id": "monterrey-institute-of-technology-and-higher-education",
+  "name": "Monterrey Institute of Technology and Higher Education",
+  "shortName": "ITESM",
+  "web": "https://itesm.edu",
+  "founded": "1943",
+  "approximatePopulaton": 14683,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    25.65153,
+    -100.28959
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "MEX",
+  "nearestCity": "Monterrey, Nuevo Leon",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

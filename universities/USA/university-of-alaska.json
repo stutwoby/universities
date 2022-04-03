@@ -1,0 +1,23 @@
+{
+  "id": "university-of-alaska",
+  "name": "University of Alaska",
+  "shortName": "UAF",
+  "web": "https://uaf.edu",
+  "founded": "1917",
+  "approximatePopulaton": 3342,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    64.85778,
+    -147.87045
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Anchorage, Fairbanks, and Juneau",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

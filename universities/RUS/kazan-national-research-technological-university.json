@@ -1,0 +1,23 @@
+{
+  "id": "kazan-national-research-technological-university",
+  "name": "Kazan National Research Technological University",
+  "shortName": "KNRTU",
+  "web": "https://knrtu.ru",
+  "founded": "1890",
+  "approximatePopulaton": 14266,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.79451,
+    49.14151
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Kazan",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "queensland-university-of-technology",
+  "name": "Queensland University of Technology",
+  "shortName": "QUT",
+  "web": "https://qut.edu.au",
+  "founded": "1989",
+  "approximatePopulaton": 37431,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -27.47734,
+    153.02838
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Brisbane, QLD",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

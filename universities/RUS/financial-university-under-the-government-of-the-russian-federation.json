@@ -1,0 +1,23 @@
+{
+  "id": "financial-university-under-the-government-of-the-russian-federation",
+  "name": "Financial University under the Government of the Russian Federation",
+  "shortName": "FSBU",
+  "web": "https://fa.ru",
+  "founded": "1919",
+  "approximatePopulaton": 13155,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.80102,
+    37.52635
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Moscow",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

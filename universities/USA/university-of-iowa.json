@@ -1,0 +1,23 @@
+{
+  "id": "university-of-iowa",
+  "name": "University of Iowa",
+  "shortName": "UI / Iowa",
+  "web": "https://uiowa.edu",
+  "founded": "1847",
+  "approximatePopulaton": 29406,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.66264,
+    -91.55484
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Iowa City, IA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

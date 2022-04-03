@@ -1,0 +1,23 @@
+{
+  "id": "simon-fraser-university",
+  "name": "Simon Fraser University",
+  "shortName": "SFU",
+  "web": "https://sfu.ca",
+  "founded": "1965",
+  "approximatePopulaton": 26778,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    49.27811,
+    -122.91984
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Burnaby, BC",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

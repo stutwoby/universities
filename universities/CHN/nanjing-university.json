@@ -1,0 +1,23 @@
+{
+  "id": "nanjing-university",
+  "name": "Nanjing University",
+  "shortName": "NJU",
+  "web": "https://nju.edu.cn",
+  "founded": "1949",
+  "approximatePopulaton": 37457,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.05685,
+    118.77894
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Nanjing, Jiangsu",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

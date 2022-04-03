@@ -1,0 +1,23 @@
+{
+  "id": "al-toosi-university-college",
+  "name": "Al-Toosi University College",
+  "shortName": "TUC",
+  "web": "https://altoosi.edu.iq",
+  "founded": "2005",
+  "approximatePopulaton": 1011,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.01819,
+    44.32709
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Najaf, Iraq",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "dalhousie-university",
+  "name": "Dalhousie University",
+  "shortName": "Dal",
+  "web": "https://dal.ca",
+  "founded": "1818",
+  "approximatePopulaton": 15651,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    44.6366,
+    -63.59166
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Halifax, NS",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

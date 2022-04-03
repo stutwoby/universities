@@ -1,0 +1,23 @@
+{
+  "id": "tilburg-university",
+  "name": "Tilburg University",
+  "shortName": "TiU",
+  "web": "https://tilburguniversity.edu",
+  "founded": "1927",
+  "approximatePopulaton": 9380,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.56313,
+    5.04196
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "NLD",
+  "nearestCity": "Tilburg",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-twente",
+  "name": "University of Twente",
+  "shortName": "UT",
+  "web": "https://utwente.nl/en",
+  "founded": "1961",
+  "approximatePopulaton": 8207,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.24099,
+    6.85243
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "NLD",
+  "nearestCity": "Enschede",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

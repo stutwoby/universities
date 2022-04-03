@@ -1,0 +1,23 @@
+{
+  "id": "polzunov-altai-state-technical-university",
+  "name": "Polzunov Altai State Technical University",
+  "shortName": "PASTU",
+  "web": "https://altstu.ru",
+  "founded": "1942",
+  "approximatePopulaton": 7757,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.34587,
+    83.78346
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Barnaul, Russia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

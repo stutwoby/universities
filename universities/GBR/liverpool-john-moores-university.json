@@ -1,0 +1,23 @@
+{
+  "id": "liverpool-john-moores-university",
+  "name": "Liverpool John Moores University",
+  "shortName": "LJMU",
+  "web": "https://ljmu.ac.uk",
+  "founded": "1992",
+  "approximatePopulaton": 20370,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.40336,
+    -2.97126
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Liverpool",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

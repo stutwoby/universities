@@ -1,0 +1,23 @@
+{
+  "id": "sechenov-university",
+  "name": "I.M. Sechenov First Moscow State Medical University",
+  "shortName": "Sechenov University",
+  "web": "https://sechenov.ru",
+  "founded": "1758",
+  "approximatePopulaton": 15840,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.72851,
+    37.57411
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Moscow",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

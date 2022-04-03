@@ -1,0 +1,23 @@
+{
+  "id": "university-of-pittsburgh",
+  "name": "University of Pittsburgh",
+  "shortName": "Pitt",
+  "web": "https://pitt.edu",
+  "founded": "1787",
+  "approximatePopulaton": 26761,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.44437,
+    -79.9608
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Pittsburgh, PA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

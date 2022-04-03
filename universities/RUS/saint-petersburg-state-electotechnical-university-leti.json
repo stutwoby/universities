@@ -1,0 +1,23 @@
+{
+  "id": "saint-petersburg-state-electotechnical-university-leti",
+  "name": "Saint-Petersburg State Electotechnical University ``LETI``",
+  "shortName": "LETI",
+  "web": "https://eltech.ru",
+  "founded": "1886",
+  "approximatePopulaton": 8227,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    59.97236,
+    30.32253
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Saint Petersburg",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

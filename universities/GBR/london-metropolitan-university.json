@@ -1,0 +1,23 @@
+{
+  "id": "london-metropolitan-university",
+  "name": "London Metropolitan University",
+  "shortName": "London Met",
+  "web": "https://londonmet.ac.uk",
+  "founded": "2002",
+  "approximatePopulaton": 9225,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.51464,
+    -0.06603
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "London, England",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

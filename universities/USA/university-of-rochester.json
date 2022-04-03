@@ -1,0 +1,23 @@
+{
+  "id": "university-of-rochester",
+  "name": "University of Rochester",
+  "shortName": "U of R / UR",
+  "web": "https://rochester.edu",
+  "founded": "1850",
+  "approximatePopulaton": 10017,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.13051,
+    -77.62602
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Rochester, NY",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

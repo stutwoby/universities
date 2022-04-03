@@ -1,0 +1,23 @@
+{
+  "id": "thammasat-university",
+  "name": "Thammasat University",
+  "shortName": "TU",
+  "web": "https://tu.ac.th",
+  "founded": "1934",
+  "approximatePopulaton": 28359,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    13.75677,
+    100.49077
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "THA",
+  "nearestCity": "Bangkok",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

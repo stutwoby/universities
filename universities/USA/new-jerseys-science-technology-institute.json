@@ -1,0 +1,23 @@
+{
+  "id": "new-jerseys-science-technology-institute",
+  "name": "New Jersey Institute of Technology (NJIT)",
+  "shortName": "NJIT",
+  "web": "https://njit.edu",
+  "founded": "1881",
+  "approximatePopulaton": 9284,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.74237,
+    -74.17922
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Newark, NJ",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

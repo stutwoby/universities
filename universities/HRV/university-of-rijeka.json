@@ -1,0 +1,23 @@
+{
+  "id": "university-of-rijeka",
+  "name": "University of Rijeka",
+  "shortName": "UR",
+  "web": "https://uniri.hr",
+  "founded": "1973",
+  "approximatePopulaton": 17493,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.32775,
+    14.4666
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "HRV",
+  "nearestCity": "Rijeka",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

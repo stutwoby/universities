@@ -1,0 +1,23 @@
+{
+  "id": "indian-institute-of-technology-madras",
+  "name": "Indian Institute of Technology, Madras",
+  "shortName": "IITM",
+  "web": "https://iitm.ac.in",
+  "founded": "1959",
+  "approximatePopulaton": 9241,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    13.00612,
+    80.24206
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IND",
+  "nearestCity": " Chennai, Tamil Nadu",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

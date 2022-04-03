@@ -1,0 +1,23 @@
+{
+  "id": "cochin-university-of-science-and-technology",
+  "name": "Cochin University of Science and Technology",
+  "shortName": " CUSAT",
+  "web": "https://cusat.ac.in",
+  "founded": "1971",
+  "approximatePopulaton": 8271,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    10.04481,
+    76.32751
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IND",
+  "nearestCity": "Cochin, Kerala",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

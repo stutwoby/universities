@@ -1,0 +1,23 @@
+{
+  "id": "university-of-surrey",
+  "name": "University of Surrey",
+  "shortName": "N/A",
+  "web": "https://surrey.ac.uk",
+  "founded": "1966",
+  "approximatePopulaton": 15090,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.24231,
+    -0.59045
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Guildford, England",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

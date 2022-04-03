@@ -1,0 +1,23 @@
+{
+  "id": "university-of-guelph",
+  "name": "University of Guelph",
+  "shortName": "U of G",
+  "web": "https://uoguelph.ca",
+  "founded": "1964",
+  "approximatePopulaton": 22384,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.53213,
+    -80.22686
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Guelph, ON",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

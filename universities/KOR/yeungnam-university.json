@@ -1,0 +1,23 @@
+{
+  "id": "yeungnam-university",
+  "name": "Yeungnam University",
+  "shortName": "No information",
+  "web": "https://yu.ac.kr",
+  "founded": "1967",
+  "approximatePopulaton": 19494,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.83222,
+    128.7576
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KOR",
+  "nearestCity": "Gyeongsan",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

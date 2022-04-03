@@ -1,0 +1,23 @@
+{
+  "id": "pontificia-university-catolica-de-chile",
+  "name": "Pontificia University Catolica de Chile",
+  "shortName": "PUC",
+  "web": "https://uc.cl",
+  "founded": "1888",
+  "approximatePopulaton": 29071,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -33.44113,
+    -70.64077
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHL",
+  "nearestCity": "Santiago",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

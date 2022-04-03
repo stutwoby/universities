@@ -1,0 +1,23 @@
+{
+  "id": "university-of-lausanne",
+  "name": "University of Lausanne",
+  "shortName": "UNIL",
+  "web": "https://unil.ch",
+  "founded": "1537",
+  "approximatePopulaton": 12685,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    46.5211,
+    6.58017
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHE",
+  "nearestCity": "Lausanne",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

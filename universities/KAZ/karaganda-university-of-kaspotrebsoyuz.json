@@ -1,0 +1,23 @@
+{
+  "id": "karaganda-university-of-kaspotrebsoyuz",
+  "name": "Karaganda University of Kaspotrebsoyuz",
+  "shortName": "KEU",
+  "web": "https://keu.kz",
+  "founded": "1966",
+  "approximatePopulaton": 7601,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    49.78055,
+    73.06259
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KAZ",
+  "nearestCity": "Karaganda, Kazakhstan",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

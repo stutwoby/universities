@@ -1,0 +1,23 @@
+{
+  "id": "university-of-gottingen",
+  "name": "University of Gottingen",
+  "shortName": "GAU",
+  "web": "https://uni-goettingen.de",
+  "founded": "1734",
+  "approximatePopulaton": 30894,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.54079,
+    9.9374
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Gottingen, Lower Saxony",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

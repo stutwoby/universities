@@ -1,0 +1,23 @@
+{
+  "id": "autonomous-university-of-madrid",
+  "name": "Autonomous University of Madrid",
+  "shortName": "UAM",
+  "web": "https://uam.es",
+  "founded": "1968",
+  "approximatePopulaton": 29825,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.54667,
+    -3.69436
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "Madrid, Community of Madrid",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

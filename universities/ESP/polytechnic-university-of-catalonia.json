@@ -1,0 +1,23 @@
+{
+  "id": "polytechnic-university-of-catalonia",
+  "name": "Polytechnic University of Catalonia",
+  "shortName": "UPC / IPA",
+  "web": "https://upc.edu",
+  "founded": "1971",
+  "approximatePopulaton": 22824,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.38799,
+    2.11328
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "Barcelona, Catalonia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

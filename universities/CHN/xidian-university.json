@@ -1,0 +1,23 @@
+{
+  "id": "xidian-university",
+  "name": "Xidian University",
+  "shortName": "No information",
+  "web": "https://xidian.edu.cn",
+  "founded": "1931",
+  "approximatePopulaton": 35133,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    34.12331,
+    108.83596
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Xi'an, Shaanxi",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

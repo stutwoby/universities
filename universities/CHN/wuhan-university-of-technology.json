@@ -1,0 +1,23 @@
+{
+  "id": "wuhan-university-of-technology",
+  "name": "Wuhan University of Technology",
+  "shortName": "WUT / WHUT",
+  "web": "https://whut.edu.cn",
+  "founded": "1948",
+  "approximatePopulaton": 52910,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    30.6107,
+    114.3565
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Wuhan, Hubei",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

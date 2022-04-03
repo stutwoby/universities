@@ -1,0 +1,23 @@
+{
+  "id": "state-university-of-new-york-albany",
+  "name": "State University of New York, Albany",
+  "shortName": "SUNY Albany",
+  "web": "https://albany.edu",
+  "founded": "1844",
+  "approximatePopulaton": 15814,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.68494,
+    -73.82523
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Albany, NY",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

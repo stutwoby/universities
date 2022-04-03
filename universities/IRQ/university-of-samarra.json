@@ -1,0 +1,23 @@
+{
+  "id": "university-of-samarra",
+  "name": "University of Samarra",
+  "shortName": "US",
+  "web": "https://uosamarra.edu.iq",
+  "founded": "2012",
+  "approximatePopulaton": 8030,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    34.20076,
+    43.88705
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Samarra",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

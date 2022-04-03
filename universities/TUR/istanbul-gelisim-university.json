@@ -1,0 +1,23 @@
+{
+  "id": "istanbul-gelisim-university",
+  "name": "Istanbul Gelisim University",
+  "shortName": "IGU",
+  "web": "https://gelisim.edu.tr",
+  "founded": "2008",
+  "approximatePopulaton": 22412,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.9988,
+    28.69889
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUR",
+  "nearestCity": "ISTANBUL, Turkey\\n",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

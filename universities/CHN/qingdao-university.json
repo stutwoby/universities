@@ -1,0 +1,23 @@
+{
+  "id": "qingdao-university",
+  "name": "Qingdao University",
+  "shortName": "QU",
+  "web": "https://qdu.edu.cn",
+  "founded": "1985",
+  "approximatePopulaton": 44426,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.06975,
+    120.42821
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Qingdao, Shandong, China",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

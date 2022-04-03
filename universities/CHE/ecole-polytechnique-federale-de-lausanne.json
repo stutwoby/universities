@@ -1,0 +1,23 @@
+{
+  "id": "ecole-polytechnique-federale-de-lausanne",
+  "name": "Ecole Polytechnique Federale de Lausanne",
+  "shortName": "EPFL",
+  "web": "https://epfl.ch",
+  "founded": "1853",
+  "approximatePopulaton": 10942,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    46.51904,
+    6.56674
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHE",
+  "nearestCity": "Lausanne",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

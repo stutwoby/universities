@@ -1,0 +1,23 @@
+{
+  "id": "warsaw-university-of-technology",
+  "name": "Warsaw University of Technology",
+  "shortName": "WUT",
+  "web": "https://pw.edu.pl/engpw",
+  "founded": "1826",
+  "approximatePopulaton": 28414,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.22118,
+    21.00811
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "POL",
+  "nearestCity": "Warsaw",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

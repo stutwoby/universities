@@ -1,0 +1,23 @@
+{
+  "id": "new-mexico-state-university",
+  "name": "New Mexico State University",
+  "shortName": "NMSU / NM State",
+  "web": "https://nmsu.edu",
+  "founded": "1888",
+  "approximatePopulaton": 12400,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.27785,
+    -106.74756
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Las Cruces, NM",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

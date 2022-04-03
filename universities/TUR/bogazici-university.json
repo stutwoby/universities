@@ -1,0 +1,23 @@
+{
+  "id": "bogazici-university",
+  "name": "Bogazici University",
+  "shortName": "BU",
+  "web": "https://boun.edu.tr",
+  "founded": "1971",
+  "approximatePopulaton": 13772,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.08469,
+    29.05095
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUR",
+  "nearestCity": "Istanbul",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

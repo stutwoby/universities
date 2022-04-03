@@ -1,0 +1,23 @@
+{
+  "id": "kobe-university",
+  "name": "Kobe University",
+  "shortName": "KoU",
+  "web": "https://kobe-u.ac.jp",
+  "founded": "1949",
+  "approximatePopulaton": 15676,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    34.72557,
+    135.23542
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Kobe",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

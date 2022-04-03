@@ -1,0 +1,23 @@
+{
+  "id": "gifu-university",
+  "name": "Gifu University",
+  "shortName": "GU",
+  "web": "https://gifu-u.ac.jp",
+  "founded": "1949",
+  "approximatePopulaton": 7405,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.46623,
+    136.7366
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Gifu",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

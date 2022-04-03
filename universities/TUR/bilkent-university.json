@@ -1,0 +1,23 @@
+{
+  "id": "bilkent-university",
+  "name": "Bilkent University",
+  "shortName": "Bilkent",
+  "web": "https://bilkent.edu",
+  "founded": "1984",
+  "approximatePopulaton": 10094,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.87461,
+    32.7476
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUR",
+  "nearestCity": "Ankara",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

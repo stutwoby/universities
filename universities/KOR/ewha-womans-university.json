@@ -1,0 +1,23 @@
+{
+  "id": "ewha-womans-university",
+  "name": "Ewha Womans University",
+  "shortName": "EWU",
+  "web": "https://ewha.ac.kr",
+  "founded": "1945",
+  "approximatePopulaton": 14824,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    37.56186,
+    126.94685
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KOR",
+  "nearestCity": "Seodaemun, Seoul,",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

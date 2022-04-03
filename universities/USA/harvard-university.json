@@ -1,0 +1,23 @@
+{
+  "id": "harvard-university",
+  "name": "Harvard University",
+  "shortName": "Harvard",
+  "web": "https://harvard.edu",
+  "founded": "1636",
+  "approximatePopulaton": 21261,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.37686,
+    -71.11662
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Cambridge, MA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

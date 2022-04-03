@@ -1,0 +1,23 @@
+{
+  "id": "islamic-university-in-najaf",
+  "name": "Islamic University in Najaf",
+  "shortName": "IU",
+  "web": "https://iunajaf.edu.iq",
+  "founded": "2003",
+  "approximatePopulaton": 3547,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.01338,
+    44.35988
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Najaf",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

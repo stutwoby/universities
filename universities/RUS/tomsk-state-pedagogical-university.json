@@ -1,0 +1,23 @@
+{
+  "id": "tomsk-state-pedagogical-university",
+  "name": "Tomsk State Pedagogical University",
+  "shortName": "TSPU",
+  "web": "https://tspu.edu.ru",
+  "founded": "1902",
+  "approximatePopulaton": 5217,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    56.47468,
+    84.97635
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Tomsk, Russia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

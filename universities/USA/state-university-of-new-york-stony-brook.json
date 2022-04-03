@@ -1,0 +1,23 @@
+{
+  "id": "state-university-of-new-york-stony-brook",
+  "name": "State University of New York, Stony Brook",
+  "shortName": "SBU",
+  "web": "https://stonybrook.edu",
+  "founded": "1957",
+  "approximatePopulaton": 24593,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.91237,
+    -73.12341
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Stony Brook",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

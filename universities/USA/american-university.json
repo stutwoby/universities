@@ -1,0 +1,23 @@
+{
+  "id": "american-university",
+  "name": "American University",
+  "shortName": "AU / American",
+  "web": "https://american.edu",
+  "founded": "1893",
+  "approximatePopulaton": 11442,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.01782,
+    -77.11459
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Washington, D.C",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

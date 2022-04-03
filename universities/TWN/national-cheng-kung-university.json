@@ -1,0 +1,23 @@
+{
+  "id": "national-cheng-kung-university",
+  "name": "National Cheng Kung University",
+  "shortName": "NCKU",
+  "web": "https://web.ncku.edu.tw",
+  "founded": "1931",
+  "approximatePopulaton": 20659,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    22.99969,
+    120.2181
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Tainan City",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

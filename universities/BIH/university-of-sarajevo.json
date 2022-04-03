@@ -1,0 +1,23 @@
+{
+  "id": "university-of-sarajevo",
+  "name": "University of Sarajevo",
+  "shortName": "UNSA",
+  "web": "https://unsa.ba",
+  "founded": "1949",
+  "approximatePopulaton": 25121,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.85716,
+    18.41898
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "BIH",
+  "nearestCity": "Sarajevo",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

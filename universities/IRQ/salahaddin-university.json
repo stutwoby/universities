@@ -1,0 +1,23 @@
+{
+  "id": "salahaddin-university",
+  "name": "Salahaddin University",
+  "shortName": "SUE",
+  "web": "https://su.edu.krd",
+  "founded": "1968",
+  "approximatePopulaton": 25288,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.16485,
+    44.01626
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Erbil, Kurdistan, Iraq",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

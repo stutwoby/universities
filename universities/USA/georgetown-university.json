@@ -1,0 +1,23 @@
+{
+  "id": "georgetown-university",
+  "name": "Georgetown University",
+  "shortName": "Georgetown",
+  "web": "https://georgetown.edu",
+  "founded": "1789",
+  "approximatePopulaton": 16451,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    38.90761,
+    -77.07231
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Washington, DC",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "florida-institute-of-technology",
+  "name": "Florida Institute of Technology",
+  "shortName": "Florida Tech / FIT",
+  "web": "https://fit.edu",
+  "founded": "1958",
+  "approximatePopulaton": 5477,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    28.06469,
+    -80.623
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Melbourne, FL",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

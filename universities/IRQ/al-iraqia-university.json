@@ -1,0 +1,23 @@
+{
+  "id": "al-iraqia-university",
+  "name": "Al-Iraqia University",
+  "shortName": "UI",
+  "web": "https://aliraqia.edu.iq",
+  "founded": "1989",
+  "approximatePopulaton": 22022,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.36643,
+    44.35954
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Baghdad",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

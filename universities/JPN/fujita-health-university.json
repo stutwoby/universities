@@ -1,0 +1,23 @@
+{
+  "id": "fujita-health-university",
+  "name": "Fujita Health University",
+  "shortName": "FHU",
+  "web": "https://fujita-hu.ac.jp",
+  "founded": "1964",
+  "approximatePopulaton": 3490,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.07184,
+    137.00127
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Toyoake, Aichi, Japan",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

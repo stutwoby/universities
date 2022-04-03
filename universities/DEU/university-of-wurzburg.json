@@ -1,0 +1,23 @@
+{
+  "id": "university-of-wurzburg",
+  "name": "University of Wurzburg",
+  "shortName": "U Wurzburg",
+  "web": "https://uni-wuerzburg.de",
+  "founded": "1402",
+  "approximatePopulaton": 23887,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    49.78298,
+    9.97088
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Wurzburg",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

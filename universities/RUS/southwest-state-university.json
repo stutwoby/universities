@@ -1,0 +1,23 @@
+{
+  "id": "southwest-state-university",
+  "name": "Southwest State University",
+  "shortName": "SWSU",
+  "web": "https://swsu.ru/eng/",
+  "founded": "1963",
+  "approximatePopulaton": 9003,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.73814,
+    36.14802
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Kursk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "hiroshima-university",
+  "name": "Hiroshima University",
+  "shortName": "HU",
+  "web": "https://hiroshima-u.ac.jp",
+  "founded": "1949",
+  "approximatePopulaton": 15080,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    34.4031,
+    132.7149
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Hiroshima",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

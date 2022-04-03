@@ -1,0 +1,23 @@
+{
+  "id": "lobachevsky-university",
+  "name": "Lobachevsky University",
+  "shortName": "UNN",
+  "web": "https://unn.ru/eng",
+  "founded": "1916",
+  "approximatePopulaton": 16250,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    56.29959,
+    43.98257
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Russia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-hamburg",
+  "name": "University of Hamburg",
+  "shortName": "UH",
+  "web": "https://uni-hamburg.de",
+  "founded": "1919",
+  "approximatePopulaton": 30649,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.56657,
+    9.9846
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Hamburg",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

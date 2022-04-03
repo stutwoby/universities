@@ -1,0 +1,23 @@
+{
+  "id": "chung-shan-medical-university",
+  "name": "Chung Shan Medical University",
+  "shortName": "CSMU",
+  "web": "https://csmu.edu.tw",
+  "founded": "1960",
+  "approximatePopulaton": 7096,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    24.12338,
+    120.65018
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Taiwan",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

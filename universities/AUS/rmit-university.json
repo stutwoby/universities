@@ -1,0 +1,23 @@
+{
+  "id": "rmit-university",
+  "name": "RMIT University",
+  "shortName": "RMIT ",
+  "web": "https://rmit.edu.au",
+  "founded": "1887",
+  "approximatePopulaton": 33227,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -37.80893,
+    144.96514
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Melbourne, VIC",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

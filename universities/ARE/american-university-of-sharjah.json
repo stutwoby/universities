@@ -1,0 +1,23 @@
+{
+  "id": "american-university-of-sharjah",
+  "name": "American University of Sharjah",
+  "shortName": "AUS",
+  "web": "https://aus.edu",
+  "founded": "1997",
+  "approximatePopulaton": 4784,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    25.31205,
+    55.49268
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ARE",
+  "nearestCity": "Sharjah",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "national-yunlin-university-of-science-and-technology",
+  "name": "National Yunlin University of Science and Technology",
+  "shortName": "YunTech",
+  "web": "https://yuntech.edu.tw",
+  "founded": "1991",
+  "approximatePopulaton": 9200,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    23.69755,
+    120.53406
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Taiwan",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

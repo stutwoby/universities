@@ -1,0 +1,23 @@
+{
+  "id": "south-china-university-of-technology",
+  "name": "South China University of Technology",
+  "shortName": "SCUT",
+  "web": "https://scut.edu.cn",
+  "founded": "1952",
+  "approximatePopulaton": 40581,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    23.15129,
+    113.34467
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Guangzhou",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

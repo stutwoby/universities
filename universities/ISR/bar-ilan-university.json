@@ -1,0 +1,23 @@
+{
+  "id": "bar-ilan-university",
+  "name": "Bar-Ilan University",
+  "shortName": "BIU",
+  "web": "https://www1.biu.ac.il",
+  "founded": "1955",
+  "approximatePopulaton": 16587,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.06918,
+    34.84311
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ISR",
+  "nearestCity": "Ramat Gan",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

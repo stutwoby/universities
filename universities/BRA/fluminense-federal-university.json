@@ -1,0 +1,23 @@
+{
+  "id": "fluminense-federal-university",
+  "name": "Fluminense Federal University",
+  "shortName": "UFF",
+  "web": "https://uff.br",
+  "founded": "1960",
+  "approximatePopulaton": 54134,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -22.89728,
+    -43.12471
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "BRA",
+  "nearestCity": "Rio de Janeiro",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

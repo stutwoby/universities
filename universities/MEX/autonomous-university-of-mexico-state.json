@@ -1,0 +1,23 @@
+{
+  "id": "autonomous-university-of-mexico-state",
+  "name": "Autonomous University of Mexico State",
+  "shortName": "UAEM",
+  "web": "https://uaemex.mx",
+  "founded": "1956",
+  "approximatePopulaton": 58938,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    19.33059,
+    -98.94275
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "MEX",
+  "nearestCity": "Toluca, Mexico State",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

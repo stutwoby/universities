@@ -1,0 +1,23 @@
+{
+  "id": "autonomous-university-of-barcelona",
+  "name": "Autonomous University of Barcelona",
+  "shortName": "UAB",
+  "web": "https://uab.es",
+  "founded": "1968",
+  "approximatePopulaton": 31248,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.50268,
+    2.10434
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "Cerdanyola del Valles, Catalonia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

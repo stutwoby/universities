@@ -1,0 +1,23 @@
+{
+  "id": "poltava-national-technical-yuri-kondratyuk-university",
+  "name": "Poltava National Technical Yuri Kondratyuk University",
+  "shortName": "PNTU",
+  "web": "https://pntu.edu.ua",
+  "founded": "1930",
+  "approximatePopulaton": 4835,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    49.5767,
+    34.56689
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "UKR",
+  "nearestCity": "Poltava",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "west-university-of-timisoara",
+  "name": "West University of Timisoara",
+  "shortName": "WUT",
+  "web": "https://uvt.ro",
+  "founded": "1944",
+  "approximatePopulaton": 14027,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.74806,
+    21.23149
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ROU",
+  "nearestCity": "Timisoara",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

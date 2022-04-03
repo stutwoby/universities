@@ -1,0 +1,23 @@
+{
+  "id": "university-of-sydney",
+  "name": "University of Sydney",
+  "shortName": "Usyd",
+  "web": "https://sydney.edu.au",
+  "founded": "1850",
+  "approximatePopulaton": 47719,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -33.8886,
+    151.18737
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Sydney, NSW",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

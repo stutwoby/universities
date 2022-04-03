@@ -1,0 +1,23 @@
+{
+  "id": "australian-catholic-university",
+  "name": "Australian Catholic University",
+  "shortName": "ACU",
+  "web": "https://acu.edu.au",
+  "founded": "1991",
+  "approximatePopulaton": 24087,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -27.37677,
+    153.08949
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Brisbane, Sydney, Canberra, Melbourne, Ballarat and Adelaide.",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

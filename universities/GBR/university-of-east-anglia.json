@@ -1,0 +1,23 @@
+{
+  "id": "university-of-east-anglia",
+  "name": "University of East Anglia",
+  "shortName": "UEA",
+  "web": "https://uea.ac.uk",
+  "founded": "1963",
+  "approximatePopulaton": 16190,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.62192,
+    1.23916
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Norwich, Norfolk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

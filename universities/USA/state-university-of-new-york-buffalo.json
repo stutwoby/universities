@@ -1,0 +1,23 @@
+{
+  "id": "state-university-of-new-york-buffalo",
+  "name": "State University of New York, Buffalo",
+  "shortName": "SUNY Buffalo",
+  "web": "https://buffalo.edu",
+  "founded": "1846",
+  "approximatePopulaton": 26341,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.95282,
+    -78.81671
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Buffalo, NY",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-debrecen",
+  "name": "University of Debrecen",
+  "shortName": "UD",
+  "web": "https://unideb.hu",
+  "founded": "1538",
+  "approximatePopulaton": 26938,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    47.5535,
+    21.62143
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "HUN",
+  "nearestCity": "Debrecen",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

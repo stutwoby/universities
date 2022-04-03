@@ -1,0 +1,23 @@
+{
+  "id": "omsk-state-technical-university",
+  "name": "Omsk State Technical University",
+  "shortName": "OmSTU",
+  "web": "https://omgtu.ru",
+  "founded": "1942",
+  "approximatePopulaton": 13102,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.02729,
+    73.2914
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Omsk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

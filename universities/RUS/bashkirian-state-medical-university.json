@@ -1,0 +1,23 @@
+{
+  "id": "bashkirian-state-medical-university",
+  "name": "Bashkirian State Medical University",
+  "shortName": "BSMU",
+  "web": "https://bashgmu.ru",
+  "founded": "1932",
+  "approximatePopulaton": 7673,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    54.72115,
+    55.94423
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Ufa",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

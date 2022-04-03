@@ -1,0 +1,23 @@
+{
+  "id": "jagiellonian-university",
+  "name": "Jagiellonian University",
+  "shortName": "JU",
+  "web": "https://uj.edu.pl",
+  "founded": "1364",
+  "approximatePopulaton": 37975,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    50.06095,
+    19.93412
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "POL",
+  "nearestCity": "Krakow",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

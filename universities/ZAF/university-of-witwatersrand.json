@@ -1,0 +1,23 @@
+{
+  "id": "university-of-witwatersrand",
+  "name": "University of Witwatersrand",
+  "shortName": "WITS",
+  "web": "https://wits.ac.za",
+  "founded": "1896",
+  "approximatePopulaton": 27839,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -26.19174,
+    28.03287
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ZAF",
+  "nearestCity": "Johannesburg, Gauteng",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

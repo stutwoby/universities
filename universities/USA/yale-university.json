@@ -1,0 +1,23 @@
+{
+  "id": "yale-university",
+  "name": "Yale University",
+  "shortName": "Yale",
+  "web": "https://yale.edu",
+  "founded": "1701",
+  "approximatePopulaton": 12910,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.3161,
+    -72.92233
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "New Haven, CT",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

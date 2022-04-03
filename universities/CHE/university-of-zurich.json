@@ -1,0 +1,23 @@
+{
+  "id": "university-of-zurich",
+  "name": "University of Zurich",
+  "shortName": "UZH",
+  "web": "https://uzh.ch",
+  "founded": "1833",
+  "approximatePopulaton": 23281,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    47.3742,
+    8.5512
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHE",
+  "nearestCity": "Zurich",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

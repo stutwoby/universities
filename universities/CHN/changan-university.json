@@ -1,0 +1,23 @@
+{
+  "id": "changan-university",
+  "name": "Chang`an University",
+  "shortName": "CU",
+  "web": "https://en.chd.edu.cn",
+  "founded": "1951",
+  "approximatePopulaton": 33044,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    34.23211,
+    108.95665
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Xi`an, Shaanxi, China",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

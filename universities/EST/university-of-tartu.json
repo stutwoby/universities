@@ -1,0 +1,23 @@
+{
+  "id": "university-of-tartu",
+  "name": "University of Tartu",
+  "shortName": "UT",
+  "web": "https://ut.ee",
+  "founded": "1632",
+  "approximatePopulaton": 8735,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    58.3811,
+    26.71987
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "EST",
+  "nearestCity": "Tartu ",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

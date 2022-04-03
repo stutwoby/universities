@@ -1,0 +1,23 @@
+{
+  "id": "tottori-university",
+  "name": "Tottori University",
+  "shortName": "TU",
+  "web": "https://tottori-u.ac.jp",
+  "founded": "1949",
+  "approximatePopulaton": 6040,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.51519,
+    134.1734
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Tottori",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

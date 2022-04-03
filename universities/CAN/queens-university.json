@@ -1,0 +1,23 @@
+{
+  "id": "queens-university",
+  "name": "Queens University",
+  "shortName": "Queen's",
+  "web": "https://queensu.ca",
+  "founded": "1841",
+  "approximatePopulaton": 24354,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    44.22525,
+    -76.49516
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Kingston, ON ",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

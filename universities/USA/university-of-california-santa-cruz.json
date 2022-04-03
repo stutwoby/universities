@@ -1,0 +1,23 @@
+{
+  "id": "university-of-california-santa-cruz",
+  "name": "University of California, Santa Cruz",
+  "shortName": "UC Santa Cruz",
+  "web": "https://ucsc.edu",
+  "founded": "1965",
+  "approximatePopulaton": 19457,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.99142,
+    -122.06087
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Santa Cruz, CA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "kursk-state-medical-university",
+  "name": "Kursk State Medical University",
+  "shortName": "KSMU",
+  "web": "https://kurskmed.com",
+  "founded": "1935",
+  "approximatePopulaton": 7058,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.74906,
+    36.19481
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Kursk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

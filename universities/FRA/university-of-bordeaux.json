@@ -1,0 +1,23 @@
+{
+  "id": "university-of-bordeaux",
+  "name": "University of Bordeaux",
+  "shortName": "UB",
+  "web": "https://univ-bordeaux.fr",
+  "founded": "1441",
+  "approximatePopulaton": 54812,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    44.80785,
+    -0.59539
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "FRA",
+  "nearestCity": "Bordeaux",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

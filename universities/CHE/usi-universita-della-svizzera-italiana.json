@@ -1,0 +1,23 @@
+{
+  "id": "usi-universita-della-svizzera-italiana",
+  "name": "USI - Universita della Svizzera italiana",
+  "shortName": "USI",
+  "web": "https://usi.ch",
+  "founded": "1995",
+  "approximatePopulaton": 2713,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    46.0109,
+    8.95805
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHE",
+  "nearestCity": "Lugano",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

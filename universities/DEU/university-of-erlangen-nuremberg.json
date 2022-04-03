@@ -1,0 +1,23 @@
+{
+  "id": "university-of-erlangen-nuremberg",
+  "name": "University of Erlangen Nuremberg",
+  "shortName": "FAU",
+  "web": "https://fau.eu",
+  "founded": "1743",
+  "approximatePopulaton": 38052,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    49.59789,
+    11.00459
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Erlangen and Nuremberg",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

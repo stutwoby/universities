@@ -1,0 +1,23 @@
+{
+  "id": "lipetsk-state-technical-university",
+  "name": "Lipetsk State Technical University",
+  "shortName": "LSTU",
+  "web": "https://stu.lipetsk.ru",
+  "founded": "1956",
+  "approximatePopulaton": 3962,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.61082,
+    39.5978
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Lipetsk, Russia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

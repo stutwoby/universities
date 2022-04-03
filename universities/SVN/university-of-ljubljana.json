@@ -1,0 +1,23 @@
+{
+  "id": "university-of-ljubljana",
+  "name": "University of Ljubljana",
+  "shortName": "UL",
+  "web": "https://uni-lj.si",
+  "founded": "1919",
+  "approximatePopulaton": 38762,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    46.04919,
+    14.50416
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "SVN",
+  "nearestCity": "Ljubljana",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

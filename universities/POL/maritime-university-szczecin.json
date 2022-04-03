@@ -1,0 +1,23 @@
+{
+  "id": "maritime-university-szczecin",
+  "name": "Maritime University Szczecin",
+  "shortName": "MUS",
+  "web": "https://am.szczecin.pl",
+  "founded": "1947",
+  "approximatePopulaton": 3063,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.42962,
+    14.56408
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "POL",
+  "nearestCity": "Szczecin",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

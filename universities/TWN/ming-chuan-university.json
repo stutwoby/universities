@@ -1,0 +1,23 @@
+{
+  "id": "ming-chuan-university",
+  "name": "Ming Chuan University",
+  "shortName": "MCU",
+  "web": "https://mcu.edu.tw",
+  "founded": "1957",
+  "approximatePopulaton": 18423,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    25.08726,
+    121.527
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Taipei",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

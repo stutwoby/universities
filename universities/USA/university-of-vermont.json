@@ -1,0 +1,23 @@
+{
+  "id": "university-of-vermont",
+  "name": "University of Vermont",
+  "shortName": "UVM",
+  "web": "https://uvm.edu",
+  "founded": "1791",
+  "approximatePopulaton": 12582,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    44.47786,
+    -73.19644
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Burlington, VT",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

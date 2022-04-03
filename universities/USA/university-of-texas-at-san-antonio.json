@@ -1,0 +1,23 @@
+{
+  "id": "university-of-texas-at-san-antonio",
+  "name": "University of Texas at San Antonio",
+  "shortName": "UT San Antonio",
+  "web": "https://utsa.edu",
+  "founded": "1969",
+  "approximatePopulaton": 25892,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    29.58234,
+    -98.62122
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "San Antonio, TX",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

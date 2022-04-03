@@ -1,0 +1,23 @@
+{
+  "id": "grigore-t-popa-university-of-medicine-and-pharmacy",
+  "name": "Grigore T. Popa University of Medicine and Pharmacy",
+  "shortName": "UMF",
+  "web": "https://umfiasi.ro",
+  "founded": "1879",
+  "approximatePopulaton": 9416,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    47.16857,
+    27.58533
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ROU",
+  "nearestCity": "Iasi",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

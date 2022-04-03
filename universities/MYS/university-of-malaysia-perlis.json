@@ -1,0 +1,23 @@
+{
+  "id": "university-of-malaysia-perlis",
+  "name": "University of Malaysia Perlis",
+  "shortName": "UniMAP",
+  "web": "https://unimap.edu.my",
+  "founded": "2001",
+  "approximatePopulaton": 11212,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    6.4633,
+    100.16444
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "MYS",
+  "nearestCity": "Kangar and Arau, Perlis, Malaysia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

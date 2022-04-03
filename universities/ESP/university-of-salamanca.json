@@ -1,0 +1,23 @@
+{
+  "id": "university-of-salamanca",
+  "name": "University of Salamanca",
+  "shortName": "USAL",
+  "web": "https://usal.es",
+  "founded": "1218",
+  "approximatePopulaton": 28709,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.96134,
+    -5.66698
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "Salamanca",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

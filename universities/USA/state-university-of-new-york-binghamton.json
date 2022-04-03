@@ -1,0 +1,23 @@
+{
+  "id": "state-university-of-new-york-binghamton",
+  "name": "State University of New York, Binghamton",
+  "shortName": "SUNY Binhhamton",
+  "web": "https://binghamton.edu",
+  "founded": "1946",
+  "approximatePopulaton": 17959,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.08934,
+    -75.96968
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Binghamton, NY",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

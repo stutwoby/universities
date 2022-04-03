@@ -1,0 +1,23 @@
+{
+  "id": "university-of-barcelona",
+  "name": "University of Barcelona",
+  "shortName": "UB",
+  "web": "https://ub.edu",
+  "founded": "1450",
+  "approximatePopulaton": 45494,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.38661,
+    2.16398
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "Barcelona",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

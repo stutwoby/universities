@@ -1,0 +1,23 @@
+{
+  "id": "university-of-warsaw",
+  "name": "University of Warsaw",
+  "shortName": "UW",
+  "web": "https://uw.edu.pl",
+  "founded": "1816",
+  "approximatePopulaton": 41344,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.24029,
+    21.01859
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "POL",
+  "nearestCity": "Warsaw",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

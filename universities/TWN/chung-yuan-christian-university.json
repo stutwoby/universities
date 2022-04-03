@@ -1,0 +1,23 @@
+{
+  "id": "chung-yuan-christian-university",
+  "name": "Chung Yuan Christian University",
+  "shortName": "CYCU",
+  "web": "https://cycu.edu.tw",
+  "founded": "1955",
+  "approximatePopulaton": 15978,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    24.95752,
+    121.24102
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Jhongli City, Taoyuan County",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

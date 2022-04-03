@@ -1,0 +1,23 @@
+{
+  "id": "university-of-nova-gorica",
+  "name": "University of Nova Gorica",
+  "shortName": "UNG",
+  "web": "https://ung.si",
+  "founded": "1995",
+  "approximatePopulaton": 409,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.94223,
+    13.63954
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "SVN",
+  "nearestCity": "Nova Gorica",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

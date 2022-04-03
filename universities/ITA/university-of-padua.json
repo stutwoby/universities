@@ -1,0 +1,23 @@
+{
+  "id": "university-of-padua",
+  "name": "University of Padua",
+  "shortName": "UNIPD",
+  "web": "https://unipd.it",
+  "founded": "1222",
+  "approximatePopulaton": 46900,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.40677,
+    11.8774
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ITA",
+  "nearestCity": "Padua",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-hannover",
+  "name": "University of Hannover",
+  "shortName": "LUH",
+  "web": "https://uni-hannover.de",
+  "founded": "1831",
+  "approximatePopulaton": 28742,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.383,
+    9.71966
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Hannover, Lower Saxony",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

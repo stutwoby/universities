@@ -1,0 +1,23 @@
+{
+  "id": "universiti-teknologi-malaysia",
+  "name": "Universiti Teknologi Malaysia",
+  "shortName": "UTM",
+  "web": "https://utm.my",
+  "founded": "1904",
+  "approximatePopulaton": 19988,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    1.55851,
+    103.63816
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "MYS",
+  "nearestCity": "Johor Bahru, Johor",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "voronezh-state-technical-university",
+  "name": "Voronezh State Technical University",
+  "shortName": "VSTU",
+  "web": "https://vorstu.ru",
+  "founded": "1956",
+  "approximatePopulaton": 21175,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.68439,
+    39.18585
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Voronezh",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

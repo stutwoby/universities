@@ -1,0 +1,23 @@
+{
+  "id": "southern-cross-university",
+  "name": "Southern Cross University",
+  "shortName": "SCU",
+  "web": "https://scu.edu.au",
+  "founded": "1994",
+  "approximatePopulaton": 10491,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -28.81864,
+    153.29953
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Lismore, NSW",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

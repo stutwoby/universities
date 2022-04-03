@@ -1,0 +1,23 @@
+{
+  "id": "brandeis-university",
+  "name": "Brandeis University",
+  "shortName": "Brandeis U",
+  "web": "https://brandeis.edu",
+  "founded": "1948",
+  "approximatePopulaton": 5346,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.36499,
+    -71.25865
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Waltham, MA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

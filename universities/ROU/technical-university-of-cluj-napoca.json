@@ -1,0 +1,23 @@
+{
+  "id": "technical-university-of-cluj-napoca",
+  "name": "Technical University of Cluj-Napoca",
+  "shortName": "UTCN",
+  "web": "https://admitereonline.utcluj.ro",
+  "founded": "2011",
+  "approximatePopulaton": 19136,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    46.77008,
+    23.58557
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ROU",
+  "nearestCity": "Cluj-Napoca, Romania",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

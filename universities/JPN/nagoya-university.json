@@ -1,0 +1,23 @@
+{
+  "id": "nagoya-university",
+  "name": "Nagoya University",
+  "shortName": "NagoyaU",
+  "web": "https://nagoya-u.ac.jp",
+  "founded": "1939",
+  "approximatePopulaton": 15589,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.15345,
+    136.96753
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Nagoya, Aichi",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

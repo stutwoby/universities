@@ -1,0 +1,23 @@
+{
+  "id": "university-of-strathclyde",
+  "name": "University of Strathclyde",
+  "shortName": "N/A",
+  "web": "https://strath.ac.uk",
+  "founded": "1964",
+  "approximatePopulaton": 18465,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.86283,
+    -4.24283
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Glasgow, Scotland",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

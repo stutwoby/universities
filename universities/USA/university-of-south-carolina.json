@@ -1,0 +1,23 @@
+{
+  "id": "university-of-south-carolina",
+  "name": "University of South Carolina",
+  "shortName": "SC / South Carolina",
+  "web": "https://sc.edu",
+  "founded": "1801",
+  "approximatePopulaton": 31547,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.99608,
+    -81.02738
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Columbia, SC",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

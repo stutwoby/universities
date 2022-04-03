@@ -1,0 +1,23 @@
+{
+  "id": "washington-state-university",
+  "name": "Washington State University",
+  "shortName": "WSU",
+  "web": "https://wsu.edu",
+  "founded": "1890",
+  "approximatePopulaton": 28482,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    46.73191,
+    -117.15426
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Pullman, WA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chongqing-university",
+  "name": "Chongqing University",
+  "shortName": "CQU",
+  "web": "https://cqu.edu.cn",
+  "founded": "1929",
+  "approximatePopulaton": 42095,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    29.56025,
+    106.45422
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Chongqing",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

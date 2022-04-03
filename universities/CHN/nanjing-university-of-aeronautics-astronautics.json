@@ -1,0 +1,23 @@
+{
+  "id": "nanjing-university-of-aeronautics-astronautics",
+  "name": "Nanjing University of Aeronautics & Astronautics",
+  "shortName": "NUAA",
+  "web": "https://nuaa.edu.cn",
+  "founded": "1952",
+  "approximatePopulaton": 28653,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.03519,
+    118.81826
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "China",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

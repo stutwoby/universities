@@ -1,0 +1,23 @@
+{
+  "id": "moscow-technological-university",
+  "name": "Moscow Technological University",
+  "shortName": "MIREA",
+  "web": "https://mirea.ru",
+  "founded": "1947",
+  "approximatePopulaton": 19965,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.67059,
+    37.4803
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Moscow",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

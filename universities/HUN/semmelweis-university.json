@@ -1,0 +1,23 @@
+{
+  "id": "semmelweis-university",
+  "name": "Semmelweis University",
+  "shortName": "SE",
+  "web": "https://sote.hu",
+  "founded": "1769",
+  "approximatePopulaton": 10945,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    47.4873,
+    19.06746
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "HUN",
+  "nearestCity": "Budapest",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

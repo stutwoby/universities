@@ -1,0 +1,23 @@
+{
+  "id": "aalto-university",
+  "name": "Aalto University",
+  "shortName": "Aalto U",
+  "web": "https://aalto.fi",
+  "founded": "2010",
+  "approximatePopulaton": 12506,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    60.18666,
+    24.82765
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "FIN",
+  "nearestCity": "Espoo and Helsinki",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

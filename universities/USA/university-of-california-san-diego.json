@@ -1,0 +1,23 @@
+{
+  "id": "university-of-california-san-diego",
+  "name": "University of California, San Diego",
+  "shortName": "UC San Diego",
+  "web": "https://ucsd.edu",
+  "founded": "1960",
+  "approximatePopulaton": 33579,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.88011,
+    -117.23404
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "La Jolla, CA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

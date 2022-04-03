@@ -1,0 +1,23 @@
+{
+  "id": "kyungpook-national-university",
+  "name": "Kyungpook National University",
+  "shortName": "KNU",
+  "web": "https://knu.ac.kr",
+  "founded": "1946",
+  "approximatePopulaton": 21323,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.89005,
+    128.61134
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KOR",
+  "nearestCity": "Daegu, Sangju, Gyeongbuk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

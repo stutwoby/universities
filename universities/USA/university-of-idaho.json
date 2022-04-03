@@ -1,0 +1,23 @@
+{
+  "id": "university-of-idaho",
+  "name": "University of Idaho",
+  "shortName": "UI / U of I",
+  "web": "https://uidaho.edu",
+  "founded": "1889",
+  "approximatePopulaton": 9778,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    46.72877,
+    -117.01265
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Moscow, Idaho",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

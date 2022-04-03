@@ -1,0 +1,23 @@
+{
+  "id": "tyumen-state-university",
+  "name": "Tyumen State University",
+  "shortName": "UT",
+  "web": "https://utmn.ru",
+  "founded": "1930",
+  "approximatePopulaton": 10885,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    57.15849,
+    65.53278
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Tyumen",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

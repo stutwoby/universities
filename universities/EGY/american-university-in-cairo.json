@@ -1,0 +1,23 @@
+{
+  "id": "american-university-in-cairo",
+  "name": "American University in Cairo",
+  "shortName": "AUC",
+  "web": "https://aucegypt.edu",
+  "founded": "1919",
+  "approximatePopulaton": 5936,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    30.01931,
+    31.4995
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "EGY",
+  "nearestCity": "Cairo",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

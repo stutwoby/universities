@@ -1,0 +1,23 @@
+{
+  "id": "beijing-normal-university",
+  "name": "Beijing Normal University",
+  "shortName": "BJNU",
+  "web": "https://bnu.edu",
+  "founded": "1902",
+  "approximatePopulaton": 23365,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.96297,
+    116.36626
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Beijing, China",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

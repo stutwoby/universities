@@ -1,0 +1,23 @@
+{
+  "id": "interdisciplinary-center-herzliya-idc-herzliya",
+  "name": "Interdisciplinary Center Herzliya (IDC Herzliya)",
+  "shortName": "IDC Herzliya",
+  "web": "https://idc.ac.il",
+  "founded": "1994",
+  "approximatePopulaton": 7011,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.17613,
+    34.83628
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ISR",
+  "nearestCity": "Herzliya",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-colorado",
+  "name": "University of Colorado",
+  "shortName": "UC",
+  "web": "https://colorado.edu ",
+  "founded": "1876",
+  "approximatePopulaton": 34481,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.0076,
+    -105.26596
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Boulder, CO",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-eastern-finland",
+  "name": "University of Eastern Finland",
+  "shortName": "UEF",
+  "web": "https://uef.fi",
+  "founded": "2010",
+  "approximatePopulaton": 11742,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    62.60347,
+    29.74412
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "FIN",
+  "nearestCity": "Joensuu, Kuopio and Savonlinna",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "universite-de-paris",
+  "name": "Universite de Paris",
+  "shortName": "DUP",
+  "web": "https://u-paris.fr",
+  "founded": "2019",
+  "approximatePopulaton": 63219,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    48.82845,
+    2.38207
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "FRA",
+  "nearestCity": "Paris, France",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

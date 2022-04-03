@@ -1,0 +1,23 @@
+{
+  "id": "university-of-pretoria",
+  "name": "University of Pretoria",
+  "shortName": "UP",
+  "web": "https://up.ac.za",
+  "founded": "1908",
+  "approximatePopulaton": 35387,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -25.7546,
+    28.23145
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ZAF",
+  "nearestCity": "Pretoria, Gauteng",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

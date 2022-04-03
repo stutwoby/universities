@@ -1,0 +1,23 @@
+{
+  "id": "riga-technical-university",
+  "name": "Riga Technical University",
+  "shortName": "RTU",
+  "web": "https://rtu.lv",
+  "founded": "1862",
+  "approximatePopulaton": 11134,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    56.94721,
+    24.10521
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "LVA",
+  "nearestCity": "Riga",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

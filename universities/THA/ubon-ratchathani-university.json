@@ -1,0 +1,23 @@
+{
+  "id": "ubon-ratchathani-university",
+  "name": "Ubon Ratchathani University",
+  "shortName": "UBU",
+  "web": "https://ubu.ac.th",
+  "founded": "1987",
+  "approximatePopulaton": 12834,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    15.11808,
+    104.90332
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "THA",
+  "nearestCity": "Ubon Ratchathani, Thailand",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

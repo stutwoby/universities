@@ -1,0 +1,23 @@
+{
+  "id": "national-technical-university-kharkiv-polytechnic-institute",
+  "name": "National Technical University Kharkiv Polytechnic Institute",
+  "shortName": "KhPI",
+  "web": "https://kpi.kharkov.ua",
+  "founded": "1885",
+  "approximatePopulaton": 12141,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    50.00081,
+    36.24938
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "UKR",
+  "nearestCity": "Kharkiv",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

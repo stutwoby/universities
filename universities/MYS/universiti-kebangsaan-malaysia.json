@@ -1,0 +1,23 @@
+{
+  "id": "universiti-kebangsaan-malaysia",
+  "name": "Universiti Kebangsaan Malaysia",
+  "shortName": "UKM",
+  "web": "https://ukm.my",
+  "founded": "1970",
+  "approximatePopulaton": 17180,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    2.93839,
+    101.77605
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "MYS",
+  "nearestCity": "Bangi Selangor",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

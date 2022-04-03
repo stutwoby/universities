@@ -1,0 +1,23 @@
+{
+  "id": "louisiana-state-university",
+  "name": "Louisiana State University",
+  "shortName": "LSU",
+  "web": "https://lsu.edu",
+  "founded": "1860",
+  "approximatePopulaton": 28221,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    30.41383,
+    -91.18022
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Baton Rouge",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

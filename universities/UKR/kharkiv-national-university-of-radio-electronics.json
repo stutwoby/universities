@@ -1,0 +1,23 @@
+{
+  "id": "kharkiv-national-university-of-radio-electronics",
+  "name": "Kharkiv National University of Radio Electronics",
+  "shortName": "NURE",
+  "web": "https://nure.ua",
+  "founded": "1930",
+  "approximatePopulaton": 8058,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    50.01563,
+    36.22832
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "UKR",
+  "nearestCity": "Kharkiv",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

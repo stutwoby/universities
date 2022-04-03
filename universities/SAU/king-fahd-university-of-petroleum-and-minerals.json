@@ -1,0 +1,23 @@
+{
+  "id": "king-fahd-university-of-petroleum-and-minerals",
+  "name": "King Fahd University of Petroleum and Minerals",
+  "shortName": "KFUPM",
+  "web": "https://kfupm.edu.sa",
+  "founded": "1963",
+  "approximatePopulaton": 6948,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    26.30713,
+    50.14595
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "SAU",
+  "nearestCity": "Dhahran, Eastern Province",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "cairo-university",
+  "name": "Cairo University",
+  "shortName": "CU",
+  "web": "https://cu.edu.eg",
+  "founded": "1908",
+  "approximatePopulaton": 204412,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    30.02731,
+    31.20858
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "EGY",
+  "nearestCity": "Giza",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

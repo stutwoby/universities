@@ -1,0 +1,23 @@
+{
+  "id": "shibaura-institute-of-technology",
+  "name": "Shibaura Institute of Technology",
+  "shortName": "SIT",
+  "web": "https://shibaura-it.ac.jp",
+  "founded": "1927",
+  "approximatePopulaton": 8864,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.66091,
+    139.79582
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Saitama",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

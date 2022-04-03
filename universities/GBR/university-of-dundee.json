@@ -1,0 +1,23 @@
+{
+  "id": "university-of-dundee",
+  "name": "University of Dundee",
+  "shortName": "Dund.",
+  "web": "https://dundee.ac.uk",
+  "founded": "1967",
+  "approximatePopulaton": 12060,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    56.45826,
+    -2.98216
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Dundee, Scotland",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

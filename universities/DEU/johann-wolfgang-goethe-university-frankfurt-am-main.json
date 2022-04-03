@@ -1,0 +1,23 @@
+{
+  "id": "johann-wolfgang-goethe-university-frankfurt-am-main",
+  "name": "Johann Wolfgang Goethe University Frankfurt am Main",
+  "shortName": "Goethe University Frankfurt",
+  "web": "https://uni-frankfurt.de",
+  "founded": "1914",
+  "approximatePopulaton": 46481,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    50.12705,
+    8.6678
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Frankfurt am Main",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

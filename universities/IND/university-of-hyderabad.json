@@ -1,0 +1,23 @@
+{
+  "id": "university-of-hyderabad",
+  "name": "University of Hyderabad",
+  "shortName": "UoH",
+  "web": "https://uohyd.ac.in",
+  "founded": "1974",
+  "approximatePopulaton": 5124,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    17.45722,
+    78.32366
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IND",
+  "nearestCity": "Gachibowli",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "soochow-university-china",
+  "name": "Soochow University (China)",
+  "shortName": "SU",
+  "web": "https://suda.edu.cn",
+  "founded": "1900",
+  "approximatePopulaton": 49098,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    31.31002,
+    120.63973
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Suzhou, Jiangsu",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "johns-hopkins-university",
+  "name": "Johns Hopkins University",
+  "shortName": "JHU / Hopkins",
+  "web": "https://jhu.edu",
+  "founded": "1876",
+  "approximatePopulaton": 16432,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.32991,
+    -76.62049
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Baltimore, MD",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

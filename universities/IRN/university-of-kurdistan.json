@@ -1,0 +1,23 @@
+{
+  "id": "university-of-kurdistan",
+  "name": "University of Kurdistan",
+  "shortName": "UOK",
+  "web": "https://uok.ac.ir/fa.aspx",
+  "founded": "1991",
+  "approximatePopulaton": 10555,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.18217,
+    44.00704
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRN",
+  "nearestCity": "Sanandaj, Iran",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

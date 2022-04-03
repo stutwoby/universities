@@ -1,0 +1,23 @@
+{
+  "id": "al-manara-college-of-medical-sciences",
+  "name": "Al-Manara College of Medical Sciences",
+  "shortName": "AMCMS",
+  "web": "https://uomanara.edu.iq/en/home/",
+  "founded": "2017",
+  "approximatePopulaton": 2388,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    31.85418,
+    47.13944
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Maysan, Iraq",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

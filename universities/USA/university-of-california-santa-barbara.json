@@ -1,0 +1,23 @@
+{
+  "id": "university-of-california-santa-barbara",
+  "name": "University of California, Santa Barbara",
+  "shortName": "UC Santa Barbara",
+  "web": "https://ucsb.edu",
+  "founded": "1944",
+  "approximatePopulaton": 24089,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    34.41402,
+    -119.84896
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Santa Barbara, CA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

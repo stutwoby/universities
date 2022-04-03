@@ -1,0 +1,23 @@
+{
+  "id": "al-farahidi-university",
+  "name": "Al-Farahidi University",
+  "shortName": "AFU",
+  "web": "https://alfarahidiuc.edu.iq",
+  "founded": "2013",
+  "approximatePopulaton": 9839,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.27097,
+    44.3586
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Baghdad, Iraq",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

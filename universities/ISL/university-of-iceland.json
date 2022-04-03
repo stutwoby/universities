@@ -1,0 +1,23 @@
+{
+  "id": "university-of-iceland",
+  "name": "University of Iceland",
+  "shortName": "UICE",
+  "web": "https://hi.is",
+  "founded": "1911",
+  "approximatePopulaton": 8309,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    64.13967,
+    -21.95192
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ISL",
+  "nearestCity": "Reykjavik",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

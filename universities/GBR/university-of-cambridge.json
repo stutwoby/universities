@@ -1,0 +1,23 @@
+{
+  "id": "university-of-cambridge",
+  "name": "University of Cambridge",
+  "shortName": "Cambridge",
+  "web": "https://cam.ac.uk",
+  "founded": "1209",
+  "approximatePopulaton": 19580,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.20433,
+    0.11489
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Cambridge, England",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

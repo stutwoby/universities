@@ -1,0 +1,23 @@
+{
+  "id": "hebrew-university-of-jerusalem",
+  "name": "Hebrew University of Jerusalem",
+  "shortName": "HUJI",
+  "web": "https://huji.ac.il",
+  "founded": "1925",
+  "approximatePopulaton": 16104,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    31.79456,
+    35.24141
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ISR",
+  "nearestCity": "Jerusalem",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

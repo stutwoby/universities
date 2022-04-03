@@ -1,0 +1,23 @@
+{
+  "id": "sevastopol-state-university",
+  "name": "Sevastopol State University",
+  "shortName": "Sevgu",
+  "web": "https://sevsu.ru",
+  "founded": "2014",
+  "approximatePopulaton": 9663,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    44.59592,
+    33.47579
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Sevastopol, Russia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

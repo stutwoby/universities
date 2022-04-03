@@ -1,0 +1,23 @@
+{
+  "id": "leeds-beckett-university",
+  "name": "Leeds Beckett University",
+  "shortName": "LBU",
+  "web": "https://leedsbeckett.ac.uk",
+  "founded": "1992",
+  "approximatePopulaton": 23275,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.80364,
+    -1.54746
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Leeds",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "technion-israel-institute-of-technology",
+  "name": "Technion Israel Institute of Technology",
+  "shortName": "Technion",
+  "web": "https://technion.ac.il/en",
+  "founded": "1924",
+  "approximatePopulaton": 14740,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.77676,
+    35.02315
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ISR",
+  "nearestCity": "Haifa",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

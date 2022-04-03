@@ -1,0 +1,23 @@
+{
+  "id": "arizona-state-university",
+  "name": "Arizona State University",
+  "shortName": "ASU / Arizona State",
+  "web": "https://asu.edu",
+  "founded": "1885",
+  "approximatePopulaton": 45827,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.44286,
+    -112.08226
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Tempe / Phoenix / Mesa, AZ",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

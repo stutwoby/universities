@@ -1,0 +1,23 @@
+{
+  "id": "scuola-normale-superiore-di-pisa",
+  "name": "Scuola Normale Superiore di Pisa",
+  "shortName": "SNS",
+  "web": "https://sns.it",
+  "founded": "1810",
+  "approximatePopulaton": 557,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.7196,
+    10.40033
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ITA",
+  "nearestCity": "Pisa",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

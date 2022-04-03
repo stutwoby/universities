@@ -1,0 +1,23 @@
+{
+  "id": "hallym-university",
+  "name": "Hallym University",
+  "shortName": "HU",
+  "web": "https://hallym.ac.kr",
+  "founded": "1982",
+  "approximatePopulaton": 8383,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    37.88623,
+    127.73777
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KOR",
+  "nearestCity": "Chuncheon",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

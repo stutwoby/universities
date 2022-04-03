@@ -1,0 +1,23 @@
+{
+  "id": "university-of-calgary",
+  "name": "University of Calgary",
+  "shortName": "UCalgary",
+  "web": "https://ucalgary.ca",
+  "founded": "1966",
+  "approximatePopulaton": 31863,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.07816,
+    -114.1358
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Calgary, AB",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

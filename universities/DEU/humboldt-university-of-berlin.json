@@ -1,0 +1,23 @@
+{
+  "id": "humboldt-university-of-berlin",
+  "name": "Humboldt University of Berlin",
+  "shortName": "HU Berlin",
+  "web": "https://hu-berlin.de",
+  "founded": "1810",
+  "approximatePopulaton": 33388,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.51788,
+    13.39362
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Berlin",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

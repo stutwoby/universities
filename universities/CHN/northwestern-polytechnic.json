@@ -1,0 +1,23 @@
+{
+  "id": "northwestern-polytechnic",
+  "name": "Northwestern Polytechnic",
+  "shortName": "NWPU",
+  "web": "https://npu.edu",
+  "founded": "1938",
+  "approximatePopulaton": 27813,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    34.24363,
+    108.91388
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Xi'an, Shaanxi",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

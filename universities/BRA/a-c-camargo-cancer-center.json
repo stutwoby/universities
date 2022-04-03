@@ -1,0 +1,23 @@
+{
+  "id": "a-c-camargo-cancer-center",
+  "name": "A.C.Camargo Cancer Center",
+  "shortName": "ACCAMARGO",
+  "web": "https://accamargo.org.br",
+  "founded": "1934",
+  "approximatePopulaton": 189,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -23.56532,
+    -46.63678
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "BRA",
+  "nearestCity": "Sao Paulo",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

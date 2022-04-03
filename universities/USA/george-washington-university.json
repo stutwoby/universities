@@ -1,0 +1,23 @@
+{
+  "id": "george-washington-university",
+  "name": "George Washington University",
+  "shortName": "GW/ GWU",
+  "web": "https://gwu.edu",
+  "founded": "1821",
+  "approximatePopulaton": 23788,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    38.89971,
+    -77.04858
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Washington, DC",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

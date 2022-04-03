@@ -1,0 +1,23 @@
+{
+  "id": "university-of-stirling",
+  "name": "University of Stirling",
+  "shortName": "N/A",
+  "web": "https://stir.ac.uk",
+  "founded": "1967",
+  "approximatePopulaton": 9620,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    56.14597,
+    -3.91867
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Stirling, Scotland",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

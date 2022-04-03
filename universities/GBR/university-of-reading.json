@@ -1,0 +1,23 @@
+{
+  "id": "university-of-reading",
+  "name": "University of Reading",
+  "shortName": "N/A",
+  "web": "https://reading.ac.uk",
+  "founded": "1926",
+  "approximatePopulaton": 14520,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.44139,
+    -0.94179
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Reading, Berkshire, England",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

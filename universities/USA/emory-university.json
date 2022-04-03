@@ -1,0 +1,23 @@
+{
+  "id": "emory-university",
+  "name": "Emory University",
+  "shortName": "Emory",
+  "web": "https://emory.edu",
+  "founded": "1836",
+  "approximatePopulaton": 12923,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.79253,
+    -84.32398
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Druid Hills, GA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

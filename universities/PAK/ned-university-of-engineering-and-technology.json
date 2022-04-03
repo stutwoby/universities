@@ -1,0 +1,23 @@
+{
+  "id": "ned-university-of-engineering-and-technology",
+  "name": "NED University of Engineering and Technology",
+  "shortName": "NEDUET",
+  "web": "https://neduet.edu.pk",
+  "founded": "1921",
+  "approximatePopulaton": 11907,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    24.93179,
+    67.11122
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "PAK",
+  "nearestCity": "Karachi, Sindh",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

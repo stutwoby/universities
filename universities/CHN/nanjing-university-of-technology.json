@@ -1,0 +1,24 @@
+{
+  "id": "nanjing-university-of-technology",
+  "name": "Nanjing University of Technology",
+  "shortName": "NJTech",
+  "web": "https://njtech.edu.cn",
+  "founded": "1902",
+  "approximatePopulaton": 34424,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.07673,
+    118.77814,
+    15
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Nanjing",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

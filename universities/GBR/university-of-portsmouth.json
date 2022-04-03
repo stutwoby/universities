@@ -1,0 +1,23 @@
+{
+  "id": "university-of-portsmouth",
+  "name": "University of Portsmouth",
+  "shortName": "N/A",
+  "web": "https://port.ac.uk",
+  "founded": "1992",
+  "approximatePopulaton": 21545,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    50.79506,
+    -1.09357
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Portsmouth, England",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

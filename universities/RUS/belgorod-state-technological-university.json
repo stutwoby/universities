@@ -1,0 +1,23 @@
+{
+  "id": "belgorod-state-technological-university",
+  "name": "Belgorod State Technological University",
+  "shortName": "BSTU",
+  "web": "https://en.bstu.ru",
+  "founded": "1954",
+  "approximatePopulaton": 15647,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    50.58149,
+    36.59639
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Belgorod",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

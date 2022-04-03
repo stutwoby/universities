@@ -1,0 +1,23 @@
+{
+  "id": "tunghai-university",
+  "name": "Tunghai University",
+  "shortName": "THU",
+  "web": "https://thu.edu.tw",
+  "founded": "1955",
+  "approximatePopulaton": 15783,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    24.18159,
+    120.60312
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Xitun, Taichung",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

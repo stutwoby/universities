@@ -1,0 +1,23 @@
+{
+  "id": "queens-university-belfast",
+  "name": "Queen`s University Belfast",
+  "shortName": "QUB",
+  "web": "https://qub.ac.uk",
+  "founded": "1908",
+  "approximatePopulaton": 19690,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    54.58438,
+    -5.93408
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Belfast, County Antrim, Northern Ireland",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

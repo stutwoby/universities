@@ -1,0 +1,23 @@
+{
+  "id": "institute-of-space-technology",
+  "name": "Institute of Space Technology",
+  "shortName": "IST",
+  "web": "https://ist.edu.pk",
+  "founded": "2002",
+  "approximatePopulaton": 1393,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.51994,
+    73.17749
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "PAK",
+  "nearestCity": "Islamabad",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

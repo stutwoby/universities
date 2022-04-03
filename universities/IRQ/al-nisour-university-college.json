@@ -1,0 +1,23 @@
+{
+  "id": "al-nisour-university-college",
+  "name": "Al-Nisour University College",
+  "shortName": "ANU",
+  "web": "https://nuc.edu.iq",
+  "founded": "2011",
+  "approximatePopulaton": 3335,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.30333,
+    44.35542
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Baghdad",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

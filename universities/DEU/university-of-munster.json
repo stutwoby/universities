@@ -1,0 +1,23 @@
+{
+  "id": "university-of-munster",
+  "name": "University of Munster",
+  "shortName": "WWU",
+  "web": "https://uni-muenster.de/en",
+  "founded": "1780",
+  "approximatePopulaton": 44580,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.96354,
+    7.61318
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Munster",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

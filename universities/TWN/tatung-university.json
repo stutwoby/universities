@@ -1,0 +1,23 @@
+{
+  "id": "tatung-university",
+  "name": "Tatung University",
+  "shortName": "TTU",
+  "web": "https://en.ttu.edu.tw",
+  "founded": "1956",
+  "approximatePopulaton": 4497,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    25.0669,
+    121.52227
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Zhongshan District",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

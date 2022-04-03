@@ -1,0 +1,23 @@
+{
+  "id": "university-of-new-mexico",
+  "name": "University of New Mexico",
+  "shortName": "UNM",
+  "web": "https://unm.edu",
+  "founded": "1889",
+  "approximatePopulaton": 20241,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.08431,
+    -106.61978
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Albuquerque",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

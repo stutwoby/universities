@@ -1,0 +1,23 @@
+{
+  "id": "mordovia-state-university",
+  "name": "Mordovia State University",
+  "shortName": "MRSU",
+  "web": "https://mrsu.ru/en",
+  "founded": "1957",
+  "approximatePopulaton": 12744,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    54.18702,
+    45.17895
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Saransk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

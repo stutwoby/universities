@@ -1,0 +1,23 @@
+{
+  "id": "university-of-diyala",
+  "name": "University of Diyala",
+  "shortName": "UD",
+  "web": "https://uodiyala.edu.iq/",
+  "founded": "1999",
+  "approximatePopulaton": 21469,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.68225,
+    44.60092
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Baqubah",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

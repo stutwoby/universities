@@ -1,0 +1,23 @@
+{
+  "id": "university-of-kirkuk",
+  "name": "University of Kirkuk",
+  "shortName": "UK",
+  "web": "https://uokirkuk.edu.iq",
+  "founded": "2003",
+  "approximatePopulaton": 22323,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.39612,
+    44.34235
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Kirkuk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

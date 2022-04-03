@@ -1,0 +1,23 @@
+{
+  "id": "university-of-navarra",
+  "name": "University of Navarra",
+  "shortName": "UNAV",
+  "web": "https://unav.edu",
+  "founded": "1952",
+  "approximatePopulaton": 10544,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.80142,
+    -1.65971
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "Pamplona",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

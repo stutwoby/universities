@@ -1,0 +1,23 @@
+{
+  "id": "university-of-porto",
+  "name": "University of Porto",
+  "shortName": "UP",
+  "web": "https://up.pt",
+  "founded": "1911",
+  "approximatePopulaton": 32586,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.14653,
+    -8.61572
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "PRT",
+  "nearestCity": "Porto",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

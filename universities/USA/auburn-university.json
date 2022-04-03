@@ -1,0 +1,23 @@
+{
+  "id": "auburn-university",
+  "name": "Auburn University",
+  "shortName": "AU / Auburn",
+  "web": "https://auburn.edu",
+  "founded": "1856",
+  "approximatePopulaton": 26838,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.59354,
+    -85.49517
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Auburn, AL",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "chulalongkorn-university",
+  "name": "Chulalongkorn University",
+  "shortName": "CU / Chula",
+  "web": "https://chula.ac.th",
+  "founded": "1917",
+  "approximatePopulaton": 33643,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    13.73839,
+    100.53205
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "THA",
+  "nearestCity": "Bangkok",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

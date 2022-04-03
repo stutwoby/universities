@@ -1,0 +1,23 @@
+{
+  "id": "national-tsing-hua-university",
+  "name": "National Tsing Hua University",
+  "shortName": "NTHU",
+  "web": "https://nthu.edu.tw",
+  "founded": "1956",
+  "approximatePopulaton": 14758,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    24.79471,
+    120.99323
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Hsinchu City",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

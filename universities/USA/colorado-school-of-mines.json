@@ -1,0 +1,23 @@
+{
+  "id": "colorado-school-of-mines",
+  "name": "Colorado School of Mines",
+  "shortName": "Mines / CSM",
+  "web": "https://mines.edu",
+  "founded": "1874",
+  "approximatePopulaton": 5898,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.7511,
+    -105.22249
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Golden, CO",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

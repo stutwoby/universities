@@ -1,0 +1,23 @@
+{
+  "id": "national-university-of-science-and-technology-misis",
+  "name": "National University of Science and Technology MISiS",
+  "shortName": "MISIS",
+  "web": "https://en.misis.ru",
+  "founded": "1918",
+  "approximatePopulaton": 7168,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.72831,
+    37.60905
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Moscow",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "rensselaer-polytechnic-institute",
+  "name": "Rensselaer Polytechnic Institute",
+  "shortName": "RPI",
+  "web": "https://rpi.edu",
+  "founded": "1824",
+  "approximatePopulaton": 7417,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.72987,
+    -73.6775
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Troy, NY",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

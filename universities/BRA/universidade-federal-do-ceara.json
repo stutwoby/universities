@@ -1,0 +1,23 @@
+{
+  "id": "universidade-federal-do-ceara",
+  "name": "Universidade Federal do Ceara",
+  "shortName": "UFC",
+  "web": "https://ufc.br",
+  "founded": "1954",
+  "approximatePopulaton": 36345,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -3.74143,
+    -38.53934
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "BRA",
+  "nearestCity": "Fortaleza",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

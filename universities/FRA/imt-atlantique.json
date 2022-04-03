@@ -1,0 +1,23 @@
+{
+  "id": "imt-atlantique",
+  "name": "IMT Atlantique",
+  "shortName": "IMT",
+  "web": "https://imt-atlantique.fr",
+  "founded": "1977",
+  "approximatePopulaton": 1628,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    48.35908,
+    -4.57072
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "FRA",
+  "nearestCity": "France",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

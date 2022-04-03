@@ -1,0 +1,23 @@
+{
+  "id": "university-of-peradeniya",
+  "name": "University of Peradeniya",
+  "shortName": "FAUP",
+  "web": "https://arts.pdn.ac.lk",
+  "founded": "1942",
+  "approximatePopulaton": 17301,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    7.25603,
+    80.59756
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "LKA",
+  "nearestCity": "Peradeniya, Sri Lanka",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

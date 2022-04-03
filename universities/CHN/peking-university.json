@@ -1,0 +1,23 @@
+{
+  "id": "peking-university",
+  "name": "Peking University",
+  "shortName": "PKU",
+  "web": "https://pku.edu.cn",
+  "founded": "1898",
+  "approximatePopulaton": 38583,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.9869,
+    116.30593
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Beijing",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

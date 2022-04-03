@@ -1,0 +1,23 @@
+{
+  "id": "university-of-dubrovnik",
+  "name": "University of Dubrovnik",
+  "shortName": "UNIDU",
+  "web": "https://unidu.hr",
+  "founded": "2003",
+  "approximatePopulaton": 1424,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.64437,
+    18.10208
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "HRV",
+  "nearestCity": "Dubrovnik, Croatia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

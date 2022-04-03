@@ -1,0 +1,23 @@
+{
+  "id": "university-of-miami",
+  "name": "University of Miami",
+  "shortName": "U Miami",
+  "web": "https://miami.edu",
+  "founded": "1925",
+  "approximatePopulaton": 16179,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    25.71888,
+    -80.27636
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Coral Gables, FL",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

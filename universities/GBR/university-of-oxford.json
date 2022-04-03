@@ -1,0 +1,23 @@
+{
+  "id": "university-of-oxford",
+  "name": "University of Oxford",
+  "shortName": "Oxford",
+  "web": "https://ox.ac.uk",
+  "founded": "1096",
+  "approximatePopulaton": 20630,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.75482,
+    -1.25432
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Oxford, England",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

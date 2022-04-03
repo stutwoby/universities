@@ -1,0 +1,23 @@
+{
+  "id": "alzahra-university",
+  "name": "Alzahra University",
+  "shortName": "AzU",
+  "web": "https://alzahra.ac.ir",
+  "founded": "1964",
+  "approximatePopulaton": 9616,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.76852,
+    51.39259
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRN",
+  "nearestCity": "Tehran",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-maryland-college-park",
+  "name": "University of Maryland, College Park",
+  "shortName": "Maryland CP",
+  "web": "https://umd.edu",
+  "founded": "1856",
+  "approximatePopulaton": 33671,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    38.9869,
+    -76.9426
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "College Park, MD",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

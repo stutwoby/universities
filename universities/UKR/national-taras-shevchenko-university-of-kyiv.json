@@ -1,0 +1,23 @@
+{
+  "id": "national-taras-shevchenko-university-of-kyiv",
+  "name": "National Taras Shevchenko University of Kyiv",
+  "shortName": "KNU",
+  "web": "https://univ.kiev.ua",
+  "founded": "1834",
+  "approximatePopulaton": 23687,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    50.44209,
+    30.51042
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "UKR",
+  "nearestCity": " Kiev",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

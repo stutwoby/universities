@@ -1,0 +1,23 @@
+{
+  "id": "durham-university",
+  "name": "Durham University",
+  "shortName": "Durham",
+  "web": "https://dur.ac.uk",
+  "founded": "1832",
+  "approximatePopulaton": 17360,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    54.76498,
+    -1.57822
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Durham",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "california-state-university-long-beach",
+  "name": "California State University, Long Beach",
+  "shortName": "CSULB / The Beach",
+  "web": "https://csulb.edu",
+  "founded": "1949",
+  "approximatePopulaton": 30440,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.78383,
+    -118.1141
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Long Beach, CA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "austral-university-argentina",
+  "name": "Austral University (Argentina)",
+  "shortName": "SAU",
+  "web": "https://austral.edu.ar",
+  "founded": "1992",
+  "approximatePopulaton": 4250,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -34.45579,
+    -58.85911
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ARG",
+  "nearestCity": "Buenos Aires",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

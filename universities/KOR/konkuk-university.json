@@ -1,0 +1,23 @@
+{
+  "id": "konkuk-university",
+  "name": "Konkuk University",
+  "shortName": "KU",
+  "web": "https://konkuk.ac.kr",
+  "founded": "1931",
+  "approximatePopulaton": 12047,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    37.5408,
+    127.07926
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KOR",
+  "nearestCity": "Seoul",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

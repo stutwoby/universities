@@ -1,0 +1,23 @@
+{
+  "id": "university-of-wisconsin-madison",
+  "name": "University of Wisconsin - Madison",
+  "shortName": "UW?Madison",
+  "web": "https://wisc.edu",
+  "founded": "1848",
+  "approximatePopulaton": 39451,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.07661,
+    -89.4125
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Madison, WI",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "technical-university-of-denmark",
+  "name": "Technical University of Denmark",
+  "shortName": "DTU",
+  "web": "https://dtu.dk/english",
+  "founded": "1829",
+  "approximatePopulaton": 9412,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.78559,
+    12.5214
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DNK",
+  "nearestCity": "Lyngby",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

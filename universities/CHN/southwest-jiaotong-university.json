@@ -1,0 +1,23 @@
+{
+  "id": "southwest-jiaotong-university",
+  "name": "Southwest Jiaotong University",
+  "shortName": "SWJTU",
+  "web": "https://swjtu.edu.cn",
+  "founded": "1986",
+  "approximatePopulaton": 60674,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    30.69829,
+    104.05347
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Chengdu, Sichuan, China",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

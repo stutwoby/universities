@@ -1,0 +1,23 @@
+{
+  "id": "university-college-dublin",
+  "name": "University College Dublin",
+  "shortName": "UCD",
+  "web": "https://ucd.ie",
+  "founded": "1854",
+  "approximatePopulaton": 22541,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.30532,
+    -6.22067
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRL",
+  "nearestCity": "Dublin, Co. Dublin",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

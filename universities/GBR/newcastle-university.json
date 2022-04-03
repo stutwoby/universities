@@ -1,0 +1,23 @@
+{
+  "id": "newcastle-university",
+  "name": "Newcastle University",
+  "shortName": "NU",
+  "web": "https://ncl.ac.uk",
+  "founded": "1963",
+  "approximatePopulaton": 25235,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    54.97917,
+    -1.61476
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Newcastle upon Tyne, Tyne and Wear",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

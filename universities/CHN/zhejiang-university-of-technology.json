@@ -1,0 +1,23 @@
+{
+  "id": "zhejiang-university-of-technology",
+  "name": "Zhejiang University of Technology",
+  "shortName": "ZUT",
+  "web": "https://zjut.edu.cn",
+  "founded": "1953",
+  "approximatePopulaton": 30732,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    30.22654,
+    120.03917
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Hangzhou & Quzhou, Zhejiang, China",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

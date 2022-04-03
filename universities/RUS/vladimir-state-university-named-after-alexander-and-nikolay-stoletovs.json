@@ -1,0 +1,23 @@
+{
+  "id": "vladimir-state-university-named-after-alexander-and-nikolay-stoletovs",
+  "name": "Vladimir State University named after Alexander and Nikolay Stoletovs",
+  "shortName": "VLSU",
+  "web": "https://vlsu.ru",
+  "founded": "1969",
+  "approximatePopulaton": 18128,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    56.1381,
+    40.36435
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Vladimir, Russia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "amity-university",
+  "name": "Amity University",
+  "shortName": "AmityUni",
+  "web": "https://amity.edu",
+  "founded": "2003",
+  "approximatePopulaton": 31103,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    28.54425,
+    77.33336
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IND",
+  "nearestCity": "Noida, Uttar Pradesh",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

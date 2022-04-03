@@ -1,0 +1,23 @@
+{
+  "id": "aix-marseille-university",
+  "name": "Aix Marseille University",
+  "shortName": "AMU",
+  "web": "https://univ-amu.fr",
+  "founded": "1409",
+  "approximatePopulaton": 68841,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.29375,
+    5.358
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "FRA",
+  "nearestCity": " Aix-en-Provence and Marseille",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

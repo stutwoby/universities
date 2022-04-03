@@ -1,0 +1,23 @@
+{
+  "id": "emperor-alexander-i-st-petersburg-state-transport-university",
+  "name": "Emperor Alexander I St.Petersburg State Transport University",
+  "shortName": "PGUPS",
+  "web": "https://pgups.ru",
+  "founded": "1809",
+  "approximatePopulaton": 9445,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    59.9246,
+    30.31733
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Saint-Petersburg, Russia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

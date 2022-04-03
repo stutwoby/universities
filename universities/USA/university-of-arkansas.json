@@ -1,0 +1,23 @@
+{
+  "id": "university-of-arkansas",
+  "name": "University of Arkansas",
+  "shortName": "UARK / UA",
+  "web": "https://uark.edu",
+  "founded": "1871",
+  "approximatePopulaton": 25238,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.06771,
+    -94.17362
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Fayetteville, AR",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

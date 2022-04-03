@@ -1,0 +1,23 @@
+{
+  "id": "tongji-university",
+  "name": "Tongji University",
+  "shortName": "Tongji ",
+  "web": "https://tongji.edu.cn",
+  "founded": "1907",
+  "approximatePopulaton": 33740,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    31.28231,
+    121.50457
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Shanghai",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

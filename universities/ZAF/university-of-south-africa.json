@@ -1,0 +1,23 @@
+{
+  "id": "university-of-south-africa",
+  "name": "University of South Africa",
+  "shortName": "Unisa",
+  "web": "https://unisa.ac.za",
+  "founded": "1873",
+  "approximatePopulaton": 222065,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -25.81152,
+    28.18654
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ZAF",
+  "nearestCity": "Pretoria, Gauteng",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

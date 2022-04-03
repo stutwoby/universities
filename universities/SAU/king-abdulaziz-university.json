@@ -1,0 +1,23 @@
+{
+  "id": "king-abdulaziz-university",
+  "name": "King Abdulaziz University",
+  "shortName": "KAU",
+  "web": "https://kau.edu.sa",
+  "founded": "1967",
+  "approximatePopulaton": 31869,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    21.52773,
+    39.18594
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "SAU",
+  "nearestCity": "Jeddah, Makkah, Saudi",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

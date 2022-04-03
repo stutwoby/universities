@@ -1,0 +1,23 @@
+{
+  "id": "university-of-british-columbia",
+  "name": "University of British Columbia",
+  "shortName": "UBC",
+  "web": "https://ubc.ca",
+  "founded": "1908",
+  "approximatePopulaton": 55359,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    49.26051,
+    -123.24608
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Vancouve, BC",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

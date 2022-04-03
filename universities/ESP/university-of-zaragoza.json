@@ -1,0 +1,23 @@
+{
+  "id": "university-of-zaragoza",
+  "name": "University of Zaragoza",
+  "shortName": "No information",
+  "web": "https://unizar.es/",
+  "founded": "1542",
+  "approximatePopulaton": 28034,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.64195,
+    -0.90156
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "Zaragoza",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

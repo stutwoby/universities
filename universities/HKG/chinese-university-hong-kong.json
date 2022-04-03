@@ -1,0 +1,23 @@
+{
+  "id": "chinese-university-hong-kong",
+  "name": "Chinese University Hong Kong",
+  "shortName": "CUHK",
+  "web": "https://cuhk.edu.hk",
+  "founded": "1963",
+  "approximatePopulaton": 18675,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    22.41624,
+    114.21099
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "HKG",
+  "nearestCity": "Shatin",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

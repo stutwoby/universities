@@ -1,0 +1,23 @@
+{
+  "id": "national-taiwan-ocean-university",
+  "name": "National Taiwan Ocean University",
+  "shortName": "NTOU",
+  "web": "https://ntou.edu.tw",
+  "founded": "1989",
+  "approximatePopulaton": 8655,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    25.15075,
+    121.77274
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Zhongzheng, Keelung",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "shahid-beheshti-university",
+  "name": "Shahid Beheshti University",
+  "shortName": "SBU",
+  "web": "https://en.sbu.ac.ir",
+  "founded": "1959",
+  "approximatePopulaton": 18438,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.79898,
+    51.39469
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRN",
+  "nearestCity": "Tehran",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

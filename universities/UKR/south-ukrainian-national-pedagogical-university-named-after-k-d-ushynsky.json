@@ -1,0 +1,23 @@
+{
+  "id": "south-ukrainian-national-pedagogical-university-named-after-k-d-ushynsky",
+  "name": "South Ukrainian National Pedagogical University named after K.D. Ushynsky",
+  "shortName": "SUNPU",
+  "web": "https://pdpu.edu.ua",
+  "founded": "1817",
+  "approximatePopulaton": 5439,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    46.48067,
+    30.72143
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "UKR",
+  "nearestCity": "Odesa",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

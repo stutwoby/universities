@@ -1,0 +1,23 @@
+{
+  "id": "al-amarah-university-college",
+  "name": "Al-Amarah University College",
+  "shortName": "AAUC",
+  "web": "https://alamarahcollege.net",
+  "founded": "2017",
+  "approximatePopulaton": 1076,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    31.88637,
+    47.10933
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Maysan, Iraq",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

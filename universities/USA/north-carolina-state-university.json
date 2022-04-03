@@ -1,0 +1,23 @@
+{
+  "id": "north-carolina-state-university",
+  "name": "North Carolina State University",
+  "shortName": "NC State",
+  "web": "https://ncsu.edu",
+  "founded": "1887",
+  "approximatePopulaton": 30598,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.78458,
+    -78.68214
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Raleigh",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

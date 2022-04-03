@@ -1,0 +1,23 @@
+{
+  "id": "medical-university-of-vienna",
+  "name": "Medical University of Vienna",
+  "shortName": "MedUni Wien",
+  "web": "https://meduniwien.ac.at",
+  "founded": "1365",
+  "approximatePopulaton": 7466,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    48.21966,
+    16.35159
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUT",
+  "nearestCity": "Vienna",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

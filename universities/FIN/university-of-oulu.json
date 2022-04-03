@@ -1,0 +1,23 @@
+{
+  "id": "university-of-oulu",
+  "name": "University of Oulu",
+  "shortName": "UO",
+  "web": "https://oulu.fi/english",
+  "founded": "1958",
+  "approximatePopulaton": 10086,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    65.05931,
+    25.46636
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "FIN",
+  "nearestCity": "Oulu",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

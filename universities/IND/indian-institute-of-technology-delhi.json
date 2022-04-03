@@ -1,0 +1,23 @@
+{
+  "id": "indian-institute-of-technology-delhi",
+  "name": "Indian Institute of Technology, Delhi",
+  "shortName": "IITD",
+  "web": "https://iitd.ac.in",
+  "founded": "1961",
+  "approximatePopulaton": 8306,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    28.54495,
+    77.19264
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IND",
+  "nearestCity": "New Delhi, Delhi",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

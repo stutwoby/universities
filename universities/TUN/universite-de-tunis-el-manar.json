@@ -1,0 +1,23 @@
+{
+  "id": "universite-de-tunis-el-manar",
+  "name": "Universite de Tunis El Manar",
+  "shortName": "UQAM",
+  "web": "https://utm.rnu.tn",
+  "founded": "1969",
+  "approximatePopulaton": 33923,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.82933,
+    10.14626
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUN",
+  "nearestCity": "Manar 1",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

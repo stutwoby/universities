@@ -1,0 +1,23 @@
+{
+  "id": "ataturk-university",
+  "name": "Ataturk University",
+  "shortName": "AU",
+  "web": "https://atauni.edu.tr",
+  "founded": "1957",
+  "approximatePopulaton": 56219,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.90121,
+    41.24719
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUR",
+  "nearestCity": "Erzurum",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

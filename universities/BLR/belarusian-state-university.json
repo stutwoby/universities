@@ -1,0 +1,23 @@
+{
+  "id": "belarusian-state-university",
+  "name": "Belarusian State University",
+  "shortName": "BSU",
+  "web": "https://bsu.by/en",
+  "founded": "1921",
+  "approximatePopulaton": 24451,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.89301,
+    27.54552
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "BLR",
+  "nearestCity": "Minsk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

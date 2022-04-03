@@ -1,0 +1,23 @@
+{
+  "id": "shenzhen-university",
+  "name": "Shenzhen University",
+  "shortName": "SZU",
+  "web": "https://szu.edu.cn",
+  "founded": "1983",
+  "approximatePopulaton": 35396,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    22.53306,
+    113.93281
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Guangdong Sheng",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

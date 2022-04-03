@@ -1,0 +1,23 @@
+{
+  "id": "university-de-lorraine",
+  "name": "University de Lorraine",
+  "shortName": "UL",
+  "web": "https://inpl-nancy.fr",
+  "founded": "2012",
+  "approximatePopulaton": 59690,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    48.69653,
+    6.17643
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "FRA",
+  "nearestCity": "Nancy and Metz, Grand Est, France",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "indian-institute-of-technology-kanpur",
+  "name": "Indian Institute of Technology, Kanpur",
+  "shortName": "IITK",
+  "web": "https://iitk.ac.in",
+  "founded": "1959",
+  "approximatePopulaton": 6591,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    26.51233,
+    80.2329
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IND",
+  "nearestCity": "Kalyanpur, Kanpur",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

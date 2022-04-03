@@ -1,0 +1,23 @@
+{
+  "id": "universite-de-montreal",
+  "name": "Universite de Montreal",
+  "shortName": "UdeM",
+  "web": "https://umontreal.ca",
+  "founded": "1878",
+  "approximatePopulaton": 36774,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.50563,
+    -73.6138
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Montreal, QC",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

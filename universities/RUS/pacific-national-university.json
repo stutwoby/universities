@@ -1,0 +1,23 @@
+{
+  "id": "pacific-national-university",
+  "name": "Pacific National University",
+  "shortName": "PNU",
+  "web": "https://pnu.edu.ru",
+  "founded": "1958",
+  "approximatePopulaton": 13759,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    48.53111,
+    135.05215
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Khabarovsk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

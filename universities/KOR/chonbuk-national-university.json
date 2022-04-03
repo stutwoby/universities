@@ -1,0 +1,23 @@
+{
+  "id": "chonbuk-national-university",
+  "name": "Chonbuk National University",
+  "shortName": "CBNU",
+  "web": "https://chonbuk.ac.kr",
+  "founded": "1947",
+  "approximatePopulaton": 21984,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.84679,
+    127.12934
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KOR",
+  "nearestCity": "Jeonju, Jeollabuk-do",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

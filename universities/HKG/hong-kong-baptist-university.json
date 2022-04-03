@@ -1,0 +1,23 @@
+{
+  "id": "hong-kong-baptist-university",
+  "name": "Hong Kong Baptist University",
+  "shortName": "HKBU",
+  "web": "https://hkbu.edu.hk",
+  "founded": "1956",
+  "approximatePopulaton": 8224,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    22.33806,
+    114.18183
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "HKG",
+  "nearestCity": "Kowloon",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

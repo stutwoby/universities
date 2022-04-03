@@ -1,0 +1,23 @@
+{
+  "id": "palacky-university-of-olomouc",
+  "name": "Palacky University of Olomouc",
+  "shortName": "PU",
+  "web": "https://upol.cz/en",
+  "founded": "1573",
+  "approximatePopulaton": 17337,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    49.5954,
+    17.25999
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CZE",
+  "nearestCity": "Olomouc",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

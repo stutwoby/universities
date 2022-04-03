@@ -1,0 +1,23 @@
+{
+  "id": "iqs-universitat-ramon-llull",
+  "name": "IQS Universitat Ramon Llull",
+  "shortName": "IQS",
+  "web": "https://url.edu",
+  "founded": "1990",
+  "approximatePopulaton": 2134,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.4031,
+    2.11963
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "Barcelona",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

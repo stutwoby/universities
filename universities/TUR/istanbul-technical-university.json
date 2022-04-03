@@ -1,0 +1,23 @@
+{
+  "id": "istanbul-technical-university",
+  "name": "Istanbul Technical University",
+  "shortName": "ITU ",
+  "web": "https://itu.edu.tr",
+  "founded": "1773",
+  "approximatePopulaton": 37861,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.10559,
+    29.02535
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUR",
+  "nearestCity": "Istanbul",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

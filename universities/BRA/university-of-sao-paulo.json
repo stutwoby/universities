@@ -1,0 +1,23 @@
+{
+  "id": "university-of-sao-paulo",
+  "name": "University of Sao Paulo",
+  "shortName": "USP",
+  "web": "https://usp.br",
+  "founded": "1934",
+  "approximatePopulaton": 82961,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -23.5614,
+    -46.73078
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "BRA",
+  "nearestCity": "Sao Paulo - SP",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "erasmus-university-rotterdam",
+  "name": "Erasmus University Rotterdam",
+  "shortName": "EUR",
+  "web": "https://eur.nl",
+  "founded": "1913",
+  "approximatePopulaton": 23167,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.91756,
+    4.5255
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "NLD",
+  "nearestCity": "Rotterdam",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

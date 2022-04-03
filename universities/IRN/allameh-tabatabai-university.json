@@ -1,0 +1,23 @@
+{
+  "id": "allameh-tabatabai-university",
+  "name": "Allameh Tabataba`i University",
+  "shortName": "ATU",
+  "web": "https://atu.ac.ir",
+  "founded": "1957",
+  "approximatePopulaton": 16456,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.75959,
+    51.26127
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRN",
+  "nearestCity": "Tehran",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

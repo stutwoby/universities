@@ -1,0 +1,23 @@
+{
+  "id": "al-ahliyya-amman-university",
+  "name": "Al-Ahliyya Amman University",
+  "shortName": "AAU",
+  "web": "https://ammanu.edu.jo",
+  "founded": "1989",
+  "approximatePopulaton": 4169,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.0468,
+    35.77966
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JOR",
+  "nearestCity": "Amman",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

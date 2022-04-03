@@ -1,0 +1,23 @@
+{
+  "id": "china-pharmaceutical-university",
+  "name": "China Pharmaceutical University",
+  "shortName": "CPU",
+  "web": "https://cpu.edu.cn",
+  "founded": "1936",
+  "approximatePopulaton": 16470,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.07335,
+    118.77871
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "China",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

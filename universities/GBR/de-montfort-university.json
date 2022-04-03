@@ -1,0 +1,23 @@
+{
+  "id": "de-montfort-university",
+  "name": "De Montfort University",
+  "shortName": "DMU",
+  "web": "https://dmu.ac.uk",
+  "founded": "1992",
+  "approximatePopulaton": 21570,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    52.62921,
+    -1.13972
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Leicester",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

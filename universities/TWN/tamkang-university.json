@@ -1,0 +1,23 @@
+{
+  "id": "tamkang-university",
+  "name": "Tamkang University",
+  "shortName": "TKU",
+  "web": "https://tku.edu.tw",
+  "founded": "1950",
+  "approximatePopulaton": 25343,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    25.17535,
+    121.45001
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Tamsui, New Taipei",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

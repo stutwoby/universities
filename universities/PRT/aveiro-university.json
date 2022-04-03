@@ -1,0 +1,23 @@
+{
+  "id": "aveiro-university",
+  "name": "University of Aveiro",
+  "shortName": "UAveiro",
+  "web": "https://ua.pt",
+  "founded": "1973",
+  "approximatePopulaton": 9936,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.63027,
+    -8.65752
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "PRT",
+  "nearestCity": "Aveiro",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

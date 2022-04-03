@@ -1,0 +1,23 @@
+{
+  "id": "portland-state-university",
+  "name": "Portland State University",
+  "shortName": "PSU",
+  "web": "https://pdx.edu",
+  "founded": "1946",
+  "approximatePopulaton": 20202,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.51079,
+    -122.6831
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Portland",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

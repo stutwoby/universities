@@ -1,0 +1,23 @@
+{
+  "id": "national-chiao-tung-university",
+  "name": "National Chiao Tung University",
+  "shortName": "NCTU",
+  "web": "https://nctu.edu.tw",
+  "founded": "1958",
+  "approximatePopulaton": 12090,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    24.78589,
+    120.99675
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Hsinchu City",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

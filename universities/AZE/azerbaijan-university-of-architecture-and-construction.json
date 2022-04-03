@@ -1,0 +1,23 @@
+{
+  "id": "azerbaijan-university-of-architecture-and-construction",
+  "name": "Azerbaijan University of Architecture and Construction",
+  "shortName": "AUAC",
+  "web": "https://azmiu.edu.az/",
+  "founded": "1975",
+  "approximatePopulaton": 8573,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.37087,
+    49.81309
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AZE",
+  "nearestCity": "Baku",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

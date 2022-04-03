@@ -1,0 +1,23 @@
+{
+  "id": "university-college-cork",
+  "name": "University College Cork",
+  "shortName": "UCC",
+  "web": "https://ucc.ie",
+  "founded": "1845",
+  "approximatePopulaton": 17727,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.8921,
+    -8.49322
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRL",
+  "nearestCity": "Cork",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

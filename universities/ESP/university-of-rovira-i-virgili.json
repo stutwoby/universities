@@ -1,0 +1,23 @@
+{
+  "id": "university-of-rovira-i-virgili",
+  "name": "University of Rovira i Virgili",
+  "shortName": "URV",
+  "web": "https://urv.cat",
+  "founded": "1991",
+  "approximatePopulaton": 12562,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.11964,
+    1.26049
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "Tarragona, Reus, Vila-seca, Tortosa and El Vendrell",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

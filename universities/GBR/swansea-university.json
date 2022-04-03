@@ -1,0 +1,23 @@
+{
+  "id": "swansea-university",
+  "name": "Swansea University",
+  "shortName": "SwanseaU",
+  "web": "https://swan.ac.uk",
+  "founded": "1920",
+  "approximatePopulaton": 17285,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.60914,
+    -3.98017
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Swansea",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

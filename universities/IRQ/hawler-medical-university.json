@@ -1,0 +1,23 @@
+{
+  "id": "hawler-medical-university",
+  "name": "Hawler Medical University",
+  "shortName": "HMU",
+  "web": "https://hmu.edu.krd",
+  "founded": "2005",
+  "approximatePopulaton": 3531,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.15991,
+    44.01324
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Erbil",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-kansas",
+  "name": "University of Kansas",
+  "shortName": "KU",
+  "web": "https://ku.edu",
+  "founded": "1865",
+  "approximatePopulaton": 24252,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    38.95434,
+    -95.25584
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Lawrence, KS",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

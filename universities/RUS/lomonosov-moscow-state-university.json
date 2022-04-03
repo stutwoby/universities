@@ -1,0 +1,23 @@
+{
+  "id": "lomonosov-moscow-state-university",
+  "name": "Lomonosov Moscow State University",
+  "shortName": "Lomonosov MSU",
+  "web": "https://msu.ru/en",
+  "founded": "1755",
+  "approximatePopulaton": 29235,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.70394,
+    37.52875
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Moscow",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

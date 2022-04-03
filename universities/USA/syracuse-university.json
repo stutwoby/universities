@@ -1,0 +1,23 @@
+{
+  "id": "syracuse-university",
+  "name": "Syracuse University",
+  "shortName": "SU",
+  "web": "https://syr.edu",
+  "founded": "1870",
+  "approximatePopulaton": 20484,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    43.03918,
+    -76.13517
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Syracuse",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

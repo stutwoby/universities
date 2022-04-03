@@ -1,0 +1,23 @@
+{
+  "id": "university-of-michigan",
+  "name": "University of Michigan",
+  "shortName": "Umich",
+  "web": "https://umich.edu",
+  "founded": "1817",
+  "approximatePopulaton": 43873,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.28628,
+    -83.75885
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Ann Arbor, MI",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

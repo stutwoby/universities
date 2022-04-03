@@ -1,0 +1,23 @@
+{
+  "id": "deakin-university",
+  "name": "Deakin University",
+  "shortName": "DU",
+  "web": "https://deakin.edu.au",
+  "founded": "1974",
+  "approximatePopulaton": 41342,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -37.85097,
+    145.11199
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Melbourne, VIC",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

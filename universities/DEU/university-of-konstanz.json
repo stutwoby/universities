@@ -1,0 +1,23 @@
+{
+  "id": "university-of-konstanz",
+  "name": "University of Konstanz",
+  "shortName": "UK",
+  "web": "https://uni-konstanz.de",
+  "founded": "1966",
+  "approximatePopulaton": 11553,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    47.68941,
+    9.18688
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Konstanz",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

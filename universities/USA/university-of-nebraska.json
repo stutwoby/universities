@@ -1,0 +1,23 @@
+{
+  "id": "university-of-nebraska",
+  "name": "University of Nebraska",
+  "shortName": "Nebraska / UNL",
+  "web": "https://unl.edu",
+  "founded": "1869",
+  "approximatePopulaton": 24677,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.82019,
+    -96.70046
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Lincoln, NE",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

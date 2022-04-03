@@ -1,0 +1,23 @@
+{
+  "id": "national-central-university",
+  "name": "National Central University",
+  "shortName": "NCU",
+  "web": "https://ncu.edu.tw",
+  "founded": "1962",
+  "approximatePopulaton": 11233,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    24.96949,
+    121.19252
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Jhongli City, Taoyuan County, Taiwan province",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-alabama-birmingham",
+  "name": "University of Alabama Birmingham",
+  "shortName": "UAB",
+  "web": "https://uab.edu",
+  "founded": "1969",
+  "approximatePopulaton": 44731,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.50209,
+    -86.80646
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Birmingham",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

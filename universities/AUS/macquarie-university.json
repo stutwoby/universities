@@ -1,0 +1,23 @@
+{
+  "id": "macquarie-university",
+  "name": "Macquarie University",
+  "shortName": "MU",
+  "web": "https://mq.edu.au",
+  "founded": "1964",
+  "approximatePopulaton": 29835,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -33.77391,
+    151.11274
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Sydney, NSW",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

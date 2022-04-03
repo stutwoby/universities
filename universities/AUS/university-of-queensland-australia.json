@@ -1,0 +1,23 @@
+{
+  "id": "university-of-queensland-australia",
+  "name": "University of Queensland Australia",
+  "shortName": "UQ",
+  "web": "https://uq.edu.au",
+  "founded": "1909",
+  "approximatePopulaton": 40389,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -27.49541,
+    153.01204
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Brisbane, QLD",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

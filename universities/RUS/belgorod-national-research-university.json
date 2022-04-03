@@ -1,0 +1,23 @@
+{
+  "id": "belgorod-national-research-university",
+  "name": "Belgorod National Research University",
+  "shortName": "BelSU",
+  "web": "https://bsu.edu.ru/en",
+  "founded": "1876",
+  "approximatePopulaton": 12994,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    50.59414,
+    36.57728
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Belgorod",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

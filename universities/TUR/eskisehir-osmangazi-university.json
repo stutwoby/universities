@@ -1,0 +1,23 @@
+{
+  "id": "eskisehir-osmangazi-university",
+  "name": "Eskisehir Osmangazi University",
+  "shortName": "ESOGU",
+  "web": "https://ogu.edu.tr",
+  "founded": "1993",
+  "approximatePopulaton": 30533,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.75241,
+    30.49006
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUR",
+  "nearestCity": "Eskişehir, Turkey",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

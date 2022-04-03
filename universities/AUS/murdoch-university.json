@@ -1,0 +1,23 @@
+{
+  "id": "murdoch-university",
+  "name": "Murdoch University",
+  "shortName": "MU",
+  "web": "https://murdoch.edu.au",
+  "founded": "1975",
+  "approximatePopulaton": 15009,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -32.06802,
+    115.83588
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Perth, WA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

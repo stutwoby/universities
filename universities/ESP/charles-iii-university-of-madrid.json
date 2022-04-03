@@ -1,0 +1,23 @@
+{
+  "id": "charles-iii-university-of-madrid",
+  "name": "Charles III University of Madrid",
+  "shortName": "UC3M",
+  "web": "https://uc3m.es",
+  "founded": "1989",
+  "approximatePopulaton": 17652,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.31695,
+    -3.72708
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "ESP",
+  "nearestCity": "Getafe, Leganes and Colmenarejo, Madrid",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

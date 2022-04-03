@@ -1,0 +1,23 @@
+{
+  "id": "tokyo-institute-of-technology",
+  "name": "Tokyo Institute of Technology",
+  "shortName": "Tokyo Tech",
+  "web": "https://titech.ac.jp",
+  "founded": "1881",
+  "approximatePopulaton": 9566,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    35.60511,
+    139.68362
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "JPN",
+  "nearestCity": "Meguro Yokohama Tamachi, Tokyo Kanagawa",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "isfahan-university-of-technology",
+  "name": "Isfahan University of Technology",
+  "shortName": "IUT",
+  "web": "https://iut.ac.ir",
+  "founded": "1977",
+  "approximatePopulaton": 9373,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.72005,
+    51.53299
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRN",
+  "nearestCity": "Isfahan",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

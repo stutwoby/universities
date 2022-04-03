@@ -1,0 +1,23 @@
+{
+  "id": "wenzhou-university",
+  "name": "Wenzhou University",
+  "shortName": "WZU",
+  "web": "https://wzu.edu.cn",
+  "founded": "1984",
+  "approximatePopulaton": 15780,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    28.00767,
+    120.67636
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Wenzhou, Zhejiang, China",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

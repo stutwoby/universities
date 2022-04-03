@@ -1,0 +1,23 @@
+{
+  "id": "katholieke-universiteit-leuven-ku-leuven",
+  "name": "Katholieke Universiteit Leuven (KU Leuven)",
+  "shortName": "KU Leuven",
+  "web": "https://kuleuven.be",
+  "founded": "1970",
+  "approximatePopulaton": 45617,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    50.87793,
+    4.70031
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "BEL",
+  "nearestCity": "Leuven",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

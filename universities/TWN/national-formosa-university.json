@@ -1,0 +1,23 @@
+{
+  "id": "national-formosa-university",
+  "name": "National Formosa University",
+  "shortName": "NFU",
+  "web": "https://nfu.edu.tw",
+  "founded": "1980",
+  "approximatePopulaton": 10188,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    23.70311,
+    120.43016
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Yunlin County",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

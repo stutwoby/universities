@@ -1,0 +1,23 @@
+{
+  "id": "university-of-glasgow",
+  "name": "University of Glasgow",
+  "shortName": "UOG",
+  "web": "https://gla.ac.uk",
+  "founded": "1451",
+  "approximatePopulaton": 26355,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.87217,
+    -4.28831
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Glasgow, Scotland",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

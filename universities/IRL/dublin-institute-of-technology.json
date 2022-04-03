@@ -1,0 +1,23 @@
+{
+  "id": "dublin-institute-of-technology",
+  "name": "Dublin Institute of Technology",
+  "shortName": "DIT",
+  "web": "https://dit.ie",
+  "founded": "1992",
+  "approximatePopulaton": 20400,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.33852,
+    -6.26664
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRL",
+  "nearestCity": "Dublin, Co. Dublin",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-essex",
+  "name": "University of Essex",
+  "shortName": "UE",
+  "web": "https://essex.ac.uk",
+  "founded": "1965",
+  "approximatePopulaton": 13485,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.87772,
+    0.94723
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Colchester, Essex",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

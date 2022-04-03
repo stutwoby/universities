@@ -1,0 +1,23 @@
+{
+  "id": "university-of-bath",
+  "name": "University of Bath",
+  "shortName": "Ubath",
+  "web": "https://bath.ac.uk",
+  "founded": "1966",
+  "approximatePopulaton": 16140,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.37802,
+    -2.32735
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "Bath, Somerset, England",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "beijing-forestry-university",
+  "name": "Beijing Forestry University",
+  "shortName": "BJFU",
+  "web": "https://m.bjfu.edu",
+  "founded": "1952",
+  "approximatePopulaton": 19387,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.00521,
+    116.35006
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Haidian, Beijing",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "technical-university-of-moldova",
+  "name": "Technical University of Moldova",
+  "shortName": "TUM",
+  "web": "https://utm.md",
+  "founded": "1964",
+  "approximatePopulaton": 8428,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    47.03159,
+    28.82377
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "MDA",
+  "nearestCity": "Chisinau, Moldova",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

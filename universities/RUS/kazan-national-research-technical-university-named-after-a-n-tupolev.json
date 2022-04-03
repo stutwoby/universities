@@ -1,0 +1,23 @@
+{
+  "id": "kazan-national-research-technical-university-named-after-a-n-tupolev",
+  "name": "Kazan National Research Technical University named after A.N. Tupolev",
+  "shortName": "KNRTU-KAI",
+  "web": "https://kai.ru",
+  "founded": "1932",
+  "approximatePopulaton": 5892,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    55.79688,
+    49.11425
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Kazan",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

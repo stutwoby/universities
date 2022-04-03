@@ -1,0 +1,23 @@
+{
+  "id": "king-mongkuts-university-of-technology-thonburi",
+  "name": "King Mongkut`s University of Technology Thonburi",
+  "shortName": "KMUTT",
+  "web": "https://kmutt.ac.th",
+  "founded": "1960",
+  "approximatePopulaton": 16498,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    13.6517,
+    100.49496
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "THA",
+  "nearestCity": "Bangkok",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

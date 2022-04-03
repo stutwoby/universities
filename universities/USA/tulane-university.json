@@ -1,0 +1,23 @@
+{
+  "id": "tulane-university",
+  "name": "Tulane University",
+  "shortName": "TU",
+  "web": "https://tulane.edu",
+  "founded": "1834",
+  "approximatePopulaton": 11224,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    29.94035,
+    -90.12071
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "New Orleans, LA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "indiana-university",
+  "name": "Indiana University",
+  "shortName": "IU",
+  "web": "https://indiana.edu",
+  "founded": "1820",
+  "approximatePopulaton": 67054,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.17658,
+    -86.51304
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Bloomington, IN",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

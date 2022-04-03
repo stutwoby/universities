@@ -1,0 +1,23 @@
+{
+  "id": "william-mary",
+  "name": "William & Mary",
+  "shortName": "W&M",
+  "web": "https://wm.edu",
+  "founded": "1693",
+  "approximatePopulaton": 8278,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    37.27194,
+    -76.71349
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Williamsburg",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "swinburne-university-of-technology",
+  "name": "Swinburne University of Technology",
+  "shortName": "SUT",
+  "web": "https://swinburne.edu.au",
+  "founded": "1992",
+  "approximatePopulaton": 15604,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -37.82221,
+    145.03898
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Hawthorn, VIC",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

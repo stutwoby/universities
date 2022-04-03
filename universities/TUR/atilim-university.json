@@ -1,0 +1,23 @@
+{
+  "id": "atilim-university",
+  "name": "Atilim University",
+  "shortName": "AU",
+  "web": "https://atilim.edu.tr",
+  "founded": "1997",
+  "approximatePopulaton": 9385,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    39.81672,
+    32.72382
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TUR",
+  "nearestCity": "Ankara",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

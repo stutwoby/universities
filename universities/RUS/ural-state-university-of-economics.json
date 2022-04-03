@@ -1,0 +1,23 @@
+{
+  "id": "ural-state-university-of-economics",
+  "name": "Ural State University of Economics",
+  "shortName": "USUE",
+  "web": "https://usue.ru",
+  "founded": "1967",
+  "approximatePopulaton": 5230,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    56.82633,
+    60.6019
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "RUS",
+  "nearestCity": "Ekaterinburg, Sverdlovsk Oblast., Russia",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

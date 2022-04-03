@@ -1,0 +1,23 @@
+{
+  "id": "mahidol-university",
+  "name": "Mahidol University",
+  "shortName": "MU",
+  "web": "https://mahidol.ac.th",
+  "founded": "1943",
+  "approximatePopulaton": 29296,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    13.79456,
+    100.32325
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "THA",
+  "nearestCity": "Bangkok",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "national-dong-hwa-university",
+  "name": "National Dong Hwa University",
+  "shortName": "NDHU",
+  "web": "https://ndhu.edu.tw",
+  "founded": "1994",
+  "approximatePopulaton": 9928,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    23.89769,
+    121.54174
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "TWN",
+  "nearestCity": "Public (National)",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "san-diego-state-university",
+  "name": "San Diego State University",
+  "shortName": "SDSU / State",
+  "web": "https://sdsu.edu",
+  "founded": "1897",
+  "approximatePopulaton": 31109,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    32.77569,
+    -117.0719
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "San Diego, CA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

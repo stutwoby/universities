@@ -1,0 +1,23 @@
+{
+  "id": "university-of-new-brunswick",
+  "name": "University of New Brunswick",
+  "shortName": "UNB",
+  "web": "https://unb.ca",
+  "founded": "1785",
+  "approximatePopulaton": 8570,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    45.94564,
+    -66.6409
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Fredericton, NB",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

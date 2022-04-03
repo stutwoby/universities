@@ -1,0 +1,23 @@
+{
+  "id": "university-of-groningen",
+  "name": "University of Groningen",
+  "shortName": "UOG",
+  "web": "https://rug.nl",
+  "founded": "1614",
+  "approximatePopulaton": 28392,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    53.2193,
+    6.56292
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "NLD",
+  "nearestCity": "Groningen",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "university-of-thi-qar",
+  "name": "University of Thi-Qar",
+  "shortName": "TQU",
+  "web": "https://utq.edu.iq",
+  "founded": "2000",
+  "approximatePopulaton": 18840,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    31.05208,
+    46.21976
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Nasiriyah",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

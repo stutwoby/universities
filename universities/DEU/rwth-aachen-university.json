@@ -1,0 +1,23 @@
+{
+  "id": "rwth-aachen-university",
+  "name": "RWTH Aachen University",
+  "shortName": "RWTH Aachen ",
+  "web": "https://rwth-aachen.de",
+  "founded": "1870",
+  "approximatePopulaton": 45256,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    50.78008,
+    6.06572
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DEU",
+  "nearestCity": "Aachen, NRW",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "massachusetts-institute-of-technology-mit",
+  "name": "Massachusetts Institute of Technology (MIT)",
+  "shortName": "MIT",
+  "web": "https://mit.edu",
+  "founded": "1865",
+  "approximatePopulaton": 11276,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    42.36009,
+    -71.09415
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Cambridge, MA",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

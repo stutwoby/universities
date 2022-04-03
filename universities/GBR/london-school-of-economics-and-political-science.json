@@ -1,0 +1,23 @@
+{
+  "id": "london-school-of-economics-and-political-science",
+  "name": "London School of Economics and Political Science",
+  "shortName": "LSE",
+  "web": "https://lse.ac.uk",
+  "founded": "1895",
+  "approximatePopulaton": 10750,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    51.51442,
+    -0.11736
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "GBR",
+  "nearestCity": "London",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "laval-university",
+  "name": "Laval University",
+  "shortName": "LU",
+  "web": "https://ulaval.ca",
+  "founded": "1663",
+  "approximatePopulaton": 28855,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    46.78173,
+    -71.27475
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CAN",
+  "nearestCity": "Quebec, QC",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

@@ -1,0 +1,23 @@
+{
+  "id": "pohang-university-of-science-and-technology",
+  "name": "Pohang University of Science and Technology (POSTECH)",
+  "shortName": "POSTECH",
+  "web": "https://postech.ac.kr",
+  "founded": "1986",
+  "approximatePopulaton": 3034,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    36.01385,
+    129.32312
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "KOR",
+  "nearestCity": "Pohang, Gyeongbuk",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

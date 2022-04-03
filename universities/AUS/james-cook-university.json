@@ -1,0 +1,23 @@
+{
+  "id": "james-cook-university",
+  "name": "James Cook University",
+  "shortName": "JCU",
+  "web": "https://jcu.edu.au",
+  "founded": "1961",
+  "approximatePopulaton": 11198,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -19.32755,
+    146.75805
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "AUS",
+  "nearestCity": "Cairns",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

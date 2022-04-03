@@ -1,0 +1,23 @@
+{
+  "id": "aarhus-university",
+  "name": "Aarhus University",
+  "shortName": "AU",
+  "web": "https://au.dk/en",
+  "founded": "1928",
+  "approximatePopulaton": 26318,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    56.16813,
+    10.20296
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "DNK",
+  "nearestCity": "Aarhus",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

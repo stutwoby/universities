@@ -1,0 +1,23 @@
+{
+  "id": "massey-university",
+  "name": "Massey University",
+  "shortName": "MU",
+  "web": "https://massey.ac.nz",
+  "founded": "1927",
+  "approximatePopulaton": 18696,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    -40.38676,
+    175.61972
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "NZL",
+  "nearestCity": "Palmerston North, Auckland (Albany), Wellington",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

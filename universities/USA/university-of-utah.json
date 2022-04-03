@@ -1,0 +1,23 @@
+{
+  "id": "university-of-utah",
+  "name": "University of Utah",
+  "shortName": "U of U / Utah",
+  "web": "https://utah.edu",
+  "founded": "1850",
+  "approximatePopulaton": 30692,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.76484,
+    -111.84212
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "Salt Lake City, UT",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

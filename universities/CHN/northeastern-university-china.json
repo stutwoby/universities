@@ -1,0 +1,23 @@
+{
+  "id": "northeastern-university-china",
+  "name": "Northeastern University (China)",
+  "shortName": "NEU",
+  "web": "https://neu.edu.cn",
+  "founded": "1923",
+  "approximatePopulaton": 37339,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    41.76875,
+    123.41882
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CHN",
+  "nearestCity": "Shenyang",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

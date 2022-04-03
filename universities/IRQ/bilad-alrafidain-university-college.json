@@ -1,0 +1,23 @@
+{
+  "id": "bilad-alrafidain-university-college",
+  "name": "Bilad Alrafidain University College",
+  "shortName": "BAUC",
+  "web": "https://bauc14.edu.iq",
+  "founded": "2014",
+  "approximatePopulaton": 10622,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    33.77929,
+    44.60272
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "IRQ",
+  "nearestCity": "Baghdad, Iraq",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

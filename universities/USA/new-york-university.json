@@ -1,0 +1,23 @@
+{
+  "id": "new-york-university",
+  "name": "New York University",
+  "shortName": "NYU",
+  "web": "https://nyu.edu",
+  "founded": "1831",
+  "approximatePopulaton": 44474,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    40.72946,
+    -73.99648
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "USA",
+  "nearestCity": "New York, NY",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}

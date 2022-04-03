@@ -1,0 +1,23 @@
+{
+  "id": "brno-university-of-technology",
+  "name": "Brno University of Technology",
+  "shortName": "BUT/VUT",
+  "web": "https://vutbr.cz/en",
+  "founded": "1899",
+  "approximatePopulaton": 19589,
+  "normalisedRanking": null,
+  "modesOfStudy": [],
+  "coord": [
+    49.20172,
+    16.6033
+  ],
+  "campusType": null,
+  "region": null,
+  "countryIsoAlpha3": "CZE",
+  "nearestCity": "Brno",
+  "airports": [],
+  "weatherSummary": null,
+  "vibe": null,
+  "facts": [],
+  "campuses": []
+}
